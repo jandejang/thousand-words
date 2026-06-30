@@ -20,6 +20,7 @@
             </span>
           </div>
 
+          <Transition name="group-expand">
           <div v-if="expandedGroups.has(group.id)" class="grid" :style="{ 'grid-template-columns': `repeat(${columns}, 1fr)` }">
             <template v-for="(char, index) in group.chars" :key="char.id">
               <CharCell
@@ -38,6 +39,7 @@
               </Transition>
             </template>
           </div>
+          </Transition>
         </section>
       </div>
       <div class="safe-area-spacer"></div>
@@ -250,5 +252,31 @@ function isRowEnd(chars, index) {
 .expand-leave-from {
   opacity: 1;
   max-height: 400px;
+}
+
+.group-expand-enter-active {
+  transition: all 0.35s ease-out;
+  overflow: hidden;
+}
+
+.group-expand-leave-active {
+  transition: all 0.25s ease-in;
+  overflow: hidden;
+}
+
+.group-expand-enter-from {
+  opacity: 0;
+  max-height: 0;
+}
+
+.group-expand-leave-to {
+  opacity: 0;
+  max-height: 0;
+}
+
+.group-expand-enter-to,
+.group-expand-leave-from {
+  opacity: 1;
+  max-height: 2000px;
 }
 </style>
