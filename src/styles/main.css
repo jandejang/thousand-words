@@ -22,3 +22,31 @@ a {
 a:hover {
   opacity: 0.8;
 }
+
+/* Smooth transitions for theme changes */
+body * {
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+/* Ruby alignment fix for different browsers */
+ruby {
+  ruby-align: center;
+}
+
+rt {
+  font-size: 0.45em;
+}
+
+/* Scrollbar styling for dark theme */
+[data-theme="dark"] ::-webkit-scrollbar {
+  width: 8px;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-track {
+  background: #16213e;
+}
+
+[data-theme="dark"] ::-webkit-scrollbar-thumb {
+  background: #c4a36e;
+  border-radius: 4px;
+}

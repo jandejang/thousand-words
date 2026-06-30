@@ -5,6 +5,8 @@
     @mouseenter="hovered = true"
     @mouseleave="hovered = false"
     @click="$emit('select', char.id)"
+    @touchstart.passive="onTouchStart"
+    @touchend="onTouchEnd"
   >
     <div class="char-chars">
       <ruby v-for="(ch, i) in char.text" :key="i">
@@ -27,6 +29,21 @@ defineProps({
 defineEmits(['select'])
 
 const hovered = ref(false)
+
+let pressTimer = null
+
+function onTouchStart() {
+  pressTimer = setTimeout(() => {
+    hovered.value = true
+  }, 500)
+}
+
+function onTouchEnd() {
+  clearTimeout(pressTimer)
+  setTimeout(() => {
+    hovered.value = false
+  }, 2000)
+}
 </script>
 
 <style scoped>

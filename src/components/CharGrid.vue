@@ -12,12 +12,14 @@
           :show-meaning="isMobile"
           @select="toggleDetail"
         />
-        <div
-          v-if="isRowEnd(index)"
-          class="detail-row"
-        >
-          <CharDetail :char="selectedChar" />
-        </div>
+        <Transition name="expand">
+          <div
+            v-if="isRowEnd(index)"
+            class="detail-row"
+          >
+            <CharDetail :char="selectedChar" />
+          </div>
+        </Transition>
       </template>
     </div>
   </div>
@@ -111,5 +113,24 @@ function isRowEnd(index) {
 
 .detail-row {
   grid-column: 1 / -1;
+}
+
+.expand-enter-active,
+.expand-leave-active {
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.expand-enter-from,
+.expand-leave-to {
+  opacity: 0;
+  max-height: 0;
+  padding: 0;
+}
+
+.expand-enter-to,
+.expand-leave-from {
+  opacity: 1;
+  max-height: 400px;
 }
 </style>
