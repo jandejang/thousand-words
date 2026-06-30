@@ -5,8 +5,8 @@
     "source": "《易经·坤卦》文言",
     "sourceText": "夫玄黄者，天地之杂也，天玄而地黄。",
     "interpretation": "语出《易经》坤卦文言。古人观察天空呈青黑色，大地呈黄色，以此描述天地最基本的色彩特征，引申为宇宙初始的面貌。千字文以此开篇，总领全文。",
-    "image": null,
-    "imageSource": null
+    "image": "images/tianxuandihuang.jpg",
+    "imageSource": "Song era print artist | Wikimedia Commons (Public domain)"
   },
   {
     "id": "riyueyingze",
@@ -32,8 +32,8 @@
     "source": "《史记·律书》",
     "sourceText": "六律六吕，十二律也……律者，所以通气制度也。",
     "interpretation": "古代将音律分为六律（阳）六吕（阴），合称十二律。古人认为音律与天地阴阳之气相通，可以用来调和天时、校正历法。",
-    "image": null,
-    "imageSource": null
+    "image": "images/lvlvtiaoyang.jpg",
+    "imageSource": "Windmemories | Wikimedia Commons (CC BY-SA 4.0)"
   },
   {
     "id": "longshihuodi",
@@ -41,8 +41,8 @@
     "source": "上古帝王传说",
     "sourceText": "太皞以龙纪，故为龙师而龙名。炎帝以火纪，故为火师而火名。——《左传·昭公十七年》",
     "interpretation": "龙师指伏羲氏，因以龙为图腾而以龙命名百官；火帝指神农氏（炎帝），因以火德王天下而以火命名百官。千字文用此概述上古帝王开创文明的功业。",
-    "image": null,
-    "imageSource": null
+    "image": "images/longshihuodi.jpg",
+    "imageSource": "Unknown authorUnknown author | Wikimedia Commons (Public domain)"
   },
   {
     "id": "tuiweirangguo",
@@ -104,8 +104,8 @@
     "source": "姜太公垂钓与伊尹辅商",
     "sourceText": "吕尚盖尝穷困，年老矣，以渔钓奸周西伯。——《史记·齐太公世家》；伊尹名阿衡，欲奸汤而无由，乃为有莘氏媵臣，负鼎俎，以滋味说汤，致于王道。——《史记·殷本纪》",
     "interpretation": "磻溪指姜太公（吕尚）在渭水磻溪垂钓，年过七旬得遇周文王，辅佐灭商建周。伊尹原是有莘氏的陪嫁奴隶，以烹饪之道比喻治国之理，打动商汤而受重用，助商灭夏。两人都是出身卑微而终成辅国大才的典范。",
-    "image": null,
-    "imageSource": null
+    "image": "images/panxiyiyin.jpg",
+    "imageSource": "姜子牙画像 | Unknown authorUnknown author | Wikimedia Commons (Public domain)"
   },
   {
     "id": "yanzhaikufu",
@@ -140,8 +140,8 @@
     "source": "商山四皓辅汉惠帝",
     "sourceText": "上欲废太子，立戚夫人子赵王如意。……四人从太子，年皆八十有余，须眉皓白。——《史记·留侯世家》",
     "interpretation": "汉高祖刘邦欲废太子刘盈（后来的汉惠帝），改立戚夫人之子。张良献计请出隐居商山的四位高龄贤者（绮里季、东园公、夏黄公、甪里先生）辅佐太子。刘邦见太子已得高人辅佐，知其“羽翼已成”，遂打消废立之念。",
-    "image": null,
-    "imageSource": null
+    "image": "images/qihuihanhui.jpg",
+    "imageSource": "shizhao (talk)拍摄，画者不明 | Wikimedia Commons (Public domain)"
   },
   {
     "id": "yueganwuding",
@@ -203,8 +203,8 @@
     "source": "大禹治水划九州",
     "sourceText": "禹别九州，随山浚川，任土作贡。——《尚书·禹贡》",
     "interpretation": "大禹治水成功后，将天下划分为冀、兖、青、徐、扬、荆、豫、梁、雍九个州，并根据各地土质确定贡赋等级。“九州”此后成为中国的代称，“禹迹”则指大禹足迹所至之处，即华夏疆域。",
-    "image": null,
-    "imageSource": null
+    "image": "images/jiuzhouyuji.jpg",
+    "imageSource": "《禹贡九州图》 | User:Shibo77 | Wikimedia Commons (Public domain)"
   },
   {
     "id": "yuezongtaidai",
@@ -230,8 +230,8 @@
     "source": "孟子安贫乐道",
     "sourceText": "富贵不能淫，贫贱不能移，威武不能屈，此之谓大丈夫。——《孟子·滕文公下》",
     "interpretation": "孟子（名轲）一生笃行质朴的道德准则，倡导人应崇尚仁义、安贫乐道。他提出“大丈夫”的标准——不被富贵所迷惑，不被贫贱所动摇，不被武力所屈服，成为后世士人修身立德的精神坐标。",
-    "image": null,
-    "imageSource": null
+    "image": "images/mengkedunsu.jpg",
+    "imageSource": "元代《至圣先贤半身像》 | anonymous | Wikimedia Commons (Public domain)"
   },
   {
     "id": "shiyubingzhi",
@@ -266,8 +266,8 @@
     "source": "嵇康善琴、阮籍长啸",
     "sourceText": "嵇康善鼓琴，于刑场奏《广陵散》，曲终曰：'《广陵散》于今绝矣！'——《晋书·嵇康传》；籍嗜酒能啸，善弹琴。——《晋书·阮籍传》",
     "interpretation": "嵇康和阮籍同为“竹林七贤”的核心人物。嵇康精通琴艺，临刑前从容弹奏《广陵散》，成为千古绝响。阮籍擅长长啸（以口发出悠长激越的声音），以此抒发胸中愤懑与超然之情。两人都是魏晋名士风度的代表，以音声寄托不与世俗同流的志节。",
-    "image": null,
-    "imageSource": null
+    "image": "images/jiqinruanxiao.jpg",
+    "imageSource": "南京博物院藏南朝砖画 | Unknown authorUnknown author | Wikimedia Commons (Public domain)"
   },
   {
     "id": "tianbilunzhi",
@@ -293,7 +293,7 @@
     "source": "毛嫱、西施之美",
     "sourceText": "毛嫱、丽姬，人之所美也。——《庄子·齐物论》；越王……乃使范蠡与大夫种之女西施、郑旦饰以罗縠，教以容步，献于吴。——赵晔《吴越春秋》",
     "interpretation": "毛嫱和西施都是古代著名的美女。毛嫱是春秋时越国美人，《庄子》《管子》等先秦典籍多以她为美的典范。西施则是越王勾践献给吴王夫差的美人，后来成为中国“四大美女”之首。千字文用“毛施淑姿”赞美她们容貌的美好端庄。",
-    "image": null,
-    "imageSource": null
+    "image": "images/maoshishuzhi.jpg",
+    "imageSource": "中国古代仕女图 | Michael Kan | Wikimedia Commons (CC BY 2.0)"
   }
 ]

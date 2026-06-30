@@ -42,9 +42,17 @@ describe('AllusionPage', () => {
     expect(wrapper.find('.allusion-interpretation').text()).toContain('语出《易经》')
   })
 
-  it('hides image section when image is null', () => {
+  it('shows image section when image exists', () => {
     const wrapper = mount(AllusionPage, {
       props: { id: 'tianxuandihuang' },
+      global: { stubs },
+    })
+    expect(wrapper.find('.allusion-image').exists()).toBe(true)
+  })
+
+  it('hides image section when image is null', () => {
+    const wrapper = mount(AllusionPage, {
+      props: { id: 'hanlaishuwang' },
       global: { stubs },
     })
     expect(wrapper.find('.allusion-image').exists()).toBe(false)

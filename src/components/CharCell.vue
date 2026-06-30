@@ -8,7 +8,8 @@
     @touchstart.passive="onTouchStart"
     @touchend="onTouchEnd"
   >
-    <span v-if="char.allusionId" class="allusion-badge" title="有典故">典</span>
+    <span v-if="hasImage" class="cell-badge badge-image" title="有配图典故">图</span>
+    <span v-else-if="char.allusionId" class="cell-badge badge-allusion" title="有典故">典</span>
     <div class="char-chars">
       <ruby v-for="(ch, i) in char.text" :key="i">
         {{ ch }}<rt>{{ char.pinyin[i] }}</rt>
@@ -25,6 +26,7 @@ import { ref } from 'vue'
 defineProps({
   char: { type: Object, required: true },
   showMeaning: { type: Boolean, default: false },
+  hasImage: { type: Boolean, default: false },
 })
 
 defineEmits(['select'])
@@ -107,26 +109,35 @@ function onTouchEnd() {
   border-bottom: 5px solid var(--tooltip-bg);
 }
 
-.allusion-badge {
+.cell-badge {
   position: absolute;
   top: 4px;
   right: 4px;
   width: 18px;
   height: 18px;
   border-radius: 4px;
-  background: var(--accent);
-  color: var(--bg);
   font-size: 10px;
   font-family: "Noto Serif SC", serif;
   display: flex;
   align-items: center;
   justify-content: center;
-  opacity: 0.5;
+  opacity: 0.45;
   pointer-events: none;
 }
 
-.char-cell:hover .allusion-badge {
-  opacity: 0.8;
+.badge-image {
+  background: #b8860b;
+  color: #fff;
+}
+
+.badge-allusion {
+  background: var(--accent);
+  color: var(--bg);
+  opacity: 0.3;
+}
+
+.char-cell:hover .cell-badge {
+  opacity: 0.85;
 }
 
 .brief-meaning {

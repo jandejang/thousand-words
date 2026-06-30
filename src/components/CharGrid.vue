@@ -10,6 +10,7 @@
         <CharCell
           :char="char"
           :show-meaning="isMobile"
+          :has-image="imageAllusionIds.has(char.allusionId)"
           @select="toggleDetail"
         />
         <Transition name="expand">
@@ -31,6 +32,11 @@ import CharCell from './CharCell.vue'
 import CharDetail from './CharDetail.vue'
 import ThemeSwitch from './ThemeSwitch.vue'
 import charactersData from '../data/characters.json'
+import allusionsData from '../data/allusions.json'
+
+const imageAllusionIds = new Set(
+  allusionsData.filter(a => a.image).map(a => a.id)
+)
 
 const props = defineProps({
   characters: { type: Array, default: () => charactersData },
