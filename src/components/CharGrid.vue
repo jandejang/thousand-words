@@ -91,8 +91,6 @@ function isRowEnd(index) {
 .page {
   max-width: 780px;
   margin: 0 auto;
-  padding: 20px 16px 0;
-  padding-top: calc(20px + env(safe-area-inset-top, 0px));
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -103,7 +101,7 @@ function isRowEnd(index) {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 12px;
+  padding: calc(20px + env(safe-area-inset-top, 0px)) 16px 12px;
   border-bottom: 1px solid var(--border);
   flex-shrink: 0;
 }
@@ -121,13 +119,14 @@ function isRowEnd(index) {
   flex: 1;
   min-height: 0;
   overflow-y: auto;
+  overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
-  padding: 12px 0 max(16px, env(safe-area-inset-bottom, 16px));
 }
 
 .grid {
   display: grid;
   gap: 12px;
+  padding: 12px 16px max(16px, env(safe-area-inset-bottom, 16px));
 }
 
 .detail-row {
