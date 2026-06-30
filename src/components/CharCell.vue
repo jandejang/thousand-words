@@ -8,8 +8,10 @@
     @touchstart.passive="onTouchStart"
     @touchend="onTouchEnd"
   >
-    <span v-if="hasImage" class="cell-badge badge-image" title="有配图典故">图</span>
-    <span v-else-if="char.allusionId" class="cell-badge badge-allusion" title="有典故">典</span>
+    <div v-if="char.allusionId" class="badge-group">
+      <span class="cell-badge badge-allusion" title="有典故">典</span>
+      <span v-if="hasImage" class="cell-badge badge-image" title="有配图">图</span>
+    </div>
     <div class="char-chars">
       <ruby v-for="(ch, i) in char.text" :key="i">
         {{ ch }}<rt>{{ char.pinyin[i] }}</rt>
@@ -109,10 +111,16 @@ function onTouchEnd() {
   border-bottom: 5px solid var(--tooltip-bg);
 }
 
-.cell-badge {
+.badge-group {
   position: absolute;
   top: 4px;
   right: 4px;
+  display: flex;
+  gap: 2px;
+  pointer-events: none;
+}
+
+.cell-badge {
   width: 18px;
   height: 18px;
   border-radius: 4px;
@@ -121,19 +129,17 @@ function onTouchEnd() {
   display: flex;
   align-items: center;
   justify-content: center;
-  opacity: 0.45;
-  pointer-events: none;
-}
-
-.badge-image {
-  background: #b8860b;
-  color: #fff;
+  opacity: 0.4;
 }
 
 .badge-allusion {
   background: var(--accent);
   color: var(--bg);
-  opacity: 0.3;
+}
+
+.badge-image {
+  background: #b8860b;
+  color: #fff;
 }
 
 .char-cell:hover .cell-badge {
