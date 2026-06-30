@@ -54,8 +54,11 @@ function getImageUrl(path) {
 .allusion-page {
   max-width: 640px;
   margin: 0 auto;
-  padding: 24px 16px calc(24px + env(safe-area-inset-bottom, 0px));
-  min-height: 100vh;
+  padding: calc(24px + env(safe-area-inset-top, 0px)) 16px max(24px, env(safe-area-inset-bottom, 24px));
+  height: 100vh;
+  height: 100dvh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   background: var(--bg);
 }
 

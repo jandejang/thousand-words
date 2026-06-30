@@ -92,6 +92,7 @@ function isRowEnd(index) {
   max-width: 780px;
   margin: 0 auto;
   padding: 20px 16px 0;
+  padding-top: calc(20px + env(safe-area-inset-top, 0px));
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -118,9 +119,10 @@ function isRowEnd(index) {
 
 .grid-scroll {
   flex: 1;
+  min-height: 0;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
-  padding: 12px 0 calc(16px + env(safe-area-inset-bottom, 0px));
+  padding: 12px 0 max(16px, env(safe-area-inset-bottom, 16px));
 }
 
 .grid {
