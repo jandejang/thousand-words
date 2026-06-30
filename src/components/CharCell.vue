@@ -17,7 +17,7 @@
         {{ ch }}<rt>{{ char.pinyin[i] }}</rt>
       </ruby>
     </div>
-    <div v-if="hovered" class="tooltip">{{ char.briefMeaning }}</div>
+    <div v-if="hovered && !showMeaning" class="tooltip">{{ char.briefMeaning }}</div>
     <div v-if="showMeaning" class="brief-meaning">{{ char.briefMeaning }}</div>
   </div>
 </template>
@@ -87,17 +87,20 @@ function onTouchEnd() {
 
 .tooltip {
   position: absolute;
-  bottom: -30px;
+  bottom: -32px;
   left: 50%;
   transform: translateX(-50%);
-  background: var(--tooltip-bg);
-  color: var(--tooltip-text);
+  background: var(--subtle);
+  color: var(--text);
+  border: 1px solid var(--border);
   font-size: 12px;
   padding: 4px 12px;
-  border-radius: 4px;
+  border-radius: 6px;
   white-space: nowrap;
   z-index: 10;
   pointer-events: none;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
 }
 
 .tooltip::before {
@@ -108,7 +111,7 @@ function onTouchEnd() {
   transform: translateX(-50%);
   border-left: 5px solid transparent;
   border-right: 5px solid transparent;
-  border-bottom: 5px solid var(--tooltip-bg);
+  border-bottom: 5px solid var(--border);
 }
 
 .badge-group {
