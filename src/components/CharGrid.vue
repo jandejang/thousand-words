@@ -20,7 +20,13 @@
             </span>
           </div>
 
-          <Transition name="group-expand">
+          <Transition
+            @before-enter="onBeforeEnter"
+            @enter="onEnter"
+            @after-enter="onAfterEnter"
+            @before-leave="onBeforeLeave"
+            @leave="onLeave"
+          >
           <div v-if="expandedGroups.has(group.id)" class="grid" :style="{ 'grid-template-columns': `repeat(${columns}, 1fr)` }">
             <template v-for="(char, index) in group.chars" :key="char.id">
               <CharCell
@@ -107,6 +113,45 @@ const selectedChar = computed(() => {
 
 function toggleDetail(id) {
   selectedId.value = selectedId.value === id ? null : id
+}
+
+function onBeforeEnter(el) {
+  el.style.overflow = 'hidden'
+  el.style.height = '0'
+  el.style.opacity = '0'
+  el.style.paddingTop = '0'
+  el.style.paddingBottom = '0'
+}
+
+function onEnter(el, done) {
+  el.offsetHeight
+  el.style.transition = 'all 0.3s ease'
+  el.style.height = el.scrollHeight + 'px'
+  el.style.opacity = '1'
+  el.style.paddingTop = ''
+  el.style.paddingBottom = ''
+  el.addEventListener('transitionend', done, { once: true })
+}
+
+function onAfterEnter(el) {
+  el.style.height = ''
+  el.style.overflow = ''
+  el.style.transition = ''
+}
+
+function onBeforeLeave(el) {
+  el.style.height = el.scrollHeight + 'px'
+  el.style.overflow = 'hidden'
+  el.offsetHeight
+}
+
+function onLeave(el, done) {
+  el.style.transition = 'all 0.3s ease'
+  el.style.height = '0'
+  el.style.opacity = '0'
+  el.style.paddingTop = '0'
+  el.style.paddingBottom = '0'
+  el.addEventListener('transitionend', done, { once: true })
 }
 
 function isRowEnd(chars, index) {
@@ -254,29 +299,5 @@ function isRowEnd(chars, index) {
   max-height: 400px;
 }
 
-.group-expand-enter-active {
-  transition: all 0.35s ease-out;
-  overflow: hidden;
-}
 
-.group-expand-leave-active {
-  transition: all 0.25s ease-in;
-  overflow: hidden;
-}
-
-.group-expand-enter-from {
-  opacity: 0;
-  max-height: 0;
-}
-
-.group-expand-leave-to {
-  opacity: 0;
-  max-height: 0;
-}
-
-.group-expand-enter-to,
-.group-expand-leave-from {
-  opacity: 1;
-  max-height: 2000px;
-}
 </style>
