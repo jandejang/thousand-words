@@ -14,6 +14,9 @@
         :class="{ active: current === t.key }"
         @click="select(t.key)"
       >
+        <span class="theme-swatch" :style="{ background: t.bg, color: t.text, borderColor: t.accent }">
+          文
+        </span>
         {{ t.label }}
       </button>
     </div>
@@ -73,7 +76,9 @@ function select(key) {
 }
 
 .theme-option {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 10px;
   width: 100%;
   padding: 8px 16px;
   border: none;
@@ -84,6 +89,19 @@ function select(key) {
   border-radius: 6px;
   text-align: left;
   white-space: nowrap;
+}
+
+.theme-swatch {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  border: 1.5px solid;
+  font-size: 14px;
+  font-family: "Noto Serif SC", serif;
+  flex-shrink: 0;
 }
 
 .theme-option:hover {

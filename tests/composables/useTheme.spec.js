@@ -38,12 +38,15 @@ describe('useTheme', () => {
     expect(document.documentElement.getAttribute('data-theme')).toBe('ink')
   })
 
-  it('exposes all three theme options', () => {
+  it('exposes all three theme options with colors', () => {
     const { themes } = useTheme()
-    expect(themes).toEqual([
-      { key: 'paper', label: '宣纸' },
-      { key: 'ink', label: '水墨' },
-      { key: 'dark', label: '古卷' },
-    ])
+    expect(themes).toHaveLength(3)
+    expect(themes.map(t => t.key)).toEqual(['paper', 'ink', 'dark'])
+    expect(themes.map(t => t.label)).toEqual(['宣纸', '水墨', '古卷'])
+    for (const t of themes) {
+      expect(t).toHaveProperty('bg')
+      expect(t).toHaveProperty('text')
+      expect(t).toHaveProperty('accent')
+    }
   })
 })

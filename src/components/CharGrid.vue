@@ -85,7 +85,7 @@ function isRowEnd(index) {
 .page {
   max-width: 780px;
   margin: 0 auto;
-  padding: 20px 16px;
+  padding: 20px 16px calc(20px + env(safe-area-inset-bottom, 0px));
 }
 
 .page-header {
