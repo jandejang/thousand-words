@@ -75,13 +75,11 @@ const groupedData = computed(() => {
 })
 
 function toggleGroup(groupId) {
-  const next = new Set(expandedGroups.value)
-  if (next.has(groupId)) {
-    next.delete(groupId)
+  if (expandedGroups.value.has(groupId)) {
+    expandedGroups.value = new Set()
   } else {
-    next.add(groupId)
+    expandedGroups.value = new Set([groupId])
   }
-  expandedGroups.value = next
   selectedId.value = null
 }
 
@@ -218,6 +216,12 @@ function isRowEnd(chars, index) {
   display: grid;
   gap: 12px;
   padding: 12px 0;
+}
+
+@media (max-width: 519px) {
+  .grid {
+    gap: 4px;
+  }
 }
 
 .safe-area-spacer {

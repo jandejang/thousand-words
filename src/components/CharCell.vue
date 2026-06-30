@@ -156,4 +156,38 @@ function onTouchEnd() {
   margin-top: 4px;
   opacity: 0.7;
 }
+
+@media (max-width: 519px) {
+  .char-cell {
+    padding: 8px 2px;
+  }
+
+  .char-chars {
+    gap: 4px;
+  }
+
+  .char-chars ruby {
+    font-size: 22px;
+  }
+
+  .char-chars rt {
+    font-size: 9px;
+  }
+
+  .brief-meaning {
+    font-size: 10px;
+    margin-top: 2px;
+  }
+
+  .badge-group {
+    top: 2px;
+    right: 1px;
+  }
+
+  .cell-badge {
+    width: 14px;
+    height: 14px;
+    font-size: 8px;
+  }
+}
 </style>
