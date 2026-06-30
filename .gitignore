@@ -1,3 +1,21 @@
 node_modules
 dist
 .superpowers
+
+# 敏感文件
+.env
+.env.*
+*.pem
+*.key
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Claude / 工具链
+CLAUDE.md
+
+# 项目元数据（设计文档、规划等）
+docs/
+tests/
+千字文.md
