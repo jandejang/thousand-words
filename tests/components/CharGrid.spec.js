@@ -36,7 +36,7 @@ const mockChars = [
 const stubs = {
   CharCell: {
     template: '<div class="char-cell-stub" @click="$emit(\'select\', char.id)">{{ char.text }}</div>',
-    props: ['char', 'showMeaning'],
+    props: ['char', 'showMeaning', 'hasImage'],
     emits: ['select'],
   },
   CharDetail: {

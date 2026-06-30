@@ -1,0 +1,114 @@
+[
+  {
+    "id": "cosmos",
+    "title": "天地自然",
+    "subtitle": "宇宙、天象、四季、物候",
+    "startId": 1,
+    "endId": 8
+  },
+  {
+    "id": "nature",
+    "title": "山川万物",
+    "subtitle": "山水、矿藏、珍宝、果蔬、鸟兽",
+    "startId": 9,
+    "endId": 18
+  },
+  {
+    "id": "ancient-kings",
+    "title": "上古圣治",
+    "subtitle": "三皇五帝、文字衣裳、禅让征伐、王道教化",
+    "startId": 19,
+    "endId": 36
+  },
+  {
+    "id": "body-virtue",
+    "title": "身心修养",
+    "subtitle": "身体发肤、贞洁才良、知过改善",
+    "startId": 37,
+    "endId": 48
+  },
+  {
+    "id": "morality",
+    "title": "德行操守",
+    "subtitle": "墨子悲丝、景行维贤、德名形表",
+    "startId": 49,
+    "endId": 60
+  },
+  {
+    "id": "loyalty",
+    "title": "忠孝节义",
+    "subtitle": "事君事亲、忠孝两全、临深履薄",
+    "startId": 61,
+    "endId": 80
+  },
+  {
+    "id": "relations",
+    "title": "人伦礼制",
+    "subtitle": "礼乐尊卑、夫妇家庭、兄弟交友",
+    "startId": 81,
+    "endId": 96
+  },
+  {
+    "id": "inner-peace",
+    "title": "性情修持",
+    "subtitle": "性静情逸、守真志满、坚持雅操",
+    "startId": 97,
+    "endId": 102
+  },
+  {
+    "id": "capital",
+    "title": "京都盛况",
+    "subtitle": "东西二京、宫殿楼观、典章文物",
+    "startId": 103,
+    "endId": 132
+  },
+  {
+    "id": "ministers",
+    "title": "名臣武将",
+    "subtitle": "磻溪伊尹、桓公匡合、起翦颇牧",
+    "startId": 133,
+    "endId": 152
+  },
+  {
+    "id": "geography",
+    "title": "九州山川",
+    "subtitle": "禹迹九州、五岳名胜、雄关大泽",
+    "startId": 153,
+    "endId": 162
+  },
+  {
+    "id": "agriculture",
+    "title": "农耕劝学",
+    "subtitle": "治本于农、税赋赏罚、孟轲史鱼",
+    "startId": 163,
+    "endId": 182
+  },
+  {
+    "id": "retreat",
+    "title": "隐逸自然",
+    "subtitle": "索居闲处、求古寻论、花木四时",
+    "startId": 183,
+    "endId": 196
+  },
+  {
+    "id": "daily-life",
+    "title": "居家日常",
+    "subtitle": "饮食起居、宴饮歌乐、祭祀礼仪",
+    "startId": 197,
+    "endId": 228
+  },
+  {
+    "id": "arts",
+    "title": "才艺技巧",
+    "subtitle": "布射僚丸、嵇琴阮啸、恬笔伦纸",
+    "startId": 229,
+    "endId": 236
+  },
+  {
+    "id": "epilogue",
+    "title": "感悟收篇",
+    "subtitle": "光阴流逝、庙堂自持、谦逊结语",
+    "startId": 237,
+    "endId": 250
+  }
+]
