@@ -89,8 +89,6 @@ function isRowEnd(index) {
 
 <style scoped>
 .page {
-  max-width: 780px;
-  margin: 0 auto;
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -101,6 +99,9 @@ function isRowEnd(index) {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  max-width: 780px;
+  width: 100%;
+  margin: 0 auto;
   padding: calc(20px + env(safe-area-inset-top, 0px)) 16px 12px;
   border-bottom: 1px solid var(--border);
   flex-shrink: 0;
@@ -126,6 +127,9 @@ function isRowEnd(index) {
 .grid {
   display: grid;
   gap: 12px;
+  max-width: 780px;
+  margin: 0 auto;
+  width: 100%;
   padding: 12px 16px max(16px, env(safe-area-inset-bottom, 16px));
 }
 
