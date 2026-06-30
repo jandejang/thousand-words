@@ -5,7 +5,8 @@
       <ThemeSwitch />
     </header>
 
-    <div class="grid" :style="{ 'grid-template-columns': `repeat(${columns}, 1fr)` }">
+    <div class="grid-scroll">
+      <div class="grid" :style="{ 'grid-template-columns': `repeat(${columns}, 1fr)` }">
       <template v-for="(char, index) in characters" :key="char.id">
         <CharCell
           :char="char"
@@ -22,6 +23,7 @@
           </div>
         </Transition>
       </template>
+      </div>
     </div>
   </div>
 </template>
@@ -48,9 +50,7 @@ const isMobile = ref(false)
 
 function updateLayout() {
   const w = window.innerWidth
-  if (w < 360) {
-    columns.value = 1
-  } else if (w < 520) {
+  if (w < 520) {
     columns.value = 2
   } else {
     columns.value = 4
@@ -91,16 +91,20 @@ function isRowEnd(index) {
 .page {
   max-width: 780px;
   margin: 0 auto;
-  padding: 20px 16px calc(20px + env(safe-area-inset-bottom, 0px));
+  padding: 20px 16px 0;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  height: 100dvh;
 }
 
 .page-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 24px;
   padding-bottom: 12px;
   border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
 }
 
 .page-title {
@@ -110,6 +114,13 @@ function isRowEnd(index) {
   letter-spacing: 6px;
   margin: 0;
   font-weight: 400;
+}
+
+.grid-scroll {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  padding: 12px 0 calc(16px + env(safe-area-inset-bottom, 0px));
 }
 
 .grid {
