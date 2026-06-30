@@ -3,8 +3,8 @@ import characters from '../../src/data/characters.json'
 import allusions from '../../src/data/allusions.json'
 
 describe('characters.json', () => {
-  it('has 8 entries (sample dataset)', () => {
-    expect(characters.length).toBeGreaterThanOrEqual(8)
+  it('has 250 entries', () => {
+    expect(characters).toHaveLength(250)
   })
 
   it('each entry has required fields', () => {

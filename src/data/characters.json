@@ -2,13 +2,30 @@
   {
     "id": 1,
     "text": "天地玄黄",
-    "pinyin": ["tiān", "dì", "xuán", "huáng"],
+    "pinyin": [
+      "tiān",
+      "dì",
+      "xuán",
+      "huáng"
+    ],
     "briefMeaning": "天是青黑色的，地是黄色的",
     "charAnnotations": [
-      { "char": "天", "meaning": "天空" },
-      { "char": "地", "meaning": "大地" },
-      { "char": "玄", "meaning": "青黑色，深远" },
-      { "char": "黄", "meaning": "黄色" }
+      {
+        "char": "天",
+        "meaning": "天空"
+      },
+      {
+        "char": "地",
+        "meaning": "大地"
+      },
+      {
+        "char": "玄",
+        "meaning": "青黑色，深远"
+      },
+      {
+        "char": "黄",
+        "meaning": "黄色"
+      }
     ],
     "fullExplanation": "天的颜色是青黑的，地的颜色是黄的。开篇以天地的色彩起笔，引出宇宙万物的宏大叙事。",
     "allusionId": "tianxuandihuang"
@@ -16,13 +33,30 @@
   {
     "id": 2,
     "text": "宇宙洪荒",
-    "pinyin": ["yǔ", "zhòu", "hóng", "huāng"],
+    "pinyin": [
+      "yǔ",
+      "zhòu",
+      "hóng",
+      "huāng"
+    ],
     "briefMeaning": "宇宙广阔无边，混沌蒙昧",
     "charAnnotations": [
-      { "char": "宇", "meaning": "上下四方的空间" },
-      { "char": "宙", "meaning": "古往今来的时间" },
-      { "char": "洪", "meaning": "大，广大" },
-      { "char": "荒", "meaning": "荒远，蒙昧" }
+      {
+        "char": "宇",
+        "meaning": "上下四方的空间"
+      },
+      {
+        "char": "宙",
+        "meaning": "古往今来的时间"
+      },
+      {
+        "char": "洪",
+        "meaning": "大，广大"
+      },
+      {
+        "char": "荒",
+        "meaning": "荒远，蒙昧"
+      }
     ],
     "fullExplanation": "宇宙广袤无边，远古时代混沌蒙昧。「宇」指空间，「宙」指时间，合称涵盖一切时空。",
     "allusionId": null
@@ -30,13 +64,30 @@
   {
     "id": 3,
     "text": "日月盈昃",
-    "pinyin": ["rì", "yuè", "yíng", "zè"],
+    "pinyin": [
+      "rì",
+      "yuè",
+      "yíng",
+      "zè"
+    ],
     "briefMeaning": "太阳到了正午就偏西，月亮圆了就会亏缺",
     "charAnnotations": [
-      { "char": "日", "meaning": "太阳" },
-      { "char": "月", "meaning": "月亮" },
-      { "char": "盈", "meaning": "满，盈满" },
-      { "char": "昃", "meaning": "太阳偏西" }
+      {
+        "char": "日",
+        "meaning": "太阳"
+      },
+      {
+        "char": "月",
+        "meaning": "月亮"
+      },
+      {
+        "char": "盈",
+        "meaning": "满，盈满"
+      },
+      {
+        "char": "昃",
+        "meaning": "太阳偏西"
+      }
     ],
     "fullExplanation": "太阳到了正午就会偏西，月亮盈满之后就会亏缺。说明自然事物盛极必衰的规律。",
     "allusionId": "riyueyingze"
@@ -44,13 +95,30 @@
   {
     "id": 4,
     "text": "辰宿列张",
-    "pinyin": ["chén", "xiù", "liè", "zhāng"],
+    "pinyin": [
+      "chén",
+      "xiù",
+      "liè",
+      "zhāng"
+    ],
     "briefMeaning": "星辰布满天空",
     "charAnnotations": [
-      { "char": "辰", "meaning": "星辰，日月星的总称" },
-      { "char": "宿", "meaning": "星宿，二十八宿" },
-      { "char": "列", "meaning": "排列，陈列" },
-      { "char": "张", "meaning": "展开，布满" }
+      {
+        "char": "辰",
+        "meaning": "星辰，日月星的总称"
+      },
+      {
+        "char": "宿",
+        "meaning": "星宿，二十八宿"
+      },
+      {
+        "char": "列",
+        "meaning": "排列，陈列"
+      },
+      {
+        "char": "张",
+        "meaning": "展开，布满"
+      }
     ],
     "fullExplanation": "星辰在天空中排列展布。古人将天空星星分为二十八宿，各有分布。",
     "allusionId": null
@@ -58,13 +126,30 @@
   {
     "id": 5,
     "text": "寒来暑往",
-    "pinyin": ["hán", "lái", "shǔ", "wǎng"],
+    "pinyin": [
+      "hán",
+      "lái",
+      "shǔ",
+      "wǎng"
+    ],
     "briefMeaning": "寒冬到来，暑夏过去",
     "charAnnotations": [
-      { "char": "寒", "meaning": "寒冷" },
-      { "char": "来", "meaning": "到来" },
-      { "char": "暑", "meaning": "炎热" },
-      { "char": "往", "meaning": "过去" }
+      {
+        "char": "寒",
+        "meaning": "寒冷"
+      },
+      {
+        "char": "来",
+        "meaning": "到来"
+      },
+      {
+        "char": "暑",
+        "meaning": "炎热"
+      },
+      {
+        "char": "往",
+        "meaning": "过去"
+      }
     ],
     "fullExplanation": "寒冬来临，暑夏过去，四季交替循环不息。语出《易经·系辞》。",
     "allusionId": "hanlaishuwang"
@@ -72,13 +157,30 @@
   {
     "id": 6,
     "text": "秋收冬藏",
-    "pinyin": ["qiū", "shōu", "dōng", "cáng"],
+    "pinyin": [
+      "qiū",
+      "shōu",
+      "dōng",
+      "cáng"
+    ],
     "briefMeaning": "秋天收获，冬天储藏",
     "charAnnotations": [
-      { "char": "秋", "meaning": "秋季" },
-      { "char": "收", "meaning": "收获" },
-      { "char": "冬", "meaning": "冬季" },
-      { "char": "藏", "meaning": "储藏" }
+      {
+        "char": "秋",
+        "meaning": "秋季"
+      },
+      {
+        "char": "收",
+        "meaning": "收获"
+      },
+      {
+        "char": "冬",
+        "meaning": "冬季"
+      },
+      {
+        "char": "藏",
+        "meaning": "储藏"
+      }
     ],
     "fullExplanation": "秋天收获庄稼，冬天储藏粮食。与春生夏长合称「春生夏长，秋收冬藏」，是古代农业社会的基本规律。",
     "allusionId": null
@@ -86,13 +188,30 @@
   {
     "id": 7,
     "text": "闰余成岁",
-    "pinyin": ["rùn", "yú", "chéng", "suì"],
+    "pinyin": [
+      "rùn",
+      "yú",
+      "chéng",
+      "suì"
+    ],
     "briefMeaning": "积累闰月凑成一年",
     "charAnnotations": [
-      { "char": "闰", "meaning": "闰月" },
-      { "char": "余", "meaning": "多余的" },
-      { "char": "成", "meaning": "凑成" },
-      { "char": "岁", "meaning": "一年" }
+      {
+        "char": "闰",
+        "meaning": "闰月"
+      },
+      {
+        "char": "余",
+        "meaning": "多余的"
+      },
+      {
+        "char": "成",
+        "meaning": "凑成"
+      },
+      {
+        "char": "岁",
+        "meaning": "一年"
+      }
     ],
     "fullExplanation": "农历与太阳年有差异，积累多余的天数设置闰月来调整，使历法与天时吻合。",
     "allusionId": null
@@ -100,15 +219,7534 @@
   {
     "id": 8,
     "text": "律吕调阳",
-    "pinyin": ["lǜ", "lǚ", "tiáo", "yáng"],
+    "pinyin": [
+      "lǜ",
+      "lǚ",
+      "tiáo",
+      "yáng"
+    ],
     "briefMeaning": "用音律来调和阴阳",
     "charAnnotations": [
-      { "char": "律", "meaning": "六律，阳律" },
-      { "char": "吕", "meaning": "六吕，阴律" },
-      { "char": "调", "meaning": "调和" },
-      { "char": "阳", "meaning": "阴阳" }
+      {
+        "char": "律",
+        "meaning": "六律，阳律"
+      },
+      {
+        "char": "吕",
+        "meaning": "六吕，阴律"
+      },
+      {
+        "char": "调",
+        "meaning": "调和"
+      },
+      {
+        "char": "阳",
+        "meaning": "阴阳"
+      }
     ],
     "fullExplanation": "古人用六律六吕十二音律来调和阴阳，认为音乐与天地之气相通。",
     "allusionId": "lvlvtiaoyang"
+  },
+  {
+    "id": 9,
+    "text": "云腾致雨",
+    "pinyin": [
+      "yún",
+      "téng",
+      "zhì",
+      "yǔ"
+    ],
+    "briefMeaning": "云气升腾带来雨水",
+    "charAnnotations": [
+      {
+        "char": "云",
+        "meaning": "云彩"
+      },
+      {
+        "char": "腾",
+        "meaning": "升腾，上升"
+      },
+      {
+        "char": "致",
+        "meaning": "招致，带来"
+      },
+      {
+        "char": "雨",
+        "meaning": "雨水"
+      }
+    ],
+    "fullExplanation": "云气蒸腾上升就会降下雨水。描写自然界中水汽循环的现象。",
+    "allusionId": null
+  },
+  {
+    "id": 10,
+    "text": "露结为霜",
+    "pinyin": [
+      "lù",
+      "jié",
+      "wéi",
+      "shuāng"
+    ],
+    "briefMeaning": "露水凝结就变成了霜",
+    "charAnnotations": [
+      {
+        "char": "露",
+        "meaning": "露水"
+      },
+      {
+        "char": "结",
+        "meaning": "凝结"
+      },
+      {
+        "char": "为",
+        "meaning": "变成"
+      },
+      {
+        "char": "霜",
+        "meaning": "霜"
+      }
+    ],
+    "fullExplanation": "露珠凝结就会化为白霜。与上句合为一对，描写天地间云雨霜露的气候变化。",
+    "allusionId": null
+  },
+  {
+    "id": 11,
+    "text": "金生丽水",
+    "pinyin": [
+      "jīn",
+      "shēng",
+      "lì",
+      "shuǐ"
+    ],
+    "briefMeaning": "黄金产自丽水",
+    "charAnnotations": [
+      {
+        "char": "金",
+        "meaning": "黄金"
+      },
+      {
+        "char": "生",
+        "meaning": "出产"
+      },
+      {
+        "char": "丽",
+        "meaning": "丽水，河流名"
+      },
+      {
+        "char": "水",
+        "meaning": "水，河流"
+      }
+    ],
+    "fullExplanation": "黄金产自丽水一带。古人认为丽水（金沙江）出产黄金，此处列举天下珍宝的产地。",
+    "allusionId": null
+  },
+  {
+    "id": 12,
+    "text": "玉出昆冈",
+    "pinyin": [
+      "yù",
+      "chū",
+      "kūn",
+      "gāng"
+    ],
+    "briefMeaning": "美玉出自昆仑山",
+    "charAnnotations": [
+      {
+        "char": "玉",
+        "meaning": "美玉"
+      },
+      {
+        "char": "出",
+        "meaning": "出产"
+      },
+      {
+        "char": "昆",
+        "meaning": "昆仑"
+      },
+      {
+        "char": "冈",
+        "meaning": "山冈，山脊"
+      }
+    ],
+    "fullExplanation": "美玉出产于昆仑山冈。昆仑山自古以产美玉闻名，与上句并举金玉之珍。",
+    "allusionId": null
+  },
+  {
+    "id": 13,
+    "text": "剑号巨阙",
+    "pinyin": [
+      "jiàn",
+      "hào",
+      "jù",
+      "què"
+    ],
+    "briefMeaning": "宝剑中有名为巨阙的",
+    "charAnnotations": [
+      {
+        "char": "剑",
+        "meaning": "宝剑"
+      },
+      {
+        "char": "号",
+        "meaning": "名号，称为"
+      },
+      {
+        "char": "巨",
+        "meaning": "巨大"
+      },
+      {
+        "char": "阙",
+        "meaning": "阙，巨阙为古代名剑"
+      }
+    ],
+    "fullExplanation": "宝剑中最著名的称为巨阙。巨阙是古代名剑，相传为欧冶子所铸。",
+    "allusionId": null
+  },
+  {
+    "id": 14,
+    "text": "珠称夜光",
+    "pinyin": [
+      "zhū",
+      "chēng",
+      "yè",
+      "guāng"
+    ],
+    "briefMeaning": "珍珠中有名为夜光的",
+    "charAnnotations": [
+      {
+        "char": "珠",
+        "meaning": "珍珠"
+      },
+      {
+        "char": "称",
+        "meaning": "称为，叫做"
+      },
+      {
+        "char": "夜",
+        "meaning": "夜晚"
+      },
+      {
+        "char": "光",
+        "meaning": "光亮，夜光珠"
+      }
+    ],
+    "fullExplanation": "珍珠中最著名的称为夜光珠。夜光珠能在夜间发出光芒，是传说中的稀世珍宝。",
+    "allusionId": null
+  },
+  {
+    "id": 15,
+    "text": "果珍李柰",
+    "pinyin": [
+      "guǒ",
+      "zhēn",
+      "lǐ",
+      "nài"
+    ],
+    "briefMeaning": "水果中珍贵的有李子和柰",
+    "charAnnotations": [
+      {
+        "char": "果",
+        "meaning": "水果"
+      },
+      {
+        "char": "珍",
+        "meaning": "珍贵"
+      },
+      {
+        "char": "李",
+        "meaning": "李子"
+      },
+      {
+        "char": "柰",
+        "meaning": "柰，沙果，似苹果"
+      }
+    ],
+    "fullExplanation": "水果中以李子和柰最为珍贵。柰是一种古代果树，果实类似于苹果。",
+    "allusionId": null
+  },
+  {
+    "id": 16,
+    "text": "菜重芥姜",
+    "pinyin": [
+      "cài",
+      "zhòng",
+      "jiè",
+      "jiāng"
+    ],
+    "briefMeaning": "蔬菜中重要的有芥菜和姜",
+    "charAnnotations": [
+      {
+        "char": "菜",
+        "meaning": "蔬菜"
+      },
+      {
+        "char": "重",
+        "meaning": "看重，重视"
+      },
+      {
+        "char": "芥",
+        "meaning": "芥菜"
+      },
+      {
+        "char": "姜",
+        "meaning": "生姜"
+      }
+    ],
+    "fullExplanation": "蔬菜中以芥菜和姜最被看重。芥菜和姜都是古代常见的重要蔬菜和调料。",
+    "allusionId": null
+  },
+  {
+    "id": 17,
+    "text": "海咸河淡",
+    "pinyin": [
+      "hǎi",
+      "xián",
+      "hé",
+      "dàn"
+    ],
+    "briefMeaning": "海水是咸的，河水是淡的",
+    "charAnnotations": [
+      {
+        "char": "海",
+        "meaning": "大海"
+      },
+      {
+        "char": "咸",
+        "meaning": "咸的"
+      },
+      {
+        "char": "河",
+        "meaning": "河流"
+      },
+      {
+        "char": "淡",
+        "meaning": "清淡"
+      }
+    ],
+    "fullExplanation": "海水是咸的，河水是淡的。以简洁的对比描述自然界水域的基本特征。",
+    "allusionId": null
+  },
+  {
+    "id": 18,
+    "text": "鳞潜羽翔",
+    "pinyin": [
+      "lín",
+      "qián",
+      "yǔ",
+      "xiáng"
+    ],
+    "briefMeaning": "鱼在水中潜游，鸟在天空飞翔",
+    "charAnnotations": [
+      {
+        "char": "鳞",
+        "meaning": "鳞片，代指鱼类"
+      },
+      {
+        "char": "潜",
+        "meaning": "潜游"
+      },
+      {
+        "char": "羽",
+        "meaning": "羽毛，代指鸟类"
+      },
+      {
+        "char": "翔",
+        "meaning": "翱翔"
+      }
+    ],
+    "fullExplanation": "鱼类在水中潜游，鸟类在天空翱翔。以「鳞」代鱼、「羽」代鸟，描绘动物各得其所的自然景象。",
+    "allusionId": null
+  },
+  {
+    "id": 19,
+    "text": "龙师火帝",
+    "pinyin": [
+      "lóng",
+      "shī",
+      "huǒ",
+      "dì"
+    ],
+    "briefMeaning": "伏羲以龙为师，神农以火为号",
+    "charAnnotations": [
+      {
+        "char": "龙",
+        "meaning": "龙，伏羲以龙纪官"
+      },
+      {
+        "char": "师",
+        "meaning": "官名，百官之长"
+      },
+      {
+        "char": "火",
+        "meaning": "火，炎帝以火德王"
+      },
+      {
+        "char": "帝",
+        "meaning": "帝王"
+      }
+    ],
+    "fullExplanation": "伏羲氏以龙纪官，称龙师；神农氏以火德王天下，称火帝。上古帝王各以不同图腾命名百官。",
+    "allusionId": "longshihuodi"
+  },
+  {
+    "id": 20,
+    "text": "鸟官人皇",
+    "pinyin": [
+      "niǎo",
+      "guān",
+      "rén",
+      "huáng"
+    ],
+    "briefMeaning": "少昊以鸟名官，人皇治理天下",
+    "charAnnotations": [
+      {
+        "char": "鸟",
+        "meaning": "鸟，少昊以鸟纪官"
+      },
+      {
+        "char": "官",
+        "meaning": "官职"
+      },
+      {
+        "char": "人",
+        "meaning": "人类"
+      },
+      {
+        "char": "皇",
+        "meaning": "皇，三皇之一"
+      }
+    ],
+    "fullExplanation": "少昊氏以鸟命名官职，人皇氏治理人间。与上句合述上古帝王的纪官制度和治理方式。",
+    "allusionId": null
+  },
+  {
+    "id": 21,
+    "text": "始制文字",
+    "pinyin": [
+      "shǐ",
+      "zhì",
+      "wén",
+      "zì"
+    ],
+    "briefMeaning": "开始创造了文字",
+    "charAnnotations": [
+      {
+        "char": "始",
+        "meaning": "开始"
+      },
+      {
+        "char": "制",
+        "meaning": "创制"
+      },
+      {
+        "char": "文",
+        "meaning": "文章，纹理"
+      },
+      {
+        "char": "字",
+        "meaning": "文字"
+      }
+    ],
+    "fullExplanation": "仓颉开始创造文字。相传黄帝时代的史官仓颉观察鸟兽足迹，受启发而造字。",
+    "allusionId": null
+  },
+  {
+    "id": 22,
+    "text": "乃服衣裳",
+    "pinyin": [
+      "nǎi",
+      "fú",
+      "yī",
+      "cháng"
+    ],
+    "briefMeaning": "于是人们穿上了衣裳",
+    "charAnnotations": [
+      {
+        "char": "乃",
+        "meaning": "于是，就"
+      },
+      {
+        "char": "服",
+        "meaning": "穿着"
+      },
+      {
+        "char": "衣",
+        "meaning": "上衣"
+      },
+      {
+        "char": "裳",
+        "meaning": "下裳，裙裤"
+      }
+    ],
+    "fullExplanation": "于是人们开始穿上衣裳。相传黄帝之妻嫘祖发明养蚕织丝，人类从此有了衣裳之制。",
+    "allusionId": null
+  },
+  {
+    "id": 23,
+    "text": "推位让国",
+    "pinyin": [
+      "tuī",
+      "wèi",
+      "ràng",
+      "guó"
+    ],
+    "briefMeaning": "主动让出帝位和国家",
+    "charAnnotations": [
+      {
+        "char": "推",
+        "meaning": "推让"
+      },
+      {
+        "char": "位",
+        "meaning": "帝位"
+      },
+      {
+        "char": "让",
+        "meaning": "让出"
+      },
+      {
+        "char": "国",
+        "meaning": "国家"
+      }
+    ],
+    "fullExplanation": "帝王主动推让帝位与国家。指尧帝禅让帝位于舜，舜又禅让于禹，是上古圣王的美德。",
+    "allusionId": "tuiweirangguo"
+  },
+  {
+    "id": 24,
+    "text": "有虞陶唐",
+    "pinyin": [
+      "yǒu",
+      "yú",
+      "táo",
+      "táng"
+    ],
+    "briefMeaning": "就是有虞氏舜和陶唐氏尧",
+    "charAnnotations": [
+      {
+        "char": "有",
+        "meaning": "氏族名前缀"
+      },
+      {
+        "char": "虞",
+        "meaning": "有虞氏，舜的氏族"
+      },
+      {
+        "char": "陶",
+        "meaning": "陶唐氏"
+      },
+      {
+        "char": "唐",
+        "meaning": "陶唐氏，尧的氏族"
+      }
+    ],
+    "fullExplanation": "指的就是有虞氏的舜和陶唐氏的尧。尧号陶唐，舜号有虞，他们以禅让制传递帝位，被后世视为圣王楷模。",
+    "allusionId": null
+  },
+  {
+    "id": 25,
+    "text": "吊民伐罪",
+    "pinyin": [
+      "diào",
+      "mín",
+      "fá",
+      "zuì"
+    ],
+    "briefMeaning": "安抚百姓，讨伐有罪之人",
+    "charAnnotations": [
+      {
+        "char": "吊",
+        "meaning": "慰问，安抚"
+      },
+      {
+        "char": "民",
+        "meaning": "百姓"
+      },
+      {
+        "char": "伐",
+        "meaning": "讨伐"
+      },
+      {
+        "char": "罪",
+        "meaning": "有罪之人"
+      }
+    ],
+    "fullExplanation": "安抚受苦的百姓，讨伐有罪的暴君。形容以正义之师推翻暴政、拯救百姓。",
+    "allusionId": "diaominfazui"
+  },
+  {
+    "id": 26,
+    "text": "周发殷汤",
+    "pinyin": [
+      "zhōu",
+      "fā",
+      "yīn",
+      "tāng"
+    ],
+    "briefMeaning": "就是周武王姬发和商汤",
+    "charAnnotations": [
+      {
+        "char": "周",
+        "meaning": "周朝"
+      },
+      {
+        "char": "发",
+        "meaning": "姬发，周武王"
+      },
+      {
+        "char": "殷",
+        "meaning": "殷商"
+      },
+      {
+        "char": "汤",
+        "meaning": "成汤，商朝开国之君"
+      }
+    ],
+    "fullExplanation": "指的就是周武王姬发和殷商的成汤。汤伐夏桀、武王伐商纣，都是吊民伐罪的历史典范。",
+    "allusionId": null
+  },
+  {
+    "id": 27,
+    "text": "坐朝问道",
+    "pinyin": [
+      "zuò",
+      "cháo",
+      "wèn",
+      "dào"
+    ],
+    "briefMeaning": "坐在朝堂上询问治国之道",
+    "charAnnotations": [
+      {
+        "char": "坐",
+        "meaning": "端坐"
+      },
+      {
+        "char": "朝",
+        "meaning": "朝堂"
+      },
+      {
+        "char": "问",
+        "meaning": "询问"
+      },
+      {
+        "char": "道",
+        "meaning": "治国之道"
+      }
+    ],
+    "fullExplanation": "端坐在朝堂之上，向群臣询问治国之道。描述贤明君主虚心纳谏的理想治国场景。",
+    "allusionId": null
+  },
+  {
+    "id": 28,
+    "text": "垂拱平章",
+    "pinyin": [
+      "chuí",
+      "gǒng",
+      "píng",
+      "zhāng"
+    ],
+    "briefMeaning": "垂衣拱手就能使天下太平",
+    "charAnnotations": [
+      {
+        "char": "垂",
+        "meaning": "垂衣"
+      },
+      {
+        "char": "拱",
+        "meaning": "拱手"
+      },
+      {
+        "char": "平",
+        "meaning": "辨别"
+      },
+      {
+        "char": "章",
+        "meaning": "彰明"
+      }
+    ],
+    "fullExplanation": "垂衣拱手便能使天下太平昌明。「垂拱」形容无为而治，天下自然清明有序。",
+    "allusionId": null
+  },
+  {
+    "id": 29,
+    "text": "爱育黎首",
+    "pinyin": [
+      "ài",
+      "yù",
+      "lí",
+      "shǒu"
+    ],
+    "briefMeaning": "以仁爱之心养育百姓",
+    "charAnnotations": [
+      {
+        "char": "爱",
+        "meaning": "爱护"
+      },
+      {
+        "char": "育",
+        "meaning": "养育"
+      },
+      {
+        "char": "黎",
+        "meaning": "众多，黎民"
+      },
+      {
+        "char": "首",
+        "meaning": "百姓"
+      }
+    ],
+    "fullExplanation": "以仁爱之心养育天下百姓。「黎首」即黎民百姓，描述圣王爱民如子的胸怀。",
+    "allusionId": null
+  },
+  {
+    "id": 30,
+    "text": "臣伏戎羌",
+    "pinyin": [
+      "chén",
+      "fú",
+      "róng",
+      "qiāng"
+    ],
+    "briefMeaning": "四方异族都归顺臣服",
+    "charAnnotations": [
+      {
+        "char": "臣",
+        "meaning": "臣服"
+      },
+      {
+        "char": "伏",
+        "meaning": "降伏"
+      },
+      {
+        "char": "戎",
+        "meaning": "戎族，西方部族"
+      },
+      {
+        "char": "羌",
+        "meaning": "羌族，西方部族"
+      }
+    ],
+    "fullExplanation": "戎羌等四方部族都归顺臣服。描述圣王德化远播，使边远部族主动归附。",
+    "allusionId": null
+  },
+  {
+    "id": 31,
+    "text": "遐迩一体",
+    "pinyin": [
+      "xiá",
+      "ěr",
+      "yī",
+      "tǐ"
+    ],
+    "briefMeaning": "远近各方融为一体",
+    "charAnnotations": [
+      {
+        "char": "遐",
+        "meaning": "远方"
+      },
+      {
+        "char": "迩",
+        "meaning": "近处"
+      },
+      {
+        "char": "一",
+        "meaning": "统一"
+      },
+      {
+        "char": "体",
+        "meaning": "整体"
+      }
+    ],
+    "fullExplanation": "无论远近都融为一体。「遐」是远方，「迩」是近处，形容天下统一、四海归心。",
+    "allusionId": null
+  },
+  {
+    "id": 32,
+    "text": "率宾归王",
+    "pinyin": [
+      "shuài",
+      "bīn",
+      "guī",
+      "wáng"
+    ],
+    "briefMeaning": "所有人都宾服归顺于王",
+    "charAnnotations": [
+      {
+        "char": "率",
+        "meaning": "全部，都"
+      },
+      {
+        "char": "宾",
+        "meaning": "宾服，归顺"
+      },
+      {
+        "char": "归",
+        "meaning": "归顺"
+      },
+      {
+        "char": "王",
+        "meaning": "君王"
+      }
+    ],
+    "fullExplanation": "天下万民都如宾客般恭敬归顺于王。形容王化所及，无不宾服。",
+    "allusionId": null
+  },
+  {
+    "id": 33,
+    "text": "鸣凤在竹",
+    "pinyin": [
+      "míng",
+      "fèng",
+      "zài",
+      "zhú"
+    ],
+    "briefMeaning": "凤凰在竹林中鸣叫",
+    "charAnnotations": [
+      {
+        "char": "鸣",
+        "meaning": "鸣叫"
+      },
+      {
+        "char": "凤",
+        "meaning": "凤凰"
+      },
+      {
+        "char": "在",
+        "meaning": "在"
+      },
+      {
+        "char": "竹",
+        "meaning": "竹林"
+      }
+    ],
+    "fullExplanation": "凤凰在竹林中鸣叫。凤鸣是祥瑞之兆，象征太平盛世的出现。",
+    "allusionId": null
+  },
+  {
+    "id": 34,
+    "text": "白驹食场",
+    "pinyin": [
+      "bái",
+      "jū",
+      "shí",
+      "cháng"
+    ],
+    "briefMeaning": "白色的马驹在场圃中吃草",
+    "charAnnotations": [
+      {
+        "char": "白",
+        "meaning": "白色"
+      },
+      {
+        "char": "驹",
+        "meaning": "小马"
+      },
+      {
+        "char": "食",
+        "meaning": "吃草"
+      },
+      {
+        "char": "场",
+        "meaning": "场圃，打谷场"
+      }
+    ],
+    "fullExplanation": "白色的马驹在场圃中安然吃草。典出《诗经·小雅·白驹》，比喻贤才在野、隐居闲适。",
+    "allusionId": null
+  },
+  {
+    "id": 35,
+    "text": "化被草木",
+    "pinyin": [
+      "huà",
+      "bèi",
+      "cǎo",
+      "mù"
+    ],
+    "briefMeaning": "教化恩泽覆盖草木",
+    "charAnnotations": [
+      {
+        "char": "化",
+        "meaning": "教化"
+      },
+      {
+        "char": "被",
+        "meaning": "覆盖，遍及"
+      },
+      {
+        "char": "草",
+        "meaning": "草"
+      },
+      {
+        "char": "木",
+        "meaning": "树木"
+      }
+    ],
+    "fullExplanation": "圣王的教化恩泽广被草木万物。形容德政的惠泽无所不及，连草木都受到滋润。",
+    "allusionId": null
+  },
+  {
+    "id": 36,
+    "text": "赖及万方",
+    "pinyin": [
+      "lài",
+      "jí",
+      "wàn",
+      "fāng"
+    ],
+    "briefMeaning": "恩惠遍及天下万方",
+    "charAnnotations": [
+      {
+        "char": "赖",
+        "meaning": "惠及，依靠"
+      },
+      {
+        "char": "及",
+        "meaning": "到达，遍及"
+      },
+      {
+        "char": "万",
+        "meaning": "万千"
+      },
+      {
+        "char": "方",
+        "meaning": "四方，各地"
+      }
+    ],
+    "fullExplanation": "恩惠遍及天下各方。与上句合说圣王德化覆盖万物、泽被天下的盛况。",
+    "allusionId": null
+  },
+  {
+    "id": 37,
+    "text": "盖此身发",
+    "pinyin": [
+      "gài",
+      "cǐ",
+      "shēn",
+      "fà"
+    ],
+    "briefMeaning": "人的身体和头发",
+    "charAnnotations": [
+      {
+        "char": "盖",
+        "meaning": "大概，发语词"
+      },
+      {
+        "char": "此",
+        "meaning": "这"
+      },
+      {
+        "char": "身",
+        "meaning": "身体"
+      },
+      {
+        "char": "发",
+        "meaning": "头发"
+      }
+    ],
+    "fullExplanation": "人的身体和头发都是父母所赐。语出《孝经》：「身体发肤，受之父母，不敢毁伤。」",
+    "allusionId": null
+  },
+  {
+    "id": 38,
+    "text": "四大五常",
+    "pinyin": [
+      "sì",
+      "dà",
+      "wǔ",
+      "cháng"
+    ],
+    "briefMeaning": "由四大元素和五常之德构成",
+    "charAnnotations": [
+      {
+        "char": "四",
+        "meaning": "四种"
+      },
+      {
+        "char": "大",
+        "meaning": "大，四大元素"
+      },
+      {
+        "char": "五",
+        "meaning": "五种"
+      },
+      {
+        "char": "常",
+        "meaning": "常，五常美德"
+      }
+    ],
+    "fullExplanation": "身体由地水火风四大元素构成，做人应守仁义礼智信五常。四大为佛家之说，五常为儒家伦理。",
+    "allusionId": null
+  },
+  {
+    "id": 39,
+    "text": "恭惟鞠养",
+    "pinyin": [
+      "gōng",
+      "wéi",
+      "jū",
+      "yǎng"
+    ],
+    "briefMeaning": "恭敬地想着父母的养育之恩",
+    "charAnnotations": [
+      {
+        "char": "恭",
+        "meaning": "恭敬"
+      },
+      {
+        "char": "惟",
+        "meaning": "想到，念及"
+      },
+      {
+        "char": "鞠",
+        "meaning": "抚育"
+      },
+      {
+        "char": "养",
+        "meaning": "养育"
+      }
+    ],
+    "fullExplanation": "恭敬地想着父母含辛茹苦的养育之恩。「鞠养」即抚养、养育，强调知恩图报。",
+    "allusionId": null
+  },
+  {
+    "id": 40,
+    "text": "岂敢毁伤",
+    "pinyin": [
+      "qǐ",
+      "gǎn",
+      "huǐ",
+      "shāng"
+    ],
+    "briefMeaning": "怎敢损毁伤害自己的身体",
+    "charAnnotations": [
+      {
+        "char": "岂",
+        "meaning": "怎么，哪里"
+      },
+      {
+        "char": "敢",
+        "meaning": "敢于"
+      },
+      {
+        "char": "毁",
+        "meaning": "毁坏"
+      },
+      {
+        "char": "伤",
+        "meaning": "伤害"
+      }
+    ],
+    "fullExplanation": "怎么敢损毁伤害自己的身体呢？身体受之父母，爱护身体也是孝道的体现。",
+    "allusionId": null
+  },
+  {
+    "id": 41,
+    "text": "女慕贞洁",
+    "pinyin": [
+      "nǚ",
+      "mù",
+      "zhēn",
+      "jié"
+    ],
+    "briefMeaning": "女子应仰慕贞洁的品德",
+    "charAnnotations": [
+      {
+        "char": "女",
+        "meaning": "女子"
+      },
+      {
+        "char": "慕",
+        "meaning": "仰慕，向往"
+      },
+      {
+        "char": "贞",
+        "meaning": "贞操，坚贞"
+      },
+      {
+        "char": "洁",
+        "meaning": "纯洁"
+      }
+    ],
+    "fullExplanation": "女子应当仰慕贞洁的品德。古人认为贞洁是女性重要的德行操守。",
+    "allusionId": null
+  },
+  {
+    "id": 42,
+    "text": "男效才良",
+    "pinyin": [
+      "nán",
+      "xiào",
+      "cái",
+      "liáng"
+    ],
+    "briefMeaning": "男子应效法才德兼备的人",
+    "charAnnotations": [
+      {
+        "char": "男",
+        "meaning": "男子"
+      },
+      {
+        "char": "效",
+        "meaning": "效法，学习"
+      },
+      {
+        "char": "才",
+        "meaning": "才能"
+      },
+      {
+        "char": "良",
+        "meaning": "贤良"
+      }
+    ],
+    "fullExplanation": "男子应当效法才德兼备的贤良之人。与上句对仗，分述男女的行为准则。",
+    "allusionId": null
+  },
+  {
+    "id": 43,
+    "text": "知过必改",
+    "pinyin": [
+      "zhī",
+      "guò",
+      "bì",
+      "gǎi"
+    ],
+    "briefMeaning": "知道有过错就一定要改正",
+    "charAnnotations": [
+      {
+        "char": "知",
+        "meaning": "知道"
+      },
+      {
+        "char": "过",
+        "meaning": "过错"
+      },
+      {
+        "char": "必",
+        "meaning": "一定"
+      },
+      {
+        "char": "改",
+        "meaning": "改正"
+      }
+    ],
+    "fullExplanation": "知道自己有过错就一定要改正。语出《论语》：「过则勿惮改。」强调知错能改的美德。",
+    "allusionId": null
+  },
+  {
+    "id": 44,
+    "text": "得能莫忘",
+    "pinyin": [
+      "dé",
+      "néng",
+      "mò",
+      "wàng"
+    ],
+    "briefMeaning": "学到了本领不要忘记",
+    "charAnnotations": [
+      {
+        "char": "得",
+        "meaning": "获得"
+      },
+      {
+        "char": "能",
+        "meaning": "技能，本领"
+      },
+      {
+        "char": "莫",
+        "meaning": "不要"
+      },
+      {
+        "char": "忘",
+        "meaning": "忘记"
+      }
+    ],
+    "fullExplanation": "学到了技能和本领，不要轻易忘记。与上句合说修身之道：改过与精进并重。",
+    "allusionId": null
+  },
+  {
+    "id": 45,
+    "text": "罔谈彼短",
+    "pinyin": [
+      "wǎng",
+      "tán",
+      "bǐ",
+      "duǎn"
+    ],
+    "briefMeaning": "不要谈论别人的短处",
+    "charAnnotations": [
+      {
+        "char": "罔",
+        "meaning": "不要"
+      },
+      {
+        "char": "谈",
+        "meaning": "谈论"
+      },
+      {
+        "char": "彼",
+        "meaning": "别人的"
+      },
+      {
+        "char": "短",
+        "meaning": "短处，缺点"
+      }
+    ],
+    "fullExplanation": "不要谈论别人的短处缺点。告诫人们应当宽以待人，不可背后议论他人之短。",
+    "allusionId": null
+  },
+  {
+    "id": 46,
+    "text": "靡恃己长",
+    "pinyin": [
+      "mǐ",
+      "shì",
+      "jǐ",
+      "cháng"
+    ],
+    "briefMeaning": "不要仗着自己的长处",
+    "charAnnotations": [
+      {
+        "char": "靡",
+        "meaning": "不要"
+      },
+      {
+        "char": "恃",
+        "meaning": "倚仗"
+      },
+      {
+        "char": "己",
+        "meaning": "自己的"
+      },
+      {
+        "char": "长",
+        "meaning": "长处，优点"
+      }
+    ],
+    "fullExplanation": "不要倚仗自己的长处骄傲自满。与上句合说待人处世之道：勿论人短，勿矜己长。",
+    "allusionId": null
+  },
+  {
+    "id": 47,
+    "text": "信使可覆",
+    "pinyin": [
+      "xìn",
+      "shǐ",
+      "kě",
+      "fù"
+    ],
+    "briefMeaning": "说出的话要经得起验证",
+    "charAnnotations": [
+      {
+        "char": "信",
+        "meaning": "诚信，承诺"
+      },
+      {
+        "char": "使",
+        "meaning": "使得"
+      },
+      {
+        "char": "可",
+        "meaning": "可以"
+      },
+      {
+        "char": "覆",
+        "meaning": "覆验，检验"
+      }
+    ],
+    "fullExplanation": "承诺的话语应当经得起反复验证。「覆」即覆验、核查，强调言出必行、言而有信。",
+    "allusionId": null
+  },
+  {
+    "id": 48,
+    "text": "器欲难量",
+    "pinyin": [
+      "qì",
+      "yù",
+      "nán",
+      "liáng"
+    ],
+    "briefMeaning": "人的器量应当大到难以估量",
+    "charAnnotations": [
+      {
+        "char": "器",
+        "meaning": "器量，度量"
+      },
+      {
+        "char": "欲",
+        "meaning": "应当"
+      },
+      {
+        "char": "难",
+        "meaning": "难以"
+      },
+      {
+        "char": "量",
+        "meaning": "衡量"
+      }
+    ],
+    "fullExplanation": "人的器量应当宽广到难以衡量。勉励人修养胸襟，使自己的气度深广不可测。",
+    "allusionId": null
+  },
+  {
+    "id": 49,
+    "text": "墨悲丝染",
+    "pinyin": [
+      "mò",
+      "bēi",
+      "sī",
+      "rǎn"
+    ],
+    "briefMeaning": "墨子看见白丝被染色而悲伤",
+    "charAnnotations": [
+      {
+        "char": "墨",
+        "meaning": "墨子，战国思想家"
+      },
+      {
+        "char": "悲",
+        "meaning": "悲伤"
+      },
+      {
+        "char": "丝",
+        "meaning": "丝线"
+      },
+      {
+        "char": "染",
+        "meaning": "染色"
+      }
+    ],
+    "fullExplanation": "墨子看到洁白的丝线被染上颜色而感到悲伤。典出《墨子·所染》，比喻环境对人的深刻影响，近朱者赤、近墨者黑。",
+    "allusionId": "mobisiran"
+  },
+  {
+    "id": 50,
+    "text": "诗赞羔羊",
+    "pinyin": [
+      "shī",
+      "zàn",
+      "gāo",
+      "yáng"
+    ],
+    "briefMeaning": "《诗经》赞美羔羊般的节操",
+    "charAnnotations": [
+      {
+        "char": "诗",
+        "meaning": "《诗经》"
+      },
+      {
+        "char": "赞",
+        "meaning": "赞美"
+      },
+      {
+        "char": "羔",
+        "meaning": "小羊"
+      },
+      {
+        "char": "羊",
+        "meaning": "羊"
+      }
+    ],
+    "fullExplanation": "《诗经》中赞美如羔羊般纯洁的节操。典出《诗经·召南·羔羊》，赞颂官员清正廉洁。",
+    "allusionId": null
+  },
+  {
+    "id": 51,
+    "text": "景行维贤",
+    "pinyin": [
+      "jǐng",
+      "xíng",
+      "wéi",
+      "xián"
+    ],
+    "briefMeaning": "仰慕并效法贤德之人的行为",
+    "charAnnotations": [
+      {
+        "char": "景",
+        "meaning": "景仰，仰慕"
+      },
+      {
+        "char": "行",
+        "meaning": "品行，德行"
+      },
+      {
+        "char": "维",
+        "meaning": "是"
+      },
+      {
+        "char": "贤",
+        "meaning": "贤德之人"
+      }
+    ],
+    "fullExplanation": "仰慕并效法贤德之人的高尚品行。典出《诗经·小雅·车辖》：「高山仰止，景行行止。」",
+    "allusionId": "jingxingweixian"
+  },
+  {
+    "id": 52,
+    "text": "克念作圣",
+    "pinyin": [
+      "kè",
+      "niàn",
+      "zuò",
+      "shèng"
+    ],
+    "briefMeaning": "能够时刻自省就能成为圣人",
+    "charAnnotations": [
+      {
+        "char": "克",
+        "meaning": "能够"
+      },
+      {
+        "char": "念",
+        "meaning": "反省，警醒"
+      },
+      {
+        "char": "作",
+        "meaning": "成为"
+      },
+      {
+        "char": "圣",
+        "meaning": "圣人"
+      }
+    ],
+    "fullExplanation": "能够时刻警醒反省，就能够成为圣人。语出《尚书·多方》：「惟狂克念作圣。」",
+    "allusionId": null
+  },
+  {
+    "id": 53,
+    "text": "德建名立",
+    "pinyin": [
+      "dé",
+      "jiàn",
+      "míng",
+      "lì"
+    ],
+    "briefMeaning": "修养德行就能建立好的名声",
+    "charAnnotations": [
+      {
+        "char": "德",
+        "meaning": "品德"
+      },
+      {
+        "char": "建",
+        "meaning": "建立"
+      },
+      {
+        "char": "名",
+        "meaning": "名声"
+      },
+      {
+        "char": "立",
+        "meaning": "树立"
+      }
+    ],
+    "fullExplanation": "修养品德就能立身成名。德行是名声的根本，有德自然有名。",
+    "allusionId": null
+  },
+  {
+    "id": 54,
+    "text": "形端表正",
+    "pinyin": [
+      "xíng",
+      "duān",
+      "biǎo",
+      "zhèng"
+    ],
+    "briefMeaning": "形体端正则外表自然正直",
+    "charAnnotations": [
+      {
+        "char": "形",
+        "meaning": "形体，内在"
+      },
+      {
+        "char": "端",
+        "meaning": "端正"
+      },
+      {
+        "char": "表",
+        "meaning": "外表"
+      },
+      {
+        "char": "正",
+        "meaning": "正直"
+      }
+    ],
+    "fullExplanation": "形体端正则外在表现自然正直。比喻内在修养决定外在气质，表里如一。",
+    "allusionId": null
+  },
+  {
+    "id": 55,
+    "text": "空谷传声",
+    "pinyin": [
+      "kōng",
+      "gǔ",
+      "chuán",
+      "shēng"
+    ],
+    "briefMeaning": "空旷的山谷中能传来回声",
+    "charAnnotations": [
+      {
+        "char": "空",
+        "meaning": "空旷"
+      },
+      {
+        "char": "谷",
+        "meaning": "山谷"
+      },
+      {
+        "char": "传",
+        "meaning": "传播，回荡"
+      },
+      {
+        "char": "声",
+        "meaning": "声音"
+      }
+    ],
+    "fullExplanation": "空旷的山谷中呼喊能传来回声。比喻善行必有回响，因果相应。",
+    "allusionId": null
+  },
+  {
+    "id": 56,
+    "text": "虚堂习听",
+    "pinyin": [
+      "xū",
+      "táng",
+      "xí",
+      "tīng"
+    ],
+    "briefMeaning": "空旷的厅堂里声音反复回响",
+    "charAnnotations": [
+      {
+        "char": "虚",
+        "meaning": "空旷"
+      },
+      {
+        "char": "堂",
+        "meaning": "厅堂"
+      },
+      {
+        "char": "习",
+        "meaning": "反复，重复"
+      },
+      {
+        "char": "听",
+        "meaning": "听到"
+      }
+    ],
+    "fullExplanation": "空旷的厅堂中声音会反复回响。与上句合说因果感应之理：所言所行如同回声，必有回报。",
+    "allusionId": null
+  },
+  {
+    "id": 57,
+    "text": "祸因恶积",
+    "pinyin": [
+      "huò",
+      "yīn",
+      "è",
+      "jī"
+    ],
+    "briefMeaning": "灾祸因为恶行积累而降临",
+    "charAnnotations": [
+      {
+        "char": "祸",
+        "meaning": "灾祸"
+      },
+      {
+        "char": "因",
+        "meaning": "因为"
+      },
+      {
+        "char": "恶",
+        "meaning": "恶行"
+      },
+      {
+        "char": "积",
+        "meaning": "积累"
+      }
+    ],
+    "fullExplanation": "灾祸的降临源于恶行的日积月累。语出《易经》：「积不善之家，必有余殃。」",
+    "allusionId": null
+  },
+  {
+    "id": 58,
+    "text": "福缘善庆",
+    "pinyin": [
+      "fú",
+      "yuán",
+      "shàn",
+      "qìng"
+    ],
+    "briefMeaning": "福报因为善行积累而到来",
+    "charAnnotations": [
+      {
+        "char": "福",
+        "meaning": "福报"
+      },
+      {
+        "char": "缘",
+        "meaning": "因为"
+      },
+      {
+        "char": "善",
+        "meaning": "善行"
+      },
+      {
+        "char": "庆",
+        "meaning": "吉庆"
+      }
+    ],
+    "fullExplanation": "福报的到来源于善行的日积月累。与上句对仗，阐明善恶因果报应的道理。",
+    "allusionId": null
+  },
+  {
+    "id": 59,
+    "text": "尺璧非宝",
+    "pinyin": [
+      "chǐ",
+      "bì",
+      "fēi",
+      "bǎo"
+    ],
+    "briefMeaning": "一尺大的美玉不算真正的宝贝",
+    "charAnnotations": [
+      {
+        "char": "尺",
+        "meaning": "一尺"
+      },
+      {
+        "char": "璧",
+        "meaning": "璧玉"
+      },
+      {
+        "char": "非",
+        "meaning": "不是"
+      },
+      {
+        "char": "宝",
+        "meaning": "珍宝"
+      }
+    ],
+    "fullExplanation": "一尺大的璧玉并非最珍贵的宝贝。出自《淮南子》：「圣人不贵尺之璧，而重寸之阴。」",
+    "allusionId": null
+  },
+  {
+    "id": 60,
+    "text": "寸阴是竞",
+    "pinyin": [
+      "cùn",
+      "yīn",
+      "shì",
+      "jìng"
+    ],
+    "briefMeaning": "片刻光阴才是最该珍惜的",
+    "charAnnotations": [
+      {
+        "char": "寸",
+        "meaning": "一寸"
+      },
+      {
+        "char": "阴",
+        "meaning": "光阴"
+      },
+      {
+        "char": "是",
+        "meaning": "才是"
+      },
+      {
+        "char": "竞",
+        "meaning": "争取，珍惜"
+      }
+    ],
+    "fullExplanation": "每一寸光阴才是最值得争取珍惜的。与上句合说时间远比财宝珍贵，应当惜时如金。",
+    "allusionId": null
+  },
+  {
+    "id": 61,
+    "text": "资父事君",
+    "pinyin": [
+      "zī",
+      "fù",
+      "shì",
+      "jūn"
+    ],
+    "briefMeaning": "侍奉父亲和事奉国君",
+    "charAnnotations": [
+      {
+        "char": "资",
+        "meaning": "供养，侍奉"
+      },
+      {
+        "char": "父",
+        "meaning": "父亲"
+      },
+      {
+        "char": "事",
+        "meaning": "事奉"
+      },
+      {
+        "char": "君",
+        "meaning": "国君"
+      }
+    ],
+    "fullExplanation": "供养父亲和事奉国君的道理相通。古人认为忠孝一体，孝顺父母与效忠君王同出一源。",
+    "allusionId": null
+  },
+  {
+    "id": 62,
+    "text": "曰严与敬",
+    "pinyin": [
+      "yuē",
+      "yán",
+      "yǔ",
+      "jìng"
+    ],
+    "briefMeaning": "应当怀着严肃和恭敬之心",
+    "charAnnotations": [
+      {
+        "char": "曰",
+        "meaning": "叫做，称为"
+      },
+      {
+        "char": "严",
+        "meaning": "严肃"
+      },
+      {
+        "char": "与",
+        "meaning": "和"
+      },
+      {
+        "char": "敬",
+        "meaning": "恭敬"
+      }
+    ],
+    "fullExplanation": "对待父亲要严肃敬重，对待国君要恭敬尊崇。「严」对父，「敬」对君，是为人臣子之道。",
+    "allusionId": null
+  },
+  {
+    "id": 63,
+    "text": "孝当竭力",
+    "pinyin": [
+      "xiào",
+      "dāng",
+      "jié",
+      "lì"
+    ],
+    "briefMeaning": "行孝应当竭尽全力",
+    "charAnnotations": [
+      {
+        "char": "孝",
+        "meaning": "孝道"
+      },
+      {
+        "char": "当",
+        "meaning": "应当"
+      },
+      {
+        "char": "竭",
+        "meaning": "竭尽"
+      },
+      {
+        "char": "力",
+        "meaning": "力量"
+      }
+    ],
+    "fullExplanation": "对父母尽孝应当竭尽全部力量。强调孝道需要身体力行、全力以赴。",
+    "allusionId": null
+  },
+  {
+    "id": 64,
+    "text": "忠则尽命",
+    "pinyin": [
+      "zhōng",
+      "zé",
+      "jìn",
+      "mìng"
+    ],
+    "briefMeaning": "尽忠则应不惜生命",
+    "charAnnotations": [
+      {
+        "char": "忠",
+        "meaning": "忠诚"
+      },
+      {
+        "char": "则",
+        "meaning": "就"
+      },
+      {
+        "char": "尽",
+        "meaning": "竭尽"
+      },
+      {
+        "char": "命",
+        "meaning": "生命"
+      }
+    ],
+    "fullExplanation": "对国君尽忠就应当不惜献出生命。与上句合说忠孝之道的极致标准。",
+    "allusionId": null
+  },
+  {
+    "id": 65,
+    "text": "临深履薄",
+    "pinyin": [
+      "lín",
+      "shēn",
+      "lǚ",
+      "bó"
+    ],
+    "briefMeaning": "如临深渊、如履薄冰般谨慎",
+    "charAnnotations": [
+      {
+        "char": "临",
+        "meaning": "面临"
+      },
+      {
+        "char": "深",
+        "meaning": "深渊"
+      },
+      {
+        "char": "履",
+        "meaning": "踩踏"
+      },
+      {
+        "char": "薄",
+        "meaning": "薄冰"
+      }
+    ],
+    "fullExplanation": "像面临深渊、脚踏薄冰一样谨慎行事。典出《诗经·小雅·小旻》，比喻做事应当时刻保持戒惧之心。",
+    "allusionId": null
+  },
+  {
+    "id": 66,
+    "text": "夙兴温凊",
+    "pinyin": [
+      "sù",
+      "xīng",
+      "wēn",
+      "qìng"
+    ],
+    "briefMeaning": "清晨即起，冬温夏凊侍奉父母",
+    "charAnnotations": [
+      {
+        "char": "夙",
+        "meaning": "早晨"
+      },
+      {
+        "char": "兴",
+        "meaning": "起身"
+      },
+      {
+        "char": "温",
+        "meaning": "温暖（冬天暖被）"
+      },
+      {
+        "char": "凊",
+        "meaning": "清凉（夏天扇凉）"
+      }
+    ],
+    "fullExplanation": "黎明即起，冬天为父母温暖床被，夏天为父母扇凉席枕。「温凊」出自《礼记》，是古代侍奉父母的礼节。",
+    "allusionId": null
+  },
+  {
+    "id": 67,
+    "text": "似兰斯馨",
+    "pinyin": [
+      "sì",
+      "lán",
+      "sī",
+      "xīn"
+    ],
+    "briefMeaning": "品德如兰花般芳馨",
+    "charAnnotations": [
+      {
+        "char": "似",
+        "meaning": "像"
+      },
+      {
+        "char": "兰",
+        "meaning": "兰花"
+      },
+      {
+        "char": "斯",
+        "meaning": "如此"
+      },
+      {
+        "char": "馨",
+        "meaning": "芳香"
+      }
+    ],
+    "fullExplanation": "品德的高尚如同兰花散发的芬芳。兰花是花中君子，比喻人格高洁、德行馨香。",
+    "allusionId": null
+  },
+  {
+    "id": 68,
+    "text": "如松之盛",
+    "pinyin": [
+      "rú",
+      "sōng",
+      "zhī",
+      "shèng"
+    ],
+    "briefMeaning": "操守如松树般长盛不衰",
+    "charAnnotations": [
+      {
+        "char": "如",
+        "meaning": "像"
+      },
+      {
+        "char": "松",
+        "meaning": "松树"
+      },
+      {
+        "char": "之",
+        "meaning": "的"
+      },
+      {
+        "char": "盛",
+        "meaning": "茂盛"
+      }
+    ],
+    "fullExplanation": "操守像松树一样经久不衰、四季常青。松树不畏严寒，象征坚贞不屈的节操。",
+    "allusionId": null
+  },
+  {
+    "id": 69,
+    "text": "川流不息",
+    "pinyin": [
+      "chuān",
+      "liú",
+      "bù",
+      "xī"
+    ],
+    "briefMeaning": "河水川流不息",
+    "charAnnotations": [
+      {
+        "char": "川",
+        "meaning": "河流"
+      },
+      {
+        "char": "流",
+        "meaning": "流淌"
+      },
+      {
+        "char": "不",
+        "meaning": "不"
+      },
+      {
+        "char": "息",
+        "meaning": "停止"
+      }
+    ],
+    "fullExplanation": "河水昼夜奔流不息。比喻君子修养应当持之以恒，永不停歇。语出《论语》：「逝者如斯夫，不舍昼夜。」",
+    "allusionId": null
+  },
+  {
+    "id": 70,
+    "text": "渊澄取映",
+    "pinyin": [
+      "yuān",
+      "chéng",
+      "qǔ",
+      "yìng"
+    ],
+    "briefMeaning": "深潭清澈能映照万物",
+    "charAnnotations": [
+      {
+        "char": "渊",
+        "meaning": "深潭"
+      },
+      {
+        "char": "澄",
+        "meaning": "清澈"
+      },
+      {
+        "char": "取",
+        "meaning": "取得"
+      },
+      {
+        "char": "映",
+        "meaning": "映照"
+      }
+    ],
+    "fullExplanation": "深潭水清能映照万物。比喻心境澄明方能洞察事理，修养深厚才能明辨是非。",
+    "allusionId": null
+  },
+  {
+    "id": 71,
+    "text": "容止若思",
+    "pinyin": [
+      "róng",
+      "zhǐ",
+      "ruò",
+      "sī"
+    ],
+    "briefMeaning": "仪容举止应当沉稳如有所思",
+    "charAnnotations": [
+      {
+        "char": "容",
+        "meaning": "容貌"
+      },
+      {
+        "char": "止",
+        "meaning": "举止"
+      },
+      {
+        "char": "若",
+        "meaning": "好像"
+      },
+      {
+        "char": "思",
+        "meaning": "沉思"
+      }
+    ],
+    "fullExplanation": "仪容举止应当安详沉稳，如同在沉思一样。强调端庄的仪态是内在修养的外在体现。",
+    "allusionId": null
+  },
+  {
+    "id": 72,
+    "text": "言辞安定",
+    "pinyin": [
+      "yán",
+      "cí",
+      "ān",
+      "dìng"
+    ],
+    "briefMeaning": "言谈措辞要安稳妥当",
+    "charAnnotations": [
+      {
+        "char": "言",
+        "meaning": "言语"
+      },
+      {
+        "char": "辞",
+        "meaning": "措辞"
+      },
+      {
+        "char": "安",
+        "meaning": "安稳"
+      },
+      {
+        "char": "定",
+        "meaning": "沉稳"
+      }
+    ],
+    "fullExplanation": "言谈措辞要平和稳当，不急不躁。与上句合说君子应当容止端庄、言辞稳重。",
+    "allusionId": null
+  },
+  {
+    "id": 73,
+    "text": "笃初诚美",
+    "pinyin": [
+      "dǔ",
+      "chū",
+      "chéng",
+      "měi"
+    ],
+    "briefMeaning": "一开始就认真做事确实很好",
+    "charAnnotations": [
+      {
+        "char": "笃",
+        "meaning": "忠实，认真"
+      },
+      {
+        "char": "初",
+        "meaning": "开始"
+      },
+      {
+        "char": "诚",
+        "meaning": "确实"
+      },
+      {
+        "char": "美",
+        "meaning": "美好"
+      }
+    ],
+    "fullExplanation": "一开始就能认真诚恳地做事，确实是美好的。强调「慎始」的重要性。",
+    "allusionId": null
+  },
+  {
+    "id": 74,
+    "text": "慎终宜令",
+    "pinyin": [
+      "shèn",
+      "zhōng",
+      "yí",
+      "lìng"
+    ],
+    "briefMeaning": "谨慎到底才更加完美",
+    "charAnnotations": [
+      {
+        "char": "慎",
+        "meaning": "谨慎"
+      },
+      {
+        "char": "终",
+        "meaning": "结尾"
+      },
+      {
+        "char": "宜",
+        "meaning": "应当"
+      },
+      {
+        "char": "令",
+        "meaning": "美好"
+      }
+    ],
+    "fullExplanation": "能够谨慎到最后才是真正的完美。与上句合说善始善终的道理，「令」意为美好。",
+    "allusionId": null
+  },
+  {
+    "id": 75,
+    "text": "荣业所基",
+    "pinyin": [
+      "róng",
+      "yè",
+      "suǒ",
+      "jī"
+    ],
+    "briefMeaning": "荣耀的事业由此奠定根基",
+    "charAnnotations": [
+      {
+        "char": "荣",
+        "meaning": "荣耀"
+      },
+      {
+        "char": "业",
+        "meaning": "事业"
+      },
+      {
+        "char": "所",
+        "meaning": "所凭借的"
+      },
+      {
+        "char": "基",
+        "meaning": "根基"
+      }
+    ],
+    "fullExplanation": "荣耀的事业就以善始善终为根基。能够始终如一，才能建功立业。",
+    "allusionId": null
+  },
+  {
+    "id": 76,
+    "text": "籍甚无竟",
+    "pinyin": [
+      "jí",
+      "shèn",
+      "wú",
+      "jìng"
+    ],
+    "briefMeaning": "声名远播没有穷尽",
+    "charAnnotations": [
+      {
+        "char": "籍",
+        "meaning": "声名"
+      },
+      {
+        "char": "甚",
+        "meaning": "很大"
+      },
+      {
+        "char": "无",
+        "meaning": "没有"
+      },
+      {
+        "char": "竟",
+        "meaning": "尽头"
+      }
+    ],
+    "fullExplanation": "声名远播没有止境。「籍甚」指声名很大，与上句合说善德能使功业和声名永远流传。",
+    "allusionId": null
+  },
+  {
+    "id": 77,
+    "text": "学优登仕",
+    "pinyin": [
+      "xué",
+      "yōu",
+      "dēng",
+      "shì"
+    ],
+    "briefMeaning": "学业优秀就可以进入仕途",
+    "charAnnotations": [
+      {
+        "char": "学",
+        "meaning": "学业"
+      },
+      {
+        "char": "优",
+        "meaning": "优秀"
+      },
+      {
+        "char": "登",
+        "meaning": "进入"
+      },
+      {
+        "char": "仕",
+        "meaning": "仕途"
+      }
+    ],
+    "fullExplanation": "学业优异便可步入仕途做官。语出《论语》：「学而优则仕。」古代以学问取士为官。",
+    "allusionId": null
+  },
+  {
+    "id": 78,
+    "text": "摄职从政",
+    "pinyin": [
+      "shè",
+      "zhí",
+      "cóng",
+      "zhèng"
+    ],
+    "briefMeaning": "担任官职参与政务",
+    "charAnnotations": [
+      {
+        "char": "摄",
+        "meaning": "担任"
+      },
+      {
+        "char": "职",
+        "meaning": "职位"
+      },
+      {
+        "char": "从",
+        "meaning": "从事"
+      },
+      {
+        "char": "政",
+        "meaning": "政务"
+      }
+    ],
+    "fullExplanation": "担任官职，参与治理国家政务。与上句合说从学入仕的人生道路。",
+    "allusionId": null
+  },
+  {
+    "id": 79,
+    "text": "存以甘棠",
+    "pinyin": [
+      "cún",
+      "yǐ",
+      "gān",
+      "táng"
+    ],
+    "briefMeaning": "百姓感念而保存了甘棠树",
+    "charAnnotations": [
+      {
+        "char": "存",
+        "meaning": "保存"
+      },
+      {
+        "char": "以",
+        "meaning": "因此"
+      },
+      {
+        "char": "甘",
+        "meaning": "甜"
+      },
+      {
+        "char": "棠",
+        "meaning": "棠梨树"
+      }
+    ],
+    "fullExplanation": "百姓为了感念召伯的恩德而保存了他休息过的甘棠树。典出《诗经·召南·甘棠》，赞美爱民者离任后百姓不忘其德。",
+    "allusionId": "cunyigantang"
+  },
+  {
+    "id": 80,
+    "text": "去而益咏",
+    "pinyin": [
+      "qù",
+      "ér",
+      "yì",
+      "yǒng"
+    ],
+    "briefMeaning": "离去之后人们更加歌颂",
+    "charAnnotations": [
+      {
+        "char": "去",
+        "meaning": "离开"
+      },
+      {
+        "char": "而",
+        "meaning": "然后"
+      },
+      {
+        "char": "益",
+        "meaning": "更加"
+      },
+      {
+        "char": "咏",
+        "meaning": "歌咏，赞颂"
+      }
+    ],
+    "fullExplanation": "贤者离去之后，百姓反而更加歌颂怀念他。与上句合说真正的好官，离任后百姓愈加思念。",
+    "allusionId": null
+  },
+  {
+    "id": 81,
+    "text": "乐殊贵贱",
+    "pinyin": [
+      "yuè",
+      "shū",
+      "guì",
+      "jiàn"
+    ],
+    "briefMeaning": "音乐因贵贱不同而有区别",
+    "charAnnotations": [
+      {
+        "char": "乐",
+        "meaning": "音乐"
+      },
+      {
+        "char": "殊",
+        "meaning": "不同"
+      },
+      {
+        "char": "贵",
+        "meaning": "尊贵"
+      },
+      {
+        "char": "贱",
+        "meaning": "卑贱"
+      }
+    ],
+    "fullExplanation": "音乐和典礼因身份贵贱不同而有所区别。古代礼乐制度中，不同等级使用不同规格的乐曲。",
+    "allusionId": null
+  },
+  {
+    "id": 82,
+    "text": "礼别尊卑",
+    "pinyin": [
+      "lǐ",
+      "bié",
+      "zūn",
+      "bēi"
+    ],
+    "briefMeaning": "礼仪因尊卑不同而有区别",
+    "charAnnotations": [
+      {
+        "char": "礼",
+        "meaning": "礼仪"
+      },
+      {
+        "char": "别",
+        "meaning": "区别"
+      },
+      {
+        "char": "尊",
+        "meaning": "尊贵"
+      },
+      {
+        "char": "卑",
+        "meaning": "卑下"
+      }
+    ],
+    "fullExplanation": "礼仪因地位尊卑不同而有所区别。与上句合说古代社会以礼乐维持等级秩序。",
+    "allusionId": null
+  },
+  {
+    "id": 83,
+    "text": "上和下睦",
+    "pinyin": [
+      "shàng",
+      "hé",
+      "xià",
+      "mù"
+    ],
+    "briefMeaning": "上下之间和睦相处",
+    "charAnnotations": [
+      {
+        "char": "上",
+        "meaning": "上级，长辈"
+      },
+      {
+        "char": "和",
+        "meaning": "和谐"
+      },
+      {
+        "char": "下",
+        "meaning": "下级，晚辈"
+      },
+      {
+        "char": "睦",
+        "meaning": "和睦"
+      }
+    ],
+    "fullExplanation": "上级与下级之间和睦融洽。描述理想的社会秩序，上下各守本分、相处和谐。",
+    "allusionId": null
+  },
+  {
+    "id": 84,
+    "text": "夫唱妇随",
+    "pinyin": [
+      "fū",
+      "chàng",
+      "fù",
+      "suí"
+    ],
+    "briefMeaning": "丈夫倡导，妻子跟从",
+    "charAnnotations": [
+      {
+        "char": "夫",
+        "meaning": "丈夫"
+      },
+      {
+        "char": "唱",
+        "meaning": "倡导"
+      },
+      {
+        "char": "妇",
+        "meaning": "妻子"
+      },
+      {
+        "char": "随",
+        "meaning": "跟随"
+      }
+    ],
+    "fullExplanation": "丈夫在前倡导，妻子在后跟随。「唱」通「倡」，意为倡导带领，描述古代夫妻关系的理想模式。",
+    "allusionId": null
+  },
+  {
+    "id": 85,
+    "text": "外受傅训",
+    "pinyin": [
+      "wài",
+      "shòu",
+      "fù",
+      "xùn"
+    ],
+    "briefMeaning": "在外接受师傅的教诲",
+    "charAnnotations": [
+      {
+        "char": "外",
+        "meaning": "家庭之外"
+      },
+      {
+        "char": "受",
+        "meaning": "接受"
+      },
+      {
+        "char": "傅",
+        "meaning": "师傅，老师"
+      },
+      {
+        "char": "训",
+        "meaning": "教导"
+      }
+    ],
+    "fullExplanation": "在家庭之外接受师傅的教导训诲。古代教育强调家庭教育与师傅教育并重，相辅相成。",
+    "allusionId": null
+  },
+  {
+    "id": 86,
+    "text": "入奉母仪",
+    "pinyin": [
+      "rù",
+      "fèng",
+      "mǔ",
+      "yí"
+    ],
+    "briefMeaning": "在家要遵从母亲的仪范",
+    "charAnnotations": [
+      {
+        "char": "入",
+        "meaning": "入内，在家"
+      },
+      {
+        "char": "奉",
+        "meaning": "奉行，遵从"
+      },
+      {
+        "char": "母",
+        "meaning": "母亲"
+      },
+      {
+        "char": "仪",
+        "meaning": "仪范，典范"
+      }
+    ],
+    "fullExplanation": "在家中要遵奉母亲的仪范和教导。与前句「外受傅训」对仗，外面接受师傅教导，回家遵从母亲训示。",
+    "allusionId": null
+  },
+  {
+    "id": 87,
+    "text": "诸姑伯叔",
+    "pinyin": [
+      "zhū",
+      "gū",
+      "bó",
+      "shū"
+    ],
+    "briefMeaning": "各位姑母、伯父和叔父",
+    "charAnnotations": [
+      {
+        "char": "诸",
+        "meaning": "各位，众多"
+      },
+      {
+        "char": "姑",
+        "meaning": "姑母，父亲的姐妹"
+      },
+      {
+        "char": "伯",
+        "meaning": "伯父，父亲的兄长"
+      },
+      {
+        "char": "叔",
+        "meaning": "叔父，父亲的弟弟"
+      }
+    ],
+    "fullExplanation": "对家族中的姑母、伯父、叔父等长辈亲属，应当恭敬有礼。列举父系亲属以代表家族中的长辈。",
+    "allusionId": null
+  },
+  {
+    "id": 88,
+    "text": "犹子比儿",
+    "pinyin": [
+      "yóu",
+      "zǐ",
+      "bǐ",
+      "ér"
+    ],
+    "briefMeaning": "应当像对待自己的孩子一样",
+    "charAnnotations": [
+      {
+        "char": "犹",
+        "meaning": "如同，好像"
+      },
+      {
+        "char": "子",
+        "meaning": "子女"
+      },
+      {
+        "char": "比",
+        "meaning": "比拟，等同"
+      },
+      {
+        "char": "儿",
+        "meaning": "儿女"
+      }
+    ],
+    "fullExplanation": "姑伯叔等长辈对待侄子侄女，如同自己的亲生子女一般。犹子、比儿都是亲近之意，强调家族长辈对晚辈的慈爱。",
+    "allusionId": null
+  },
+  {
+    "id": 89,
+    "text": "孔怀兄弟",
+    "pinyin": [
+      "kǒng",
+      "huái",
+      "xiōng",
+      "dì"
+    ],
+    "briefMeaning": "非常关怀兄弟之间的情谊",
+    "charAnnotations": [
+      {
+        "char": "孔",
+        "meaning": "非常，很"
+      },
+      {
+        "char": "怀",
+        "meaning": "关怀，挂念"
+      },
+      {
+        "char": "兄",
+        "meaning": "兄长"
+      },
+      {
+        "char": "弟",
+        "meaning": "弟弟"
+      }
+    ],
+    "fullExplanation": "兄弟之间应当非常相互关怀。语出《诗经·小雅·常棣》「死丧之威，兄弟孔怀」，强调手足之情深厚。",
+    "allusionId": "konghuaixiongdi"
+  },
+  {
+    "id": 90,
+    "text": "同气连枝",
+    "pinyin": [
+      "tóng",
+      "qì",
+      "lián",
+      "zhī"
+    ],
+    "briefMeaning": "兄弟如同根气相连的树枝",
+    "charAnnotations": [
+      {
+        "char": "同",
+        "meaning": "相同"
+      },
+      {
+        "char": "气",
+        "meaning": "气脉，血脉"
+      },
+      {
+        "char": "连",
+        "meaning": "连接"
+      },
+      {
+        "char": "枝",
+        "meaning": "枝干"
+      }
+    ],
+    "fullExplanation": "兄弟之间同根同脉，犹如一棵大树上相连的枝干。以树枝相连比喻兄弟血脉相通，不可分割。",
+    "allusionId": null
+  },
+  {
+    "id": 91,
+    "text": "交友投分",
+    "pinyin": [
+      "jiāo",
+      "yǒu",
+      "tóu",
+      "fèn"
+    ],
+    "briefMeaning": "结交朋友要志趣相投",
+    "charAnnotations": [
+      {
+        "char": "交",
+        "meaning": "结交"
+      },
+      {
+        "char": "友",
+        "meaning": "朋友"
+      },
+      {
+        "char": "投",
+        "meaning": "投合，契合"
+      },
+      {
+        "char": "分",
+        "meaning": "情分，缘分"
+      }
+    ],
+    "fullExplanation": "结交朋友要讲究志趣相投、情分契合。交友之道在于彼此志向和品性的默契。",
+    "allusionId": null
+  },
+  {
+    "id": 92,
+    "text": "切磨箴规",
+    "pinyin": [
+      "qiē",
+      "mó",
+      "zhēn",
+      "guī"
+    ],
+    "briefMeaning": "朋友之间互相切磋、规劝",
+    "charAnnotations": [
+      {
+        "char": "切",
+        "meaning": "切磋"
+      },
+      {
+        "char": "磨",
+        "meaning": "琢磨"
+      },
+      {
+        "char": "箴",
+        "meaning": "劝诫，告诫"
+      },
+      {
+        "char": "规",
+        "meaning": "规劝"
+      }
+    ],
+    "fullExplanation": "朋友之间应当互相切磋学问，彼此规劝告诫。语本《论语》「以友辅仁」之意，良友之间当相互砥砺。",
+    "allusionId": null
+  },
+  {
+    "id": 93,
+    "text": "仁慈隐恻",
+    "pinyin": [
+      "rén",
+      "cí",
+      "yǐn",
+      "cè"
+    ],
+    "briefMeaning": "心怀仁慈，常有恻隐之心",
+    "charAnnotations": [
+      {
+        "char": "仁",
+        "meaning": "仁爱"
+      },
+      {
+        "char": "慈",
+        "meaning": "慈悲"
+      },
+      {
+        "char": "隐",
+        "meaning": "恻隐"
+      },
+      {
+        "char": "恻",
+        "meaning": "同情，悲悯"
+      }
+    ],
+    "fullExplanation": "为人应当仁爱慈悲，常怀恻隐之心。恻隐之心是孟子所言「四端」之首，是仁之发端。",
+    "allusionId": null
+  },
+  {
+    "id": 94,
+    "text": "造次弗离",
+    "pinyin": [
+      "zào",
+      "cì",
+      "fú",
+      "lí"
+    ],
+    "briefMeaning": "即使仓促匆忙也不应背离",
+    "charAnnotations": [
+      {
+        "char": "造",
+        "meaning": "仓促"
+      },
+      {
+        "char": "次",
+        "meaning": "匆忙（造次为连绵词）"
+      },
+      {
+        "char": "弗",
+        "meaning": "不"
+      },
+      {
+        "char": "离",
+        "meaning": "离开，背离"
+      }
+    ],
+    "fullExplanation": "即使在仓促匆忙之际，也不可背离仁慈之心。语本《论语》「君子无终食之间违仁，造次必于是，颠沛必于是」。",
+    "allusionId": null
+  },
+  {
+    "id": 95,
+    "text": "节义廉退",
+    "pinyin": [
+      "jié",
+      "yì",
+      "lián",
+      "tuì"
+    ],
+    "briefMeaning": "气节、道义、廉洁、谦退",
+    "charAnnotations": [
+      {
+        "char": "节",
+        "meaning": "气节，操守"
+      },
+      {
+        "char": "义",
+        "meaning": "道义，正义"
+      },
+      {
+        "char": "廉",
+        "meaning": "廉洁，清廉"
+      },
+      {
+        "char": "退",
+        "meaning": "谦退，退让"
+      }
+    ],
+    "fullExplanation": "气节、道义、廉洁、谦退，这四种美德是君子立身处世的根本。",
+    "allusionId": null
+  },
+  {
+    "id": 96,
+    "text": "颠沛匪亏",
+    "pinyin": [
+      "diān",
+      "pèi",
+      "fěi",
+      "kuī"
+    ],
+    "briefMeaning": "即使在困苦流离中也不能亏损",
+    "charAnnotations": [
+      {
+        "char": "颠",
+        "meaning": "困顿，跌倒"
+      },
+      {
+        "char": "沛",
+        "meaning": "流离（颠沛为连绵词）"
+      },
+      {
+        "char": "匪",
+        "meaning": "不，非"
+      },
+      {
+        "char": "亏",
+        "meaning": "亏损，缺失"
+      }
+    ],
+    "fullExplanation": "即使身处颠沛流离的困境，这些美德也不能有丝毫亏损。与前句合读，强调节义廉退在任何处境下都不可动摇。",
+    "allusionId": null
+  },
+  {
+    "id": 97,
+    "text": "性静情逸",
+    "pinyin": [
+      "xìng",
+      "jìng",
+      "qíng",
+      "yì"
+    ],
+    "briefMeaning": "本性宁静，情感便安逸",
+    "charAnnotations": [
+      {
+        "char": "性",
+        "meaning": "本性，天性"
+      },
+      {
+        "char": "静",
+        "meaning": "宁静，安定"
+      },
+      {
+        "char": "情",
+        "meaning": "情感，情绪"
+      },
+      {
+        "char": "逸",
+        "meaning": "安逸，闲适"
+      }
+    ],
+    "fullExplanation": "保持本性宁静，情绪自然安逸舒适。阐述内心修养的道理：性情安定则身心和谐。",
+    "allusionId": null
+  },
+  {
+    "id": 98,
+    "text": "心动神疲",
+    "pinyin": [
+      "xīn",
+      "dòng",
+      "shén",
+      "pí"
+    ],
+    "briefMeaning": "内心躁动，精神就会疲惫",
+    "charAnnotations": [
+      {
+        "char": "心",
+        "meaning": "内心"
+      },
+      {
+        "char": "动",
+        "meaning": "躁动，不安"
+      },
+      {
+        "char": "神",
+        "meaning": "精神"
+      },
+      {
+        "char": "疲",
+        "meaning": "疲惫，困倦"
+      }
+    ],
+    "fullExplanation": "内心若躁动不安，精神就会疲惫不堪。与前句「性静情逸」形成对比，说明守静与躁动的不同结果。",
+    "allusionId": null
+  },
+  {
+    "id": 99,
+    "text": "守真志满",
+    "pinyin": [
+      "shǒu",
+      "zhēn",
+      "zhì",
+      "mǎn"
+    ],
+    "briefMeaning": "坚守真性，志向就能充实满足",
+    "charAnnotations": [
+      {
+        "char": "守",
+        "meaning": "坚守，保持"
+      },
+      {
+        "char": "真",
+        "meaning": "纯真，真性"
+      },
+      {
+        "char": "志",
+        "meaning": "志向，心志"
+      },
+      {
+        "char": "满",
+        "meaning": "充实，满足"
+      }
+    ],
+    "fullExplanation": "坚守纯真本性，心志自然充实满足。说明返璞归真、安于本分的修身之道。",
+    "allusionId": null
+  },
+  {
+    "id": 100,
+    "text": "逐物意移",
+    "pinyin": [
+      "zhú",
+      "wù",
+      "yì",
+      "yí"
+    ],
+    "briefMeaning": "追逐外物，心意就会转移动摇",
+    "charAnnotations": [
+      {
+        "char": "逐",
+        "meaning": "追逐"
+      },
+      {
+        "char": "物",
+        "meaning": "外物，物欲"
+      },
+      {
+        "char": "意",
+        "meaning": "心意，意志"
+      },
+      {
+        "char": "移",
+        "meaning": "转移，动摇"
+      }
+    ],
+    "fullExplanation": "若一味追逐外在物欲，心志就会动摇偏移。与前句对比：守真则志满，逐物则意移。",
+    "allusionId": null
+  },
+  {
+    "id": 101,
+    "text": "坚持雅操",
+    "pinyin": [
+      "jiān",
+      "chí",
+      "yǎ",
+      "cāo"
+    ],
+    "briefMeaning": "坚持高雅的操守品行",
+    "charAnnotations": [
+      {
+        "char": "坚",
+        "meaning": "坚定，坚守"
+      },
+      {
+        "char": "持",
+        "meaning": "保持，持守"
+      },
+      {
+        "char": "雅",
+        "meaning": "高雅，端正"
+      },
+      {
+        "char": "操",
+        "meaning": "操守，品行"
+      }
+    ],
+    "fullExplanation": "坚定不移地保持高雅的操守和品行。告诫人们要有恒心，不为外物所动摇。",
+    "allusionId": null
+  },
+  {
+    "id": 102,
+    "text": "好爵自縻",
+    "pinyin": [
+      "hǎo",
+      "jué",
+      "zì",
+      "mí"
+    ],
+    "briefMeaning": "好的爵禄自然会来系住你",
+    "charAnnotations": [
+      {
+        "char": "好",
+        "meaning": "美好的"
+      },
+      {
+        "char": "爵",
+        "meaning": "爵位，官禄"
+      },
+      {
+        "char": "自",
+        "meaning": "自然"
+      },
+      {
+        "char": "縻",
+        "meaning": "系住，牵系"
+      }
+    ],
+    "fullExplanation": "只要坚持高尚品行，美好的爵位俸禄自然会到来。语本《易经·中孚卦》「我有好爵，吾与尔靡之」。",
+    "allusionId": null
+  },
+  {
+    "id": 103,
+    "text": "都邑华夏",
+    "pinyin": [
+      "dū",
+      "yì",
+      "huá",
+      "xià"
+    ],
+    "briefMeaning": "华夏大地的都城",
+    "charAnnotations": [
+      {
+        "char": "都",
+        "meaning": "都城，国都"
+      },
+      {
+        "char": "邑",
+        "meaning": "城邑，城市"
+      },
+      {
+        "char": "华",
+        "meaning": "华美（华夏）"
+      },
+      {
+        "char": "夏",
+        "meaning": "伟大（华夏）"
+      }
+    ],
+    "fullExplanation": "华夏大地上的都城巍峨壮观。从此处起，描写两都的繁华盛况。",
+    "allusionId": null
+  },
+  {
+    "id": 104,
+    "text": "东西二京",
+    "pinyin": [
+      "dōng",
+      "xī",
+      "èr",
+      "jīng"
+    ],
+    "briefMeaning": "东都洛阳和西都长安",
+    "charAnnotations": [
+      {
+        "char": "东",
+        "meaning": "东方"
+      },
+      {
+        "char": "西",
+        "meaning": "西方"
+      },
+      {
+        "char": "二",
+        "meaning": "两个"
+      },
+      {
+        "char": "京",
+        "meaning": "京都，都城"
+      }
+    ],
+    "fullExplanation": "东都洛阳和西都长安是华夏最重要的两座都城。东京指洛阳，西京指长安，分别是东汉和西汉的国都。",
+    "allusionId": null
+  },
+  {
+    "id": 105,
+    "text": "背邙面洛",
+    "pinyin": [
+      "bèi",
+      "máng",
+      "miàn",
+      "luò"
+    ],
+    "briefMeaning": "背靠邙山，面朝洛水",
+    "charAnnotations": [
+      {
+        "char": "背",
+        "meaning": "背靠"
+      },
+      {
+        "char": "邙",
+        "meaning": "邙山"
+      },
+      {
+        "char": "面",
+        "meaning": "面向"
+      },
+      {
+        "char": "洛",
+        "meaning": "洛水"
+      }
+    ],
+    "fullExplanation": "东都洛阳北靠邙山，南面洛水。描写洛阳依山傍水的地理形势。",
+    "allusionId": null
+  },
+  {
+    "id": 106,
+    "text": "浮渭据泾",
+    "pinyin": [
+      "fú",
+      "wèi",
+      "jù",
+      "jīng"
+    ],
+    "briefMeaning": "横跨渭水，据守泾河",
+    "charAnnotations": [
+      {
+        "char": "浮",
+        "meaning": "浮于，临近"
+      },
+      {
+        "char": "渭",
+        "meaning": "渭水"
+      },
+      {
+        "char": "据",
+        "meaning": "据守，凭借"
+      },
+      {
+        "char": "泾",
+        "meaning": "泾水"
+      }
+    ],
+    "fullExplanation": "西都长安临近渭水，据守泾河。描写长安凭借渭泾二水的地理优势。",
+    "allusionId": null
+  },
+  {
+    "id": 107,
+    "text": "宫殿盘郁",
+    "pinyin": [
+      "gōng",
+      "diàn",
+      "pán",
+      "yù"
+    ],
+    "briefMeaning": "宫殿盘曲繁盛、气势恢宏",
+    "charAnnotations": [
+      {
+        "char": "宫",
+        "meaning": "宫室"
+      },
+      {
+        "char": "殿",
+        "meaning": "殿堂"
+      },
+      {
+        "char": "盘",
+        "meaning": "盘曲，宏伟"
+      },
+      {
+        "char": "郁",
+        "meaning": "繁盛，葱郁"
+      }
+    ],
+    "fullExplanation": "宫殿建筑盘曲回环，繁茂壮丽。形容两京宫殿的宏大规模和壮丽气象。",
+    "allusionId": null
+  },
+  {
+    "id": 108,
+    "text": "楼观飞惊",
+    "pinyin": [
+      "lóu",
+      "guàn",
+      "fēi",
+      "jīng"
+    ],
+    "briefMeaning": "楼台观阁高耸凌空，令人惊叹",
+    "charAnnotations": [
+      {
+        "char": "楼",
+        "meaning": "楼阁"
+      },
+      {
+        "char": "观",
+        "meaning": "观台，高台"
+      },
+      {
+        "char": "飞",
+        "meaning": "高耸凌空"
+      },
+      {
+        "char": "惊",
+        "meaning": "惊叹"
+      }
+    ],
+    "fullExplanation": "楼阁观台高耸入云，仿佛凌空飞起，令人叹为观止。形容建筑之高峻壮观。",
+    "allusionId": null
+  },
+  {
+    "id": 109,
+    "text": "图写禽兽",
+    "pinyin": [
+      "tú",
+      "xiě",
+      "qín",
+      "shòu"
+    ],
+    "briefMeaning": "描绘着飞禽走兽的图画",
+    "charAnnotations": [
+      {
+        "char": "图",
+        "meaning": "图画，描绘"
+      },
+      {
+        "char": "写",
+        "meaning": "描画，摹写"
+      },
+      {
+        "char": "禽",
+        "meaning": "飞禽"
+      },
+      {
+        "char": "兽",
+        "meaning": "走兽"
+      }
+    ],
+    "fullExplanation": "宫殿中描绘着各种飞禽走兽的图画。形容宫殿装饰的精美丰富。",
+    "allusionId": null
+  },
+  {
+    "id": 110,
+    "text": "画彩仙灵",
+    "pinyin": [
+      "huà",
+      "cǎi",
+      "xiān",
+      "líng"
+    ],
+    "briefMeaning": "彩绘着神仙灵物",
+    "charAnnotations": [
+      {
+        "char": "画",
+        "meaning": "绘画"
+      },
+      {
+        "char": "彩",
+        "meaning": "色彩，彩绘"
+      },
+      {
+        "char": "仙",
+        "meaning": "神仙"
+      },
+      {
+        "char": "灵",
+        "meaning": "灵物，神灵"
+      }
+    ],
+    "fullExplanation": "用缤纷色彩绘制着神仙灵物的画像。与前句合读，描写宫殿壁画内容丰富，既有禽兽也有仙灵。",
+    "allusionId": null
+  },
+  {
+    "id": 111,
+    "text": "丙舍旁启",
+    "pinyin": [
+      "bǐng",
+      "shè",
+      "páng",
+      "qǐ"
+    ],
+    "briefMeaning": "偏殿从旁边打开",
+    "charAnnotations": [
+      {
+        "char": "丙",
+        "meaning": "第三等（丙舍指偏殿）"
+      },
+      {
+        "char": "舍",
+        "meaning": "房舍"
+      },
+      {
+        "char": "旁",
+        "meaning": "旁边"
+      },
+      {
+        "char": "启",
+        "meaning": "开启"
+      }
+    ],
+    "fullExplanation": "正殿旁边的偏殿沿侧面依次开启。丙舍是宫中的次要殿舍，从正殿旁侧延伸开来。",
+    "allusionId": null
+  },
+  {
+    "id": 112,
+    "text": "甲帐对楹",
+    "pinyin": [
+      "jiǎ",
+      "zhàng",
+      "duì",
+      "yíng"
+    ],
+    "briefMeaning": "华丽的帷帐对着廊柱",
+    "charAnnotations": [
+      {
+        "char": "甲",
+        "meaning": "第一等，最精美的"
+      },
+      {
+        "char": "帐",
+        "meaning": "帷帐"
+      },
+      {
+        "char": "对",
+        "meaning": "面对"
+      },
+      {
+        "char": "楹",
+        "meaning": "楹柱，廊柱"
+      }
+    ],
+    "fullExplanation": "最华丽的帷帐正对着殿堂楹柱。甲帐是汉武帝所设的珍贵帷帐，极尽奢华。",
+    "allusionId": null
+  },
+  {
+    "id": 113,
+    "text": "肆筵设席",
+    "pinyin": [
+      "sì",
+      "yán",
+      "shè",
+      "xí"
+    ],
+    "briefMeaning": "摆开筵席，设置宴饮",
+    "charAnnotations": [
+      {
+        "char": "肆",
+        "meaning": "铺设，陈列"
+      },
+      {
+        "char": "筵",
+        "meaning": "筵席（铺在地上的竹席）"
+      },
+      {
+        "char": "设",
+        "meaning": "设置"
+      },
+      {
+        "char": "席",
+        "meaning": "坐席"
+      }
+    ],
+    "fullExplanation": "铺设筵席，安排宴饮。古人席地而坐，筵在下、席在上，合称筵席。",
+    "allusionId": null
+  },
+  {
+    "id": 114,
+    "text": "鼓瑟吹笙",
+    "pinyin": [
+      "gǔ",
+      "sè",
+      "chuī",
+      "shēng"
+    ],
+    "briefMeaning": "弹奏瑟，吹响笙",
+    "charAnnotations": [
+      {
+        "char": "鼓",
+        "meaning": "弹奏"
+      },
+      {
+        "char": "瑟",
+        "meaning": "瑟（弦乐器）"
+      },
+      {
+        "char": "吹",
+        "meaning": "吹奏"
+      },
+      {
+        "char": "笙",
+        "meaning": "笙（簧管乐器）"
+      }
+    ],
+    "fullExplanation": "宴席上弹奏瑟，吹响笙，丝竹管弦之声不绝。描写宫廷宴饮中的乐舞盛况。",
+    "allusionId": null
+  },
+  {
+    "id": 115,
+    "text": "升阶纳陛",
+    "pinyin": [
+      "shēng",
+      "jiē",
+      "nà",
+      "bì"
+    ],
+    "briefMeaning": "登上台阶，步入殿陛",
+    "charAnnotations": [
+      {
+        "char": "升",
+        "meaning": "登上"
+      },
+      {
+        "char": "阶",
+        "meaning": "台阶"
+      },
+      {
+        "char": "纳",
+        "meaning": "进入"
+      },
+      {
+        "char": "陛",
+        "meaning": "殿前台阶"
+      }
+    ],
+    "fullExplanation": "群臣登上台阶，走上殿前的陛阶觐见天子。描写朝堂礼仪的庄严肃穆。",
+    "allusionId": null
+  },
+  {
+    "id": 116,
+    "text": "弁转疑星",
+    "pinyin": [
+      "biàn",
+      "zhuǎn",
+      "yí",
+      "xīng"
+    ],
+    "briefMeaning": "官帽转动时如繁星闪烁",
+    "charAnnotations": [
+      {
+        "char": "弁",
+        "meaning": "礼帽，官帽"
+      },
+      {
+        "char": "转",
+        "meaning": "转动"
+      },
+      {
+        "char": "疑",
+        "meaning": "如同，好像"
+      },
+      {
+        "char": "星",
+        "meaning": "星辰"
+      }
+    ],
+    "fullExplanation": "群臣的礼帽上缀有珠玉，转动之间闪闪发光，宛如满天繁星。形容朝堂上百官济济、冠饰辉煌的景象。",
+    "allusionId": null
+  },
+  {
+    "id": 117,
+    "text": "右通广内",
+    "pinyin": [
+      "yòu",
+      "tōng",
+      "guǎng",
+      "nèi"
+    ],
+    "briefMeaning": "右边通向广内殿",
+    "charAnnotations": [
+      {
+        "char": "右",
+        "meaning": "右侧"
+      },
+      {
+        "char": "通",
+        "meaning": "通往"
+      },
+      {
+        "char": "广",
+        "meaning": "广内（殿名）"
+      },
+      {
+        "char": "内",
+        "meaning": "内（殿名的一部分）"
+      }
+    ],
+    "fullExplanation": "宫殿的右边通向广内殿。广内殿是汉代宫中的藏书之所，收藏经籍典册。",
+    "allusionId": null
+  },
+  {
+    "id": 118,
+    "text": "左达承明",
+    "pinyin": [
+      "zuǒ",
+      "dá",
+      "chéng",
+      "míng"
+    ],
+    "briefMeaning": "左边到达承明殿",
+    "charAnnotations": [
+      {
+        "char": "左",
+        "meaning": "左侧"
+      },
+      {
+        "char": "达",
+        "meaning": "通达"
+      },
+      {
+        "char": "承",
+        "meaning": "承明（殿名）"
+      },
+      {
+        "char": "明",
+        "meaning": "明（殿名的一部分）"
+      }
+    ],
+    "fullExplanation": "宫殿的左边通达承明殿。承明殿是汉代大臣值宿议事之所，著名学者常在此待诏。",
+    "allusionId": null
+  },
+  {
+    "id": 119,
+    "text": "既集坟典",
+    "pinyin": [
+      "jì",
+      "jí",
+      "fén",
+      "diǎn"
+    ],
+    "briefMeaning": "汇集了三坟五典等古籍",
+    "charAnnotations": [
+      {
+        "char": "既",
+        "meaning": "已经"
+      },
+      {
+        "char": "集",
+        "meaning": "汇集"
+      },
+      {
+        "char": "坟",
+        "meaning": "三坟（上古典籍）"
+      },
+      {
+        "char": "典",
+        "meaning": "五典（上古典籍）"
+      }
+    ],
+    "fullExplanation": "宫中已经汇集了三坟五典等上古典籍。三坟是三皇之书，五典是五帝之书，代指最古老的经典文献。",
+    "allusionId": null
+  },
+  {
+    "id": 120,
+    "text": "亦聚群英",
+    "pinyin": [
+      "yì",
+      "jù",
+      "qún",
+      "yīng"
+    ],
+    "briefMeaning": "也聚集了众多英才",
+    "charAnnotations": [
+      {
+        "char": "亦",
+        "meaning": "也"
+      },
+      {
+        "char": "聚",
+        "meaning": "聚集"
+      },
+      {
+        "char": "群",
+        "meaning": "众多"
+      },
+      {
+        "char": "英",
+        "meaning": "英才，贤能"
+      }
+    ],
+    "fullExplanation": "朝廷不仅收藏典籍，也汇聚了天下英才。既有文化典籍之富，又有贤能人才之盛。",
+    "allusionId": null
+  },
+  {
+    "id": 121,
+    "text": "杜稿钟隶",
+    "pinyin": [
+      "dù",
+      "gǎo",
+      "zhōng",
+      "lì"
+    ],
+    "briefMeaning": "杜度擅长草书，钟繇精于隶书",
+    "charAnnotations": [
+      {
+        "char": "杜",
+        "meaning": "杜度（汉代书法家）"
+      },
+      {
+        "char": "稿",
+        "meaning": "稿书，草书"
+      },
+      {
+        "char": "钟",
+        "meaning": "钟繇（三国书法家）"
+      },
+      {
+        "char": "隶",
+        "meaning": "隶书"
+      }
+    ],
+    "fullExplanation": "杜度以草书闻名，钟繇以隶书著称。列举两位书法大家，赞美中国书法艺术的精湛。",
+    "allusionId": null
+  },
+  {
+    "id": 122,
+    "text": "漆书壁经",
+    "pinyin": [
+      "qī",
+      "shū",
+      "bì",
+      "jīng"
+    ],
+    "briefMeaning": "漆写的竹简和墙壁中发现的经书",
+    "charAnnotations": [
+      {
+        "char": "漆",
+        "meaning": "用漆书写"
+      },
+      {
+        "char": "书",
+        "meaning": "书籍"
+      },
+      {
+        "char": "壁",
+        "meaning": "墙壁"
+      },
+      {
+        "char": "经",
+        "meaning": "经书"
+      }
+    ],
+    "fullExplanation": "漆书指汲冢出土的用漆书写的古竹简，壁经指孔子旧宅墙壁中发现的古文经书。两者都是古代重大的文献发现。",
+    "allusionId": null
+  },
+  {
+    "id": 123,
+    "text": "府罗将相",
+    "pinyin": [
+      "fǔ",
+      "luó",
+      "jiàng",
+      "xiàng"
+    ],
+    "briefMeaning": "官府中罗列着将军宰相",
+    "charAnnotations": [
+      {
+        "char": "府",
+        "meaning": "官府"
+      },
+      {
+        "char": "罗",
+        "meaning": "罗列，聚集"
+      },
+      {
+        "char": "将",
+        "meaning": "将军"
+      },
+      {
+        "char": "相",
+        "meaning": "宰相"
+      }
+    ],
+    "fullExplanation": "朝廷官府中将军宰相云集。描写两京人才荟萃，文武百官齐聚的盛况。",
+    "allusionId": null
+  },
+  {
+    "id": 124,
+    "text": "路侠槐卿",
+    "pinyin": [
+      "lù",
+      "xiá",
+      "huái",
+      "qīng"
+    ],
+    "briefMeaning": "道路两旁槐树成列，比喻三公九卿",
+    "charAnnotations": [
+      {
+        "char": "路",
+        "meaning": "道路"
+      },
+      {
+        "char": "侠",
+        "meaning": "通「夹」，夹道"
+      },
+      {
+        "char": "槐",
+        "meaning": "槐树"
+      },
+      {
+        "char": "卿",
+        "meaning": "卿大夫，高官"
+      }
+    ],
+    "fullExplanation": "大路两旁种植着槐树，象征三公九卿的尊位。周代朝廷外植三槐，对应三公之位，故以「槐卿」代指高官。",
+    "allusionId": null
+  },
+  {
+    "id": 125,
+    "text": "户封八县",
+    "pinyin": [
+      "hù",
+      "fēng",
+      "bā",
+      "xiàn"
+    ],
+    "briefMeaning": "每户封地多达八个县",
+    "charAnnotations": [
+      {
+        "char": "户",
+        "meaning": "户，家"
+      },
+      {
+        "char": "封",
+        "meaning": "封赐"
+      },
+      {
+        "char": "八",
+        "meaning": "八个"
+      },
+      {
+        "char": "县",
+        "meaning": "县"
+      }
+    ],
+    "fullExplanation": "功臣之家封地多达八县。形容朝廷封赏之厚，功臣贵族享有广大封地。",
+    "allusionId": null
+  },
+  {
+    "id": 126,
+    "text": "家给千兵",
+    "pinyin": [
+      "jiā",
+      "jǐ",
+      "qiān",
+      "bīng"
+    ],
+    "briefMeaning": "每家配给千名兵士",
+    "charAnnotations": [
+      {
+        "char": "家",
+        "meaning": "家族"
+      },
+      {
+        "char": "给",
+        "meaning": "供给，配备"
+      },
+      {
+        "char": "千",
+        "meaning": "千名"
+      },
+      {
+        "char": "兵",
+        "meaning": "士兵"
+      }
+    ],
+    "fullExplanation": "贵族之家配有上千的兵士。与前句合读，描写功臣贵族封地广大、兵马众多的荣耀。",
+    "allusionId": null
+  },
+  {
+    "id": 127,
+    "text": "高冠陪辇",
+    "pinyin": [
+      "gāo",
+      "guān",
+      "péi",
+      "niǎn"
+    ],
+    "briefMeaning": "戴着高冠陪伴天子车驾",
+    "charAnnotations": [
+      {
+        "char": "高",
+        "meaning": "高大的"
+      },
+      {
+        "char": "冠",
+        "meaning": "冠帽"
+      },
+      {
+        "char": "陪",
+        "meaning": "陪伴，侍从"
+      },
+      {
+        "char": "辇",
+        "meaning": "天子的车驾"
+      }
+    ],
+    "fullExplanation": "群臣戴着高高的冠帽，陪侍在天子的车驾旁边。描写朝臣随侍皇帝出行的排场。",
+    "allusionId": null
+  },
+  {
+    "id": 128,
+    "text": "驱毂振缨",
+    "pinyin": [
+      "qū",
+      "gǔ",
+      "zhèn",
+      "yīng"
+    ],
+    "briefMeaning": "驱车前行，帽缨飘动",
+    "charAnnotations": [
+      {
+        "char": "驱",
+        "meaning": "驾驭，驱赶"
+      },
+      {
+        "char": "毂",
+        "meaning": "车轮，代指马车"
+      },
+      {
+        "char": "振",
+        "meaning": "振动，飞扬"
+      },
+      {
+        "char": "缨",
+        "meaning": "冠缨，帽带"
+      }
+    ],
+    "fullExplanation": "驱车疾驰，冠上的缨带随风飞扬。形容公卿贵族出行时车马辚辚、冠缨飘动的气派。",
+    "allusionId": null
+  },
+  {
+    "id": 129,
+    "text": "世禄侈富",
+    "pinyin": [
+      "shì",
+      "lù",
+      "chǐ",
+      "fù"
+    ],
+    "briefMeaning": "世代享受俸禄，奢侈富贵",
+    "charAnnotations": [
+      {
+        "char": "世",
+        "meaning": "世代"
+      },
+      {
+        "char": "禄",
+        "meaning": "俸禄"
+      },
+      {
+        "char": "侈",
+        "meaning": "奢侈"
+      },
+      {
+        "char": "富",
+        "meaning": "富裕"
+      }
+    ],
+    "fullExplanation": "这些功臣贵族世代享受朝廷俸禄，生活奢侈富裕。描写贵族阶层世袭荣华的生活。",
+    "allusionId": null
+  },
+  {
+    "id": 130,
+    "text": "车驾肥轻",
+    "pinyin": [
+      "chē",
+      "jià",
+      "féi",
+      "qīng"
+    ],
+    "briefMeaning": "乘坐肥马拉的车，穿着轻暖的皮裘",
+    "charAnnotations": [
+      {
+        "char": "车",
+        "meaning": "车辆"
+      },
+      {
+        "char": "驾",
+        "meaning": "驾驭"
+      },
+      {
+        "char": "肥",
+        "meaning": "肥壮的马"
+      },
+      {
+        "char": "轻",
+        "meaning": "轻柔的裘皮"
+      }
+    ],
+    "fullExplanation": "出行乘坐肥马所驾之车，穿着轻柔名贵的裘皮。典出《论语》「乘肥马，衣轻裘」，形容贵族的奢华生活。",
+    "allusionId": null
+  },
+  {
+    "id": 131,
+    "text": "策功茂实",
+    "pinyin": [
+      "cè",
+      "gōng",
+      "mào",
+      "shí"
+    ],
+    "briefMeaning": "记录功勋，成就丰厚",
+    "charAnnotations": [
+      {
+        "char": "策",
+        "meaning": "记录，策书"
+      },
+      {
+        "char": "功",
+        "meaning": "功勋"
+      },
+      {
+        "char": "茂",
+        "meaning": "丰盛"
+      },
+      {
+        "char": "实",
+        "meaning": "充实，实在"
+      }
+    ],
+    "fullExplanation": "将功臣的功勋记录在策书上，其业绩丰厚充实。描写朝廷对功臣的褒奖与记录。",
+    "allusionId": null
+  },
+  {
+    "id": 132,
+    "text": "勒碑刻铭",
+    "pinyin": [
+      "lè",
+      "bēi",
+      "kè",
+      "míng"
+    ],
+    "briefMeaning": "在碑石上镌刻铭文",
+    "charAnnotations": [
+      {
+        "char": "勒",
+        "meaning": "镌刻"
+      },
+      {
+        "char": "碑",
+        "meaning": "石碑"
+      },
+      {
+        "char": "刻",
+        "meaning": "雕刻"
+      },
+      {
+        "char": "铭",
+        "meaning": "铭文"
+      }
+    ],
+    "fullExplanation": "将功臣的事迹镌刻在石碑上，铸成铭文以永垂不朽。与前句合读，描述以策书和碑铭来彰显功勋。",
+    "allusionId": null
+  },
+  {
+    "id": 133,
+    "text": "磻溪伊尹",
+    "pinyin": [
+      "pán",
+      "xī",
+      "yī",
+      "yǐn"
+    ],
+    "briefMeaning": "姜太公钓于磻溪，伊尹辅佐商汤",
+    "charAnnotations": [
+      {
+        "char": "磻",
+        "meaning": "磻溪（地名）"
+      },
+      {
+        "char": "溪",
+        "meaning": "溪流"
+      },
+      {
+        "char": "伊",
+        "meaning": "伊尹（人名）"
+      },
+      {
+        "char": "尹",
+        "meaning": "尹（人名的一部分）"
+      }
+    ],
+    "fullExplanation": "姜太公（吕尚）在磻溪垂钓等待明主，伊尹辅佐商汤建立商朝。两人都是由布衣而登辅政大臣的典范。",
+    "allusionId": "panxiyiyin"
+  },
+  {
+    "id": 134,
+    "text": "佐时阿衡",
+    "pinyin": [
+      "zuǒ",
+      "shí",
+      "ē",
+      "héng"
+    ],
+    "briefMeaning": "辅佐当世，位居阿衡",
+    "charAnnotations": [
+      {
+        "char": "佐",
+        "meaning": "辅佐"
+      },
+      {
+        "char": "时",
+        "meaning": "时代，当世"
+      },
+      {
+        "char": "阿",
+        "meaning": "阿衡（官名，即太宰）"
+      },
+      {
+        "char": "衡",
+        "meaning": "衡（阿衡的一部分）"
+      }
+    ],
+    "fullExplanation": "他们辅佐当世君主，担任阿衡之职。阿衡是伊尹的官号，意为「国之栋梁」，代指最高辅政之臣。",
+    "allusionId": "panxiyiyin"
+  },
+  {
+    "id": 135,
+    "text": "奄宅曲阜",
+    "pinyin": [
+      "yǎn",
+      "zhái",
+      "qū",
+      "fù"
+    ],
+    "briefMeaning": "平定奄国，定都曲阜",
+    "charAnnotations": [
+      {
+        "char": "奄",
+        "meaning": "奄（古国名）"
+      },
+      {
+        "char": "宅",
+        "meaning": "定居，建都"
+      },
+      {
+        "char": "曲",
+        "meaning": "曲阜（地名）"
+      },
+      {
+        "char": "阜",
+        "meaning": "阜（地名的一部分）"
+      }
+    ],
+    "fullExplanation": "周公平定奄国之乱后，其子伯禽受封于鲁，定都曲阜。曲阜成为鲁国的国都和儒家文化的发源地。",
+    "allusionId": "yanzhaikufu"
+  },
+  {
+    "id": 136,
+    "text": "微旦孰营",
+    "pinyin": [
+      "wēi",
+      "dàn",
+      "shú",
+      "yíng"
+    ],
+    "briefMeaning": "如果没有周公旦，谁能治理天下",
+    "charAnnotations": [
+      {
+        "char": "微",
+        "meaning": "如果没有"
+      },
+      {
+        "char": "旦",
+        "meaning": "周公旦"
+      },
+      {
+        "char": "孰",
+        "meaning": "谁"
+      },
+      {
+        "char": "营",
+        "meaning": "经营，治理"
+      }
+    ],
+    "fullExplanation": "如果没有周公旦，谁能经营治理天下呢？赞叹周公旦辅政的丰功伟绩，没有他就没有周朝的太平盛世。",
+    "allusionId": "weidanshuying"
+  },
+  {
+    "id": 137,
+    "text": "桓公匡合",
+    "pinyin": [
+      "huán",
+      "gōng",
+      "kuāng",
+      "hé"
+    ],
+    "briefMeaning": "齐桓公匡正天下、会合诸侯",
+    "charAnnotations": [
+      {
+        "char": "桓",
+        "meaning": "桓公（齐桓公）"
+      },
+      {
+        "char": "公",
+        "meaning": "公（爵位）"
+      },
+      {
+        "char": "匡",
+        "meaning": "匡正"
+      },
+      {
+        "char": "合",
+        "meaning": "会合诸侯"
+      }
+    ],
+    "fullExplanation": "齐桓公匡正天下，九合诸侯，成为春秋首霸。语本《论语》「桓公九合诸侯，不以兵车，管仲之力也」。",
+    "allusionId": "huangongkuanghe"
+  },
+  {
+    "id": 138,
+    "text": "济弱扶倾",
+    "pinyin": [
+      "jì",
+      "ruò",
+      "fú",
+      "qīng"
+    ],
+    "briefMeaning": "救济弱小，扶持危倾",
+    "charAnnotations": [
+      {
+        "char": "济",
+        "meaning": "救济"
+      },
+      {
+        "char": "弱",
+        "meaning": "弱小"
+      },
+      {
+        "char": "扶",
+        "meaning": "扶持"
+      },
+      {
+        "char": "倾",
+        "meaning": "倾危，衰落"
+      }
+    ],
+    "fullExplanation": "齐桓公以霸主身份救济弱小诸侯，扶持倾危之国。这是春秋霸主「尊王攘夷」大义的具体体现。",
+    "allusionId": null
+  },
+  {
+    "id": 139,
+    "text": "绮回汉惠",
+    "pinyin": [
+      "qǐ",
+      "huí",
+      "hàn",
+      "huì"
+    ],
+    "briefMeaning": "绮里季等使汉惠帝保住太子之位",
+    "charAnnotations": [
+      {
+        "char": "绮",
+        "meaning": "绮里季（商山四皓之一）"
+      },
+      {
+        "char": "回",
+        "meaning": "挽回"
+      },
+      {
+        "char": "汉",
+        "meaning": "汉朝"
+      },
+      {
+        "char": "惠",
+        "meaning": "惠帝"
+      }
+    ],
+    "fullExplanation": "商山四皓（以绮里季为代表）出山辅佐太子，使刘邦放弃改立太子的念头，挽回了汉惠帝的储位。四位高龄隐士的出现改变了朝局走向。",
+    "allusionId": "qihuihanhui"
+  },
+  {
+    "id": 140,
+    "text": "说感武丁",
+    "pinyin": [
+      "yuè",
+      "gǎn",
+      "wǔ",
+      "dīng"
+    ],
+    "briefMeaning": "傅说以才德感动了殷王武丁",
+    "charAnnotations": [
+      {
+        "char": "说",
+        "meaning": "傅说（殷代贤臣）"
+      },
+      {
+        "char": "感",
+        "meaning": "感动"
+      },
+      {
+        "char": "武",
+        "meaning": "武丁（殷王）"
+      },
+      {
+        "char": "丁",
+        "meaning": "丁（王名的一部分）"
+      }
+    ],
+    "fullExplanation": "傅说以贤能感动了殷王武丁。武丁梦见上天赐予贤臣，在傅岩筑城的役夫中找到傅说，拜为相，殷朝由此中兴。",
+    "allusionId": "yueganwuding"
+  },
+  {
+    "id": 141,
+    "text": "俊乂密勿",
+    "pinyin": [
+      "jùn",
+      "yì",
+      "mì",
+      "wù"
+    ],
+    "briefMeaning": "俊杰贤才勤勉不懈",
+    "charAnnotations": [
+      {
+        "char": "俊",
+        "meaning": "才智杰出之人"
+      },
+      {
+        "char": "乂",
+        "meaning": "贤能，有治理才干"
+      },
+      {
+        "char": "密",
+        "meaning": "勤勉"
+      },
+      {
+        "char": "勿",
+        "meaning": "不懈（密勿为勤勉之意）"
+      }
+    ],
+    "fullExplanation": "俊杰贤才勤勤恳恳、尽心辅政。俊乂指有才能的人，密勿意为勤勉不懈。",
+    "allusionId": null
+  },
+  {
+    "id": 142,
+    "text": "多士寔宁",
+    "pinyin": [
+      "duō",
+      "shì",
+      "shí",
+      "níng"
+    ],
+    "briefMeaning": "众多贤士使国家安宁",
+    "charAnnotations": [
+      {
+        "char": "多",
+        "meaning": "众多"
+      },
+      {
+        "char": "士",
+        "meaning": "贤士"
+      },
+      {
+        "char": "寔",
+        "meaning": "确实（同「实」）"
+      },
+      {
+        "char": "宁",
+        "meaning": "安宁"
+      }
+    ],
+    "fullExplanation": "贤才众多，国家确实得以安宁太平。语本《诗经·大雅·文王》「济济多士，文王以宁」。",
+    "allusionId": null
+  },
+  {
+    "id": 143,
+    "text": "晋楚更霸",
+    "pinyin": [
+      "jìn",
+      "chǔ",
+      "gēng",
+      "bà"
+    ],
+    "briefMeaning": "晋国和楚国交替称霸",
+    "charAnnotations": [
+      {
+        "char": "晋",
+        "meaning": "晋国"
+      },
+      {
+        "char": "楚",
+        "meaning": "楚国"
+      },
+      {
+        "char": "更",
+        "meaning": "交替"
+      },
+      {
+        "char": "霸",
+        "meaning": "称霸"
+      }
+    ],
+    "fullExplanation": "春秋时期，晋国和楚国交替称霸中原。晋文公和楚庄王先后成为霸主，两国争霸是春秋中后期的主线。",
+    "allusionId": "jinchugengba"
+  },
+  {
+    "id": 144,
+    "text": "赵魏困横",
+    "pinyin": [
+      "zhào",
+      "wèi",
+      "kùn",
+      "héng"
+    ],
+    "briefMeaning": "赵国魏国困于连横之策",
+    "charAnnotations": [
+      {
+        "char": "赵",
+        "meaning": "赵国"
+      },
+      {
+        "char": "魏",
+        "meaning": "魏国"
+      },
+      {
+        "char": "困",
+        "meaning": "困扰，受困于"
+      },
+      {
+        "char": "横",
+        "meaning": "连横（外交策略）"
+      }
+    ],
+    "fullExplanation": "战国时期，赵国和魏国被秦国的连横策略所困。连横是张仪主张的外交策略，拉拢诸国亲秦以各个击破。",
+    "allusionId": null
+  },
+  {
+    "id": 145,
+    "text": "假途灭虢",
+    "pinyin": [
+      "jiǎ",
+      "tú",
+      "miè",
+      "guó"
+    ],
+    "briefMeaning": "借道讨伐的名义灭掉虢国",
+    "charAnnotations": [
+      {
+        "char": "假",
+        "meaning": "借"
+      },
+      {
+        "char": "途",
+        "meaning": "道路"
+      },
+      {
+        "char": "灭",
+        "meaning": "灭亡"
+      },
+      {
+        "char": "虢",
+        "meaning": "虢国"
+      }
+    ],
+    "fullExplanation": "晋献公向虞国借道攻打虢国，灭虢后回师又灭了虞国。「假途灭虢」是著名的军事谋略，见于《左传》和兵法三十六计。",
+    "allusionId": "jiatumieguo"
+  },
+  {
+    "id": 146,
+    "text": "践土会盟",
+    "pinyin": [
+      "jiàn",
+      "tǔ",
+      "huì",
+      "méng"
+    ],
+    "briefMeaning": "在践土举行诸侯会盟",
+    "charAnnotations": [
+      {
+        "char": "践",
+        "meaning": "践土（地名）"
+      },
+      {
+        "char": "土",
+        "meaning": "土（地名的一部分）"
+      },
+      {
+        "char": "会",
+        "meaning": "会合"
+      },
+      {
+        "char": "盟",
+        "meaning": "结盟"
+      }
+    ],
+    "fullExplanation": "晋文公在践土会合诸侯举行盟会，确立了霸主地位。这是公元前632年城濮之战后晋文公召集的著名盟会。",
+    "allusionId": "jiantuhuimeng"
+  },
+  {
+    "id": 147,
+    "text": "何遵约法",
+    "pinyin": [
+      "hé",
+      "zūn",
+      "yuē",
+      "fǎ"
+    ],
+    "briefMeaning": "萧何遵行简约的法令",
+    "charAnnotations": [
+      {
+        "char": "何",
+        "meaning": "萧何（汉初名臣）"
+      },
+      {
+        "char": "遵",
+        "meaning": "遵循"
+      },
+      {
+        "char": "约",
+        "meaning": "简约"
+      },
+      {
+        "char": "法",
+        "meaning": "法律"
+      }
+    ],
+    "fullExplanation": "萧何遵循简约宽和的法令治国。汉初刘邦入关约法三章，萧何据此制定简明法律，一改秦朝苛法，深得民心。",
+    "allusionId": "hezunyuefa"
+  },
+  {
+    "id": 148,
+    "text": "韩弊烦刑",
+    "pinyin": [
+      "hán",
+      "bì",
+      "fán",
+      "xíng"
+    ],
+    "briefMeaning": "韩非主张的繁苛刑法反而带来弊害",
+    "charAnnotations": [
+      {
+        "char": "韩",
+        "meaning": "韩非（法家代表）"
+      },
+      {
+        "char": "弊",
+        "meaning": "弊害"
+      },
+      {
+        "char": "烦",
+        "meaning": "繁琐"
+      },
+      {
+        "char": "刑",
+        "meaning": "刑罚"
+      }
+    ],
+    "fullExplanation": "韩非子主张的繁苛刑罚反而导致弊害。与前句对比：萧何以简约之法治国兴邦，韩非以繁苛之刑治国却招致祸乱。",
+    "allusionId": null
+  },
+  {
+    "id": 149,
+    "text": "起翦颇牧",
+    "pinyin": [
+      "qǐ",
+      "jiǎn",
+      "pō",
+      "mù"
+    ],
+    "briefMeaning": "白起、王翦、廉颇、李牧四大名将",
+    "charAnnotations": [
+      {
+        "char": "起",
+        "meaning": "白起（秦国名将）"
+      },
+      {
+        "char": "翦",
+        "meaning": "王翦（秦国名将）"
+      },
+      {
+        "char": "颇",
+        "meaning": "廉颇（赵国名将）"
+      },
+      {
+        "char": "牧",
+        "meaning": "李牧（赵国名将）"
+      }
+    ],
+    "fullExplanation": "白起、王翦、廉颇、李牧是战国时期最杰出的四位军事家。秦有白起王翦，赵有廉颇李牧，并称「战国四大名将」。",
+    "allusionId": "qijianpomu"
+  },
+  {
+    "id": 150,
+    "text": "用军最精",
+    "pinyin": [
+      "yòng",
+      "jūn",
+      "zuì",
+      "jīng"
+    ],
+    "briefMeaning": "用兵打仗最为精妙",
+    "charAnnotations": [
+      {
+        "char": "用",
+        "meaning": "运用"
+      },
+      {
+        "char": "军",
+        "meaning": "军事，兵法"
+      },
+      {
+        "char": "最",
+        "meaning": "最为"
+      },
+      {
+        "char": "精",
+        "meaning": "精妙，精湛"
+      }
+    ],
+    "fullExplanation": "这四位名将运用军事谋略最为精妙。他们在战场上百战百胜，是古代军事艺术的巅峰代表。",
+    "allusionId": null
+  },
+  {
+    "id": 151,
+    "text": "宣威沙漠",
+    "pinyin": [
+      "xuān",
+      "wēi",
+      "shā",
+      "mò"
+    ],
+    "briefMeaning": "在沙漠边塞宣扬军威",
+    "charAnnotations": [
+      {
+        "char": "宣",
+        "meaning": "宣扬"
+      },
+      {
+        "char": "威",
+        "meaning": "威名"
+      },
+      {
+        "char": "沙",
+        "meaning": "沙漠"
+      },
+      {
+        "char": "漠",
+        "meaning": "大漠"
+      }
+    ],
+    "fullExplanation": "他们在北方大漠宣扬国威。形容名将征战四方，威名远播至边疆沙漠之地。",
+    "allusionId": null
+  },
+  {
+    "id": 152,
+    "text": "驰誉丹青",
+    "pinyin": [
+      "chí",
+      "yù",
+      "dān",
+      "qīng"
+    ],
+    "briefMeaning": "声名流传于史册画卷",
+    "charAnnotations": [
+      {
+        "char": "驰",
+        "meaning": "传播"
+      },
+      {
+        "char": "誉",
+        "meaning": "声誉"
+      },
+      {
+        "char": "丹",
+        "meaning": "丹青（代指绘画和史册）"
+      },
+      {
+        "char": "青",
+        "meaning": "青（丹青的一部分）"
+      }
+    ],
+    "fullExplanation": "他们的声誉流传于史册和画卷之中。丹青既指绘画，也代指史书（因古人用丹青记事），形容名将功业流芳百世。",
+    "allusionId": null
+  },
+  {
+    "id": 153,
+    "text": "九州禹迹",
+    "pinyin": [
+      "jiǔ",
+      "zhōu",
+      "yǔ",
+      "jì"
+    ],
+    "briefMeaning": "九州大地留下了大禹治水的足迹",
+    "charAnnotations": [
+      {
+        "char": "九",
+        "meaning": "九个"
+      },
+      {
+        "char": "州",
+        "meaning": "州（行政区域）"
+      },
+      {
+        "char": "禹",
+        "meaning": "大禹"
+      },
+      {
+        "char": "迹",
+        "meaning": "足迹"
+      }
+    ],
+    "fullExplanation": "华夏九州留下了大禹治水的足迹。大禹治水走遍天下，将天下划分为九州（冀、兖、青、徐、扬、荆、豫、梁、雍），奠定了华夏版图。",
+    "allusionId": "jiuzhouyuji"
+  },
+  {
+    "id": 154,
+    "text": "百郡秦并",
+    "pinyin": [
+      "bǎi",
+      "jùn",
+      "qín",
+      "bìng"
+    ],
+    "briefMeaning": "秦朝统一天下，设置百余郡县",
+    "charAnnotations": [
+      {
+        "char": "百",
+        "meaning": "上百个"
+      },
+      {
+        "char": "郡",
+        "meaning": "郡（行政区域）"
+      },
+      {
+        "char": "秦",
+        "meaning": "秦朝"
+      },
+      {
+        "char": "并",
+        "meaning": "合并，统一"
+      }
+    ],
+    "fullExplanation": "秦始皇统一六国后，废分封、行郡县，将天下分为三十六郡（后增至四十余郡），实现了大一统。",
+    "allusionId": null
+  },
+  {
+    "id": 155,
+    "text": "岳宗泰岱",
+    "pinyin": [
+      "yuè",
+      "zōng",
+      "tài",
+      "dài"
+    ],
+    "briefMeaning": "五岳以泰山为首",
+    "charAnnotations": [
+      {
+        "char": "岳",
+        "meaning": "五岳"
+      },
+      {
+        "char": "宗",
+        "meaning": "宗主，之首"
+      },
+      {
+        "char": "泰",
+        "meaning": "泰山"
+      },
+      {
+        "char": "岱",
+        "meaning": "岱山（泰山别称）"
+      }
+    ],
+    "fullExplanation": "五岳之中以泰山为首。泰山又称岱宗、岱山，位于山东，是五岳之首，历代帝王封禅之地。",
+    "allusionId": "yuezongtaidai"
+  },
+  {
+    "id": 156,
+    "text": "禅主云亭",
+    "pinyin": [
+      "shàn",
+      "zhǔ",
+      "yún",
+      "tíng"
+    ],
+    "briefMeaning": "封禅大典在云山和亭山举行",
+    "charAnnotations": [
+      {
+        "char": "禅",
+        "meaning": "禅祭（祭地之礼）"
+      },
+      {
+        "char": "主",
+        "meaning": "主要在"
+      },
+      {
+        "char": "云",
+        "meaning": "云山"
+      },
+      {
+        "char": "亭",
+        "meaning": "亭山"
+      }
+    ],
+    "fullExplanation": "封禅大典中的禅祭主要在云云山和亭亭山举行。封为祭天于泰山之巅，禅为祭地于泰山附近的小山，合称封禅。",
+    "allusionId": "shanzhuyunting"
+  },
+  {
+    "id": 157,
+    "text": "雁门紫塞",
+    "pinyin": [
+      "yàn",
+      "mén",
+      "zǐ",
+      "sài"
+    ],
+    "briefMeaning": "雁门关和紫色的边塞长城",
+    "charAnnotations": [
+      {
+        "char": "雁",
+        "meaning": "雁门（关名）"
+      },
+      {
+        "char": "门",
+        "meaning": "门（关名的一部分）"
+      },
+      {
+        "char": "紫",
+        "meaning": "紫色（紫塞指长城）"
+      },
+      {
+        "char": "塞",
+        "meaning": "边塞"
+      }
+    ],
+    "fullExplanation": "雁门关和万里长城是北方重要的军事要塞。雁门关位于山西，是抵御北方游牧民族的要隘；紫塞是长城的别称，因塞土紫色而得名。",
+    "allusionId": null
+  },
+  {
+    "id": 158,
+    "text": "鸡田赤城",
+    "pinyin": [
+      "jī",
+      "tián",
+      "chì",
+      "chéng"
+    ],
+    "briefMeaning": "鸡田和赤城等边塞地名",
+    "charAnnotations": [
+      {
+        "char": "鸡",
+        "meaning": "鸡田（地名）"
+      },
+      {
+        "char": "田",
+        "meaning": "田（地名的一部分）"
+      },
+      {
+        "char": "赤",
+        "meaning": "赤城（地名）"
+      },
+      {
+        "char": "城",
+        "meaning": "城（地名的一部分）"
+      }
+    ],
+    "fullExplanation": "鸡田和赤城都是著名的边塞地名。鸡田在西北边地，赤城在河北北部，皆为古代重要的军事要地。",
+    "allusionId": null
+  },
+  {
+    "id": 159,
+    "text": "昆池碣石",
+    "pinyin": [
+      "kūn",
+      "chí",
+      "jié",
+      "shí"
+    ],
+    "briefMeaning": "昆明池和碣石山",
+    "charAnnotations": [
+      {
+        "char": "昆",
+        "meaning": "昆明（昆明池）"
+      },
+      {
+        "char": "池",
+        "meaning": "池塘"
+      },
+      {
+        "char": "碣",
+        "meaning": "碣石（山名）"
+      },
+      {
+        "char": "石",
+        "meaning": "石（山名的一部分）"
+      }
+    ],
+    "fullExplanation": "昆明池和碣石山是著名的山水名胜。昆明池是汉武帝在长安开凿的大池，碣石山在河北，曹操曾登临赋诗「东临碣石，以观沧海」。",
+    "allusionId": null
+  },
+  {
+    "id": 160,
+    "text": "钜野洞庭",
+    "pinyin": [
+      "jù",
+      "yě",
+      "dòng",
+      "tíng"
+    ],
+    "briefMeaning": "钜野泽和洞庭湖",
+    "charAnnotations": [
+      {
+        "char": "钜",
+        "meaning": "钜野（泽名）"
+      },
+      {
+        "char": "野",
+        "meaning": "野（泽名的一部分）"
+      },
+      {
+        "char": "洞",
+        "meaning": "洞庭（湖名）"
+      },
+      {
+        "char": "庭",
+        "meaning": "庭（湖名的一部分）"
+      }
+    ],
+    "fullExplanation": "钜野泽和洞庭湖是中国著名的大泽大湖。钜野泽在今山东，古代为黄河下游巨泽；洞庭湖在今湖南，是长江流域最大的淡水湖之一。",
+    "allusionId": null
+  },
+  {
+    "id": 161,
+    "text": "旷远绵邈",
+    "pinyin": [
+      "kuàng",
+      "yuǎn",
+      "mián",
+      "miǎo"
+    ],
+    "briefMeaning": "辽阔深远，绵延悠长",
+    "charAnnotations": [
+      {
+        "char": "旷",
+        "meaning": "空旷，辽阔"
+      },
+      {
+        "char": "远",
+        "meaning": "遥远"
+      },
+      {
+        "char": "绵",
+        "meaning": "绵延"
+      },
+      {
+        "char": "邈",
+        "meaning": "悠远"
+      }
+    ],
+    "fullExplanation": "山川大地辽阔深远，绵延悠长，望不到尽头。总结前文所列的名山大川，感叹华夏疆域之广袤。",
+    "allusionId": null
+  },
+  {
+    "id": 162,
+    "text": "岩岫杳冥",
+    "pinyin": [
+      "yán",
+      "xiù",
+      "yǎo",
+      "míng"
+    ],
+    "briefMeaning": "山岩洞穴幽深昏暗",
+    "charAnnotations": [
+      {
+        "char": "岩",
+        "meaning": "岩石，山崖"
+      },
+      {
+        "char": "岫",
+        "meaning": "山洞，山峰"
+      },
+      {
+        "char": "杳",
+        "meaning": "幽深"
+      },
+      {
+        "char": "冥",
+        "meaning": "昏暗"
+      }
+    ],
+    "fullExplanation": "山岩峰峦和洞穴幽深昏暗，不可测度。描写大自然山川的幽邃神秘。",
+    "allusionId": null
+  },
+  {
+    "id": 163,
+    "text": "治本于农",
+    "pinyin": [
+      "zhì",
+      "běn",
+      "yú",
+      "nóng"
+    ],
+    "briefMeaning": "治国的根本在于农业",
+    "charAnnotations": [
+      {
+        "char": "治",
+        "meaning": "治理，治国"
+      },
+      {
+        "char": "本",
+        "meaning": "根本"
+      },
+      {
+        "char": "于",
+        "meaning": "在于"
+      },
+      {
+        "char": "农",
+        "meaning": "农业"
+      }
+    ],
+    "fullExplanation": "治理国家的根本在于发展农业。古代以农为本，农业是国家赋税和百姓生计的根基。",
+    "allusionId": null
+  },
+  {
+    "id": 164,
+    "text": "务兹稼穑",
+    "pinyin": [
+      "wù",
+      "zī",
+      "jià",
+      "sè"
+    ],
+    "briefMeaning": "务必重视耕种和收获",
+    "charAnnotations": [
+      {
+        "char": "务",
+        "meaning": "务必，致力于"
+      },
+      {
+        "char": "兹",
+        "meaning": "此，这"
+      },
+      {
+        "char": "稼",
+        "meaning": "种植庄稼"
+      },
+      {
+        "char": "穑",
+        "meaning": "收获庄稼"
+      }
+    ],
+    "fullExplanation": "务必致力于耕种和收获的农事。稼指播种，穑指收割，合称稼穑，泛指农业劳动。",
+    "allusionId": null
+  },
+  {
+    "id": 165,
+    "text": "俶载南亩",
+    "pinyin": [
+      "chù",
+      "zài",
+      "nán",
+      "mǔ"
+    ],
+    "briefMeaning": "开始在南面的田地耕作",
+    "charAnnotations": [
+      {
+        "char": "俶",
+        "meaning": "开始"
+      },
+      {
+        "char": "载",
+        "meaning": "从事"
+      },
+      {
+        "char": "南",
+        "meaning": "南面"
+      },
+      {
+        "char": "亩",
+        "meaning": "田亩"
+      }
+    ],
+    "fullExplanation": "开始在南面的田亩上耕种劳作。语出《诗经·周颂·载芟》，南亩是古代向阳的良田。",
+    "allusionId": null
+  },
+  {
+    "id": 166,
+    "text": "我艺黍稷",
+    "pinyin": [
+      "wǒ",
+      "yì",
+      "shǔ",
+      "jì"
+    ],
+    "briefMeaning": "我们种植黍和稷等庄稼",
+    "charAnnotations": [
+      {
+        "char": "我",
+        "meaning": "我们"
+      },
+      {
+        "char": "艺",
+        "meaning": "种植"
+      },
+      {
+        "char": "黍",
+        "meaning": "黍子（黄米）"
+      },
+      {
+        "char": "稷",
+        "meaning": "稷（谷子）"
+      }
+    ],
+    "fullExplanation": "我们在田中种植黍和稷等粮食作物。黍稷是古代最重要的粮食，也用以代指五谷。",
+    "allusionId": null
+  },
+  {
+    "id": 167,
+    "text": "税熟贡新",
+    "pinyin": [
+      "shuì",
+      "shú",
+      "gòng",
+      "xīn"
+    ],
+    "briefMeaning": "用成熟的谷物纳税，将新鲜收获进贡",
+    "charAnnotations": [
+      {
+        "char": "税",
+        "meaning": "纳税"
+      },
+      {
+        "char": "熟",
+        "meaning": "成熟的谷物"
+      },
+      {
+        "char": "贡",
+        "meaning": "进贡"
+      },
+      {
+        "char": "新",
+        "meaning": "新收获的"
+      }
+    ],
+    "fullExplanation": "以成熟的谷物缴纳赋税，将新收获的粮食进贡朝廷。描写古代农业赋税制度的基本运作方式。",
+    "allusionId": null
+  },
+  {
+    "id": 168,
+    "text": "劝赏黜陟",
+    "pinyin": [
+      "quàn",
+      "shǎng",
+      "chù",
+      "zhì"
+    ],
+    "briefMeaning": "劝勉奖赏，贬退或提升",
+    "charAnnotations": [
+      {
+        "char": "劝",
+        "meaning": "劝勉"
+      },
+      {
+        "char": "赏",
+        "meaning": "奖赏"
+      },
+      {
+        "char": "黜",
+        "meaning": "贬退，罢免"
+      },
+      {
+        "char": "陟",
+        "meaning": "提升，晋升"
+      }
+    ],
+    "fullExplanation": "用劝勉和奖赏来激励勤勉者，用贬退和提升来惩恶扬善。描写古代官吏考核和赏罚制度。",
+    "allusionId": null
+  },
+  {
+    "id": 169,
+    "text": "孟轲敦素",
+    "pinyin": [
+      "mèng",
+      "kē",
+      "dūn",
+      "sù"
+    ],
+    "briefMeaning": "孟子崇尚敦厚质朴",
+    "charAnnotations": [
+      {
+        "char": "孟",
+        "meaning": "孟子（儒家亚圣）"
+      },
+      {
+        "char": "轲",
+        "meaning": "轲（孟子名）"
+      },
+      {
+        "char": "敦",
+        "meaning": "敦厚，崇尚"
+      },
+      {
+        "char": "素",
+        "meaning": "质朴，素洁"
+      }
+    ],
+    "fullExplanation": "孟子崇尚敦厚质朴的品德。孟子主张人性本善、仁义为先，其学说注重内在道德修养和朴素的为人之道。",
+    "allusionId": "mengkedunsu"
+  },
+  {
+    "id": 170,
+    "text": "史鱼秉直",
+    "pinyin": [
+      "shǐ",
+      "yú",
+      "bǐng",
+      "zhí"
+    ],
+    "briefMeaning": "史鱼秉持正直",
+    "charAnnotations": [
+      {
+        "char": "史",
+        "meaning": "史鱼（卫国大夫）"
+      },
+      {
+        "char": "鱼",
+        "meaning": "鱼（人名的一部分）"
+      },
+      {
+        "char": "秉",
+        "meaning": "秉持"
+      },
+      {
+        "char": "直",
+        "meaning": "正直"
+      }
+    ],
+    "fullExplanation": "卫国大夫史鱼一生秉持正直。他多次进谏卫灵公，死后仍以尸体陈于窗下进谏（「尸谏」），被孔子赞为「直哉史鱼」。",
+    "allusionId": "shiyubingzhi"
+  },
+  {
+    "id": 171,
+    "text": "庶几中庸",
+    "pinyin": [
+      "shù",
+      "jī",
+      "zhōng",
+      "yōng"
+    ],
+    "briefMeaning": "差不多可以达到中庸之道",
+    "charAnnotations": [
+      {
+        "char": "庶",
+        "meaning": "差不多，近似"
+      },
+      {
+        "char": "几",
+        "meaning": "接近"
+      },
+      {
+        "char": "中",
+        "meaning": "中正，不偏"
+      },
+      {
+        "char": "庸",
+        "meaning": "平常，不偏不倚"
+      }
+    ],
+    "fullExplanation": "做到以上品行，就差不多接近中庸之道了。「中庸」是儒家最高的道德标准，强调不偏不倚、恰如其分。",
+    "allusionId": null
+  },
+  {
+    "id": 172,
+    "text": "劳谦谨敕",
+    "pinyin": [
+      "láo",
+      "qiān",
+      "jǐn",
+      "chì"
+    ],
+    "briefMeaning": "勤劳谦虚，谨慎自律",
+    "charAnnotations": [
+      {
+        "char": "劳",
+        "meaning": "勤劳"
+      },
+      {
+        "char": "谦",
+        "meaning": "谦虚"
+      },
+      {
+        "char": "谨",
+        "meaning": "谨慎"
+      },
+      {
+        "char": "敕",
+        "meaning": "告诫，警惕"
+      }
+    ],
+    "fullExplanation": "勤劳谦逊，谨慎自律。「劳谦」语出《易经·谦卦》'劳谦君子，有终吉'，意为勤劳谦虚的君子终有好结果。",
+    "allusionId": null
+  },
+  {
+    "id": 173,
+    "text": "聆音察理",
+    "pinyin": [
+      "líng",
+      "yīn",
+      "chá",
+      "lǐ"
+    ],
+    "briefMeaning": "聆听声音，考察道理",
+    "charAnnotations": [
+      {
+        "char": "聆",
+        "meaning": "聆听"
+      },
+      {
+        "char": "音",
+        "meaning": "声音"
+      },
+      {
+        "char": "察",
+        "meaning": "考察"
+      },
+      {
+        "char": "理",
+        "meaning": "道理"
+      }
+    ],
+    "fullExplanation": "善于聆听别人说话，从中考察其中的道理。强调用心倾听、明辨是非的能力。",
+    "allusionId": null
+  },
+  {
+    "id": 174,
+    "text": "鉴貌辨色",
+    "pinyin": [
+      "jiàn",
+      "mào",
+      "biàn",
+      "sè"
+    ],
+    "briefMeaning": "观察表情，分辨脸色",
+    "charAnnotations": [
+      {
+        "char": "鉴",
+        "meaning": "审视，观察"
+      },
+      {
+        "char": "貌",
+        "meaning": "容貌，表情"
+      },
+      {
+        "char": "辨",
+        "meaning": "分辨"
+      },
+      {
+        "char": "色",
+        "meaning": "脸色"
+      }
+    ],
+    "fullExplanation": "观察别人的面貌表情，分辨对方的神色变化。指善于察言观色，体察他人心意。",
+    "allusionId": null
+  },
+  {
+    "id": 175,
+    "text": "贻厥嘉猷",
+    "pinyin": [
+      "yí",
+      "jué",
+      "jiā",
+      "yóu"
+    ],
+    "briefMeaning": "留下美好的谋略计划",
+    "charAnnotations": [
+      {
+        "char": "贻",
+        "meaning": "留给，赠予"
+      },
+      {
+        "char": "厥",
+        "meaning": "其，那个"
+      },
+      {
+        "char": "嘉",
+        "meaning": "美好的"
+      },
+      {
+        "char": "猷",
+        "meaning": "谋略，计划"
+      }
+    ],
+    "fullExplanation": "要留下美好的计谋和策略给后人。指为子孙后代留下好的教导和谋划。",
+    "allusionId": null
+  },
+  {
+    "id": 176,
+    "text": "勉其祗植",
+    "pinyin": [
+      "miǎn",
+      "qí",
+      "zhī",
+      "zhí"
+    ],
+    "briefMeaning": "勉励自己恭敬地立身处世",
+    "charAnnotations": [
+      {
+        "char": "勉",
+        "meaning": "勉励"
+      },
+      {
+        "char": "其",
+        "meaning": "自己"
+      },
+      {
+        "char": "祗",
+        "meaning": "恭敬"
+      },
+      {
+        "char": "植",
+        "meaning": "树立，培植"
+      }
+    ],
+    "fullExplanation": "勉励自己恭恭敬敬地培植德行、树立品节。强调自我砥砺、端正品行。",
+    "allusionId": null
+  },
+  {
+    "id": 177,
+    "text": "省躬讥诫",
+    "pinyin": [
+      "xǐng",
+      "gōng",
+      "jī",
+      "jiè"
+    ],
+    "briefMeaning": "反省自身，接受规劝告诫",
+    "charAnnotations": [
+      {
+        "char": "省",
+        "meaning": "反省"
+      },
+      {
+        "char": "躬",
+        "meaning": "自身"
+      },
+      {
+        "char": "讥",
+        "meaning": "讽劝，规劝"
+      },
+      {
+        "char": "诫",
+        "meaning": "告诫"
+      }
+    ],
+    "fullExplanation": "时刻反省自身的行为，虚心接受别人的规劝和告诫。自省与纳谏并重。",
+    "allusionId": null
+  },
+  {
+    "id": 178,
+    "text": "宠增抗极",
+    "pinyin": [
+      "chǒng",
+      "zēng",
+      "kàng",
+      "jí"
+    ],
+    "briefMeaning": "恩宠增多到极点就该警惕",
+    "charAnnotations": [
+      {
+        "char": "宠",
+        "meaning": "恩宠"
+      },
+      {
+        "char": "增",
+        "meaning": "增多"
+      },
+      {
+        "char": "抗",
+        "meaning": "高亢，到达高处"
+      },
+      {
+        "char": "极",
+        "meaning": "极点"
+      }
+    ],
+    "fullExplanation": "受到的恩宠不断增加，地位高到了极点，就要警惕盛极必衰、物极必反。",
+    "allusionId": null
+  },
+  {
+    "id": 179,
+    "text": "殆辱近耻",
+    "pinyin": [
+      "dài",
+      "rǔ",
+      "jìn",
+      "chǐ"
+    ],
+    "briefMeaning": "就会有危险和耻辱降临",
+    "charAnnotations": [
+      {
+        "char": "殆",
+        "meaning": "危险"
+      },
+      {
+        "char": "辱",
+        "meaning": "耻辱"
+      },
+      {
+        "char": "近",
+        "meaning": "接近"
+      },
+      {
+        "char": "耻",
+        "meaning": "羞耻"
+      }
+    ],
+    "fullExplanation": "不知进退就会接近危殆和耻辱。与上句呼应，告诫人要懂得适时退让。",
+    "allusionId": null
+  },
+  {
+    "id": 180,
+    "text": "林皋幸即",
+    "pinyin": [
+      "lín",
+      "gāo",
+      "xìng",
+      "jí"
+    ],
+    "briefMeaning": "能归隐山林水边是幸运的",
+    "charAnnotations": [
+      {
+        "char": "林",
+        "meaning": "山林"
+      },
+      {
+        "char": "皋",
+        "meaning": "水边高地"
+      },
+      {
+        "char": "幸",
+        "meaning": "幸运"
+      },
+      {
+        "char": "即",
+        "meaning": "靠近，归隐"
+      }
+    ],
+    "fullExplanation": "能退隐到山林泽畔之间是幸运的事情。指在功成名就时急流勇退，方为明智。",
+    "allusionId": null
+  },
+  {
+    "id": 181,
+    "text": "两疏见机",
+    "pinyin": [
+      "liǎng",
+      "shū",
+      "jiàn",
+      "jī"
+    ],
+    "briefMeaning": "疏广、疏受叔侄二人看清时机",
+    "charAnnotations": [
+      {
+        "char": "两",
+        "meaning": "两位"
+      },
+      {
+        "char": "疏",
+        "meaning": "疏广、疏受"
+      },
+      {
+        "char": "见",
+        "meaning": "察见，识别"
+      },
+      {
+        "char": "机",
+        "meaning": "时机"
+      }
+    ],
+    "fullExplanation": "汉代疏广、疏受叔侄二人见机行事，在位高权重之时主动辞官归乡，是急流勇退的典范。",
+    "allusionId": "liangshujianji"
+  },
+  {
+    "id": 182,
+    "text": "解组谁逼",
+    "pinyin": [
+      "jiě",
+      "zǔ",
+      "shuí",
+      "bī"
+    ],
+    "briefMeaning": "解下官印绶带离去，没有谁逼迫",
+    "charAnnotations": [
+      {
+        "char": "解",
+        "meaning": "解下"
+      },
+      {
+        "char": "组",
+        "meaning": "官印的绶带"
+      },
+      {
+        "char": "谁",
+        "meaning": "谁"
+      },
+      {
+        "char": "逼",
+        "meaning": "逼迫"
+      }
+    ],
+    "fullExplanation": "解下官印的绶带辞去官职，并不是受人逼迫。承接上句，强调二疏是自愿辞官、全身而退。",
+    "allusionId": "liangshujianji"
+  },
+  {
+    "id": 183,
+    "text": "索居闲处",
+    "pinyin": [
+      "suǒ",
+      "jū",
+      "xián",
+      "chǔ"
+    ],
+    "briefMeaning": "独自闲居度日",
+    "charAnnotations": [
+      {
+        "char": "索",
+        "meaning": "独自"
+      },
+      {
+        "char": "居",
+        "meaning": "居住"
+      },
+      {
+        "char": "闲",
+        "meaning": "闲适"
+      },
+      {
+        "char": "处",
+        "meaning": "居处"
+      }
+    ],
+    "fullExplanation": "独自居住，闲适度日。描写辞官归隐后清闲自在的生活状态。",
+    "allusionId": null
+  },
+  {
+    "id": 184,
+    "text": "沉默寂寥",
+    "pinyin": [
+      "chén",
+      "mò",
+      "jì",
+      "liáo"
+    ],
+    "briefMeaning": "沉静寡言，安然寂寥",
+    "charAnnotations": [
+      {
+        "char": "沉",
+        "meaning": "沉静"
+      },
+      {
+        "char": "默",
+        "meaning": "沉默"
+      },
+      {
+        "char": "寂",
+        "meaning": "寂静"
+      },
+      {
+        "char": "寥",
+        "meaning": "空旷寂寞"
+      }
+    ],
+    "fullExplanation": "沉静不语，安享寂寥。描写隐居生活的安宁清静、自得其乐。",
+    "allusionId": null
+  },
+  {
+    "id": 185,
+    "text": "求古寻论",
+    "pinyin": [
+      "qiú",
+      "gǔ",
+      "xún",
+      "lùn"
+    ],
+    "briefMeaning": "探求古人事迹，寻觅先贤论述",
+    "charAnnotations": [
+      {
+        "char": "求",
+        "meaning": "探求"
+      },
+      {
+        "char": "古",
+        "meaning": "古事"
+      },
+      {
+        "char": "寻",
+        "meaning": "寻觅"
+      },
+      {
+        "char": "论",
+        "meaning": "议论，论述"
+      }
+    ],
+    "fullExplanation": "探求古人的事迹，寻觅先贤的议论。指隐居之后以读书为乐、怡然自得。",
+    "allusionId": null
+  },
+  {
+    "id": 186,
+    "text": "散虑逍遥",
+    "pinyin": [
+      "sàn",
+      "lǜ",
+      "xiāo",
+      "yáo"
+    ],
+    "briefMeaning": "排遣忧虑，逍遥自在",
+    "charAnnotations": [
+      {
+        "char": "散",
+        "meaning": "排遣"
+      },
+      {
+        "char": "虑",
+        "meaning": "忧虑"
+      },
+      {
+        "char": "逍",
+        "meaning": "逍遥"
+      },
+      {
+        "char": "遥",
+        "meaning": "自在"
+      }
+    ],
+    "fullExplanation": "排遣心中的杂念忧虑，过逍遥自在的生活。与上句相呼应，写隐居后的精神自由。",
+    "allusionId": null
+  },
+  {
+    "id": 187,
+    "text": "欣奏累遣",
+    "pinyin": [
+      "xīn",
+      "zòu",
+      "lěi",
+      "qiǎn"
+    ],
+    "briefMeaning": "高兴时就演奏音乐来消遣",
+    "charAnnotations": [
+      {
+        "char": "欣",
+        "meaning": "欢欣，高兴"
+      },
+      {
+        "char": "奏",
+        "meaning": "演奏"
+      },
+      {
+        "char": "累",
+        "meaning": "屡次"
+      },
+      {
+        "char": "遣",
+        "meaning": "消遣，排遣"
+      }
+    ],
+    "fullExplanation": "感到欢欣时就演奏音乐，屡次借此消遣排解。描写隐居生活的怡然自乐。",
+    "allusionId": null
+  },
+  {
+    "id": 188,
+    "text": "戚谢欢招",
+    "pinyin": [
+      "qī",
+      "xiè",
+      "huān",
+      "zhāo"
+    ],
+    "briefMeaning": "忧愁散去，欢乐到来",
+    "charAnnotations": [
+      {
+        "char": "戚",
+        "meaning": "忧愁"
+      },
+      {
+        "char": "谢",
+        "meaning": "消退"
+      },
+      {
+        "char": "欢",
+        "meaning": "欢乐"
+      },
+      {
+        "char": "招",
+        "meaning": "招来"
+      }
+    ],
+    "fullExplanation": "忧愁逐渐消退，欢乐随之到来。说明隐居自得其乐、远离烦忧的心境。",
+    "allusionId": null
+  },
+  {
+    "id": 189,
+    "text": "渠荷的历",
+    "pinyin": [
+      "qú",
+      "hé",
+      "dì",
+      "lì"
+    ],
+    "briefMeaning": "水渠中荷花色彩鲜明",
+    "charAnnotations": [
+      {
+        "char": "渠",
+        "meaning": "水渠"
+      },
+      {
+        "char": "荷",
+        "meaning": "荷花"
+      },
+      {
+        "char": "的",
+        "meaning": "鲜明"
+      },
+      {
+        "char": "历",
+        "meaning": "分明，清晰"
+      }
+    ],
+    "fullExplanation": "水渠中的荷花色彩鲜明亮丽。「的历」形容颜色鲜艳、光彩照人。",
+    "allusionId": null
+  },
+  {
+    "id": 190,
+    "text": "园莽抽条",
+    "pinyin": [
+      "yuán",
+      "mǎng",
+      "chōu",
+      "tiáo"
+    ],
+    "briefMeaning": "园中草木抽出新枝条",
+    "charAnnotations": [
+      {
+        "char": "园",
+        "meaning": "园圃"
+      },
+      {
+        "char": "莽",
+        "meaning": "草丛"
+      },
+      {
+        "char": "抽",
+        "meaning": "抽出"
+      },
+      {
+        "char": "条",
+        "meaning": "枝条"
+      }
+    ],
+    "fullExplanation": "园中的草木抽出了新的枝条。描写春夏时节万物生长的景象。",
+    "allusionId": null
+  },
+  {
+    "id": 191,
+    "text": "枇杷晚翠",
+    "pinyin": [
+      "pí",
+      "pá",
+      "wǎn",
+      "cuì"
+    ],
+    "briefMeaning": "枇杷到了深秋依然翠绿",
+    "charAnnotations": [
+      {
+        "char": "枇",
+        "meaning": "枇杷树"
+      },
+      {
+        "char": "杷",
+        "meaning": "枇杷树"
+      },
+      {
+        "char": "晚",
+        "meaning": "到了深秋"
+      },
+      {
+        "char": "翠",
+        "meaning": "翠绿"
+      }
+    ],
+    "fullExplanation": "枇杷树到了深秋时节依然翠绿不凋。枇杷为常绿果树，经冬不谢。",
+    "allusionId": null
+  },
+  {
+    "id": 192,
+    "text": "梧桐早凋",
+    "pinyin": [
+      "wú",
+      "tóng",
+      "zǎo",
+      "diāo"
+    ],
+    "briefMeaning": "梧桐到了秋天很早就凋零",
+    "charAnnotations": [
+      {
+        "char": "梧",
+        "meaning": "梧桐树"
+      },
+      {
+        "char": "桐",
+        "meaning": "梧桐树"
+      },
+      {
+        "char": "早",
+        "meaning": "较早"
+      },
+      {
+        "char": "凋",
+        "meaning": "凋零"
+      }
+    ],
+    "fullExplanation": "梧桐到了秋天很早就落叶凋零。与枇杷形成对比，说明草木各有时令。",
+    "allusionId": null
+  },
+  {
+    "id": 193,
+    "text": "陈根委翳",
+    "pinyin": [
+      "chén",
+      "gēn",
+      "wěi",
+      "yì"
+    ],
+    "briefMeaning": "老树根枯朽，落叶覆盖遮蔽",
+    "charAnnotations": [
+      {
+        "char": "陈",
+        "meaning": "陈旧"
+      },
+      {
+        "char": "根",
+        "meaning": "树根"
+      },
+      {
+        "char": "委",
+        "meaning": "委弃，枯萎"
+      },
+      {
+        "char": "翳",
+        "meaning": "遮蔽"
+      }
+    ],
+    "fullExplanation": "陈旧的树根已经枯萎，被落叶覆盖遮蔽。描绘深秋草木凋零的萧瑟景象。",
+    "allusionId": null
+  },
+  {
+    "id": 194,
+    "text": "落叶飘摇",
+    "pinyin": [
+      "luò",
+      "yè",
+      "piāo",
+      "yáo"
+    ],
+    "briefMeaning": "落叶在风中飘荡摇曳",
+    "charAnnotations": [
+      {
+        "char": "落",
+        "meaning": "飘落"
+      },
+      {
+        "char": "叶",
+        "meaning": "树叶"
+      },
+      {
+        "char": "飘",
+        "meaning": "飘荡"
+      },
+      {
+        "char": "摇",
+        "meaning": "摇曳"
+      }
+    ],
+    "fullExplanation": "落叶在风中飘荡摇曳。承接上句，写秋冬草木凋零、叶落随风的景象。",
+    "allusionId": null
+  },
+  {
+    "id": 195,
+    "text": "游鹍独运",
+    "pinyin": [
+      "yóu",
+      "kūn",
+      "dú",
+      "yùn"
+    ],
+    "briefMeaning": "大鹏鸟独自在天空翱翔",
+    "charAnnotations": [
+      {
+        "char": "游",
+        "meaning": "遨游"
+      },
+      {
+        "char": "鹍",
+        "meaning": "大鸟，如鲲鹏"
+      },
+      {
+        "char": "独",
+        "meaning": "独自"
+      },
+      {
+        "char": "运",
+        "meaning": "运转，飞翔"
+      }
+    ],
+    "fullExplanation": "大鹏鸟独自在天空翱翔运转。化用《庄子·逍遥游》鲲鹏展翅的意象，象征超然独立。",
+    "allusionId": null
+  },
+  {
+    "id": 196,
+    "text": "凌摩绛霄",
+    "pinyin": [
+      "líng",
+      "mó",
+      "jiàng",
+      "xiāo"
+    ],
+    "briefMeaning": "凌空直上，高摩赤红云霄",
+    "charAnnotations": [
+      {
+        "char": "凌",
+        "meaning": "凌越"
+      },
+      {
+        "char": "摩",
+        "meaning": "摩擦，接近"
+      },
+      {
+        "char": "绛",
+        "meaning": "深红色"
+      },
+      {
+        "char": "霄",
+        "meaning": "天空"
+      }
+    ],
+    "fullExplanation": "凌空直上，高飞接近赤红色的云霄。承接上句，描写大鸟高飞入云的壮丽景象。",
+    "allusionId": null
+  },
+  {
+    "id": 197,
+    "text": "耽读玩市",
+    "pinyin": [
+      "dān",
+      "dú",
+      "wán",
+      "shì"
+    ],
+    "briefMeaning": "沉迷读书，流连书市",
+    "charAnnotations": [
+      {
+        "char": "耽",
+        "meaning": "沉迷"
+      },
+      {
+        "char": "读",
+        "meaning": "读书"
+      },
+      {
+        "char": "玩",
+        "meaning": "游玩，流连"
+      },
+      {
+        "char": "市",
+        "meaning": "市场，书肆"
+      }
+    ],
+    "fullExplanation": "沉迷于读书，在市集书肆中流连忘返。典出汉代王充少年家贫，在洛阳书肆中站着阅读群书。",
+    "allusionId": null
+  },
+  {
+    "id": 198,
+    "text": "寓目囊箱",
+    "pinyin": [
+      "yù",
+      "mù",
+      "náng",
+      "xiāng"
+    ],
+    "briefMeaning": "注目于书囊书箱",
+    "charAnnotations": [
+      {
+        "char": "寓",
+        "meaning": "寄托"
+      },
+      {
+        "char": "目",
+        "meaning": "目光"
+      },
+      {
+        "char": "囊",
+        "meaning": "布袋，书囊"
+      },
+      {
+        "char": "箱",
+        "meaning": "箱子"
+      }
+    ],
+    "fullExplanation": "把目光寄托在书囊书箱之中，形容随身携书、手不释卷的好学精神。",
+    "allusionId": null
+  },
+  {
+    "id": 199,
+    "text": "易輶攸畏",
+    "pinyin": [
+      "yì",
+      "yóu",
+      "yōu",
+      "wèi"
+    ],
+    "briefMeaning": "言语轻率是值得畏惧的事",
+    "charAnnotations": [
+      {
+        "char": "易",
+        "meaning": "轻易，轻率"
+      },
+      {
+        "char": "輶",
+        "meaning": "轻车，引申为轻浮"
+      },
+      {
+        "char": "攸",
+        "meaning": "所"
+      },
+      {
+        "char": "畏",
+        "meaning": "畏惧"
+      }
+    ],
+    "fullExplanation": "言辞轻率是最可畏惧的事情。语出《诗经》，提醒人们说话不可轻忽随便。",
+    "allusionId": null
+  },
+  {
+    "id": 200,
+    "text": "属耳垣墙",
+    "pinyin": [
+      "zhǔ",
+      "ěr",
+      "yuán",
+      "qiáng"
+    ],
+    "briefMeaning": "隔墙有耳，说话要谨慎",
+    "charAnnotations": [
+      {
+        "char": "属",
+        "meaning": "附着，贴近"
+      },
+      {
+        "char": "耳",
+        "meaning": "耳朵"
+      },
+      {
+        "char": "垣",
+        "meaning": "矮墙"
+      },
+      {
+        "char": "墙",
+        "meaning": "墙壁"
+      }
+    ],
+    "fullExplanation": "小心有人贴着耳朵在墙壁后偷听。告诫人说话要谨慎，正所谓隔墙有耳。",
+    "allusionId": null
+  },
+  {
+    "id": 201,
+    "text": "具膳餐饭",
+    "pinyin": [
+      "jù",
+      "shàn",
+      "cān",
+      "fàn"
+    ],
+    "briefMeaning": "准备膳食来吃饭",
+    "charAnnotations": [
+      {
+        "char": "具",
+        "meaning": "备办"
+      },
+      {
+        "char": "膳",
+        "meaning": "膳食"
+      },
+      {
+        "char": "餐",
+        "meaning": "吃"
+      },
+      {
+        "char": "饭",
+        "meaning": "饭食"
+      }
+    ],
+    "fullExplanation": "备办好膳食来吃饭。以下几句描写日常饮食起居的生活场景。",
+    "allusionId": null
+  },
+  {
+    "id": 202,
+    "text": "适口充肠",
+    "pinyin": [
+      "shì",
+      "kǒu",
+      "chōng",
+      "cháng"
+    ],
+    "briefMeaning": "合乎口味，填饱肚子",
+    "charAnnotations": [
+      {
+        "char": "适",
+        "meaning": "适合"
+      },
+      {
+        "char": "口",
+        "meaning": "口味"
+      },
+      {
+        "char": "充",
+        "meaning": "填充"
+      },
+      {
+        "char": "肠",
+        "meaning": "肠胃"
+      }
+    ],
+    "fullExplanation": "饮食只求合乎口味、填饱肚子即可。强调饮食不必奢靡，满足基本需求即可。",
+    "allusionId": null
+  },
+  {
+    "id": 203,
+    "text": "饱饫烹宰",
+    "pinyin": [
+      "bǎo",
+      "yù",
+      "pēng",
+      "zǎi"
+    ],
+    "briefMeaning": "饱足时享用精美的烹宰肉食",
+    "charAnnotations": [
+      {
+        "char": "饱",
+        "meaning": "饱足"
+      },
+      {
+        "char": "饫",
+        "meaning": "饱足，满足"
+      },
+      {
+        "char": "烹",
+        "meaning": "烹煮"
+      },
+      {
+        "char": "宰",
+        "meaning": "宰杀"
+      }
+    ],
+    "fullExplanation": "吃饱了的时候享用精美的烹煮宰杀之物。描写富裕时的饮食状况。",
+    "allusionId": null
+  },
+  {
+    "id": 204,
+    "text": "饥厌糟糠",
+    "pinyin": [
+      "jī",
+      "yàn",
+      "zāo",
+      "kāng"
+    ],
+    "briefMeaning": "饥饿时糟糠也觉得满足",
+    "charAnnotations": [
+      {
+        "char": "饥",
+        "meaning": "饥饿"
+      },
+      {
+        "char": "厌",
+        "meaning": "满足，通「餍」"
+      },
+      {
+        "char": "糟",
+        "meaning": "酒糟"
+      },
+      {
+        "char": "糠",
+        "meaning": "米糠"
+      }
+    ],
+    "fullExplanation": "饥饿的时候连粗劣的酒糟米糠也觉得满足。与上句对比，说明饮食因境遇而异。",
+    "allusionId": null
+  },
+  {
+    "id": 205,
+    "text": "亲戚故旧",
+    "pinyin": [
+      "qīn",
+      "qī",
+      "gù",
+      "jiù"
+    ],
+    "briefMeaning": "亲属和老朋友",
+    "charAnnotations": [
+      {
+        "char": "亲",
+        "meaning": "亲属"
+      },
+      {
+        "char": "戚",
+        "meaning": "外戚，亲戚"
+      },
+      {
+        "char": "故",
+        "meaning": "旧友"
+      },
+      {
+        "char": "旧",
+        "meaning": "老交情"
+      }
+    ],
+    "fullExplanation": "对待亲属和老朋友要讲究礼节。以下几句谈及家庭人伦关系。",
+    "allusionId": null
+  },
+  {
+    "id": 206,
+    "text": "老少异粮",
+    "pinyin": [
+      "lǎo",
+      "shào",
+      "yì",
+      "liáng"
+    ],
+    "briefMeaning": "老人和年轻人饮食应有不同",
+    "charAnnotations": [
+      {
+        "char": "老",
+        "meaning": "老年人"
+      },
+      {
+        "char": "少",
+        "meaning": "年轻人"
+      },
+      {
+        "char": "异",
+        "meaning": "不同"
+      },
+      {
+        "char": "粮",
+        "meaning": "食物"
+      }
+    ],
+    "fullExplanation": "老人和年轻人的饮食应当有所区别。古人讲究尊老敬老，饮食起居要因年龄而异。",
+    "allusionId": null
+  },
+  {
+    "id": 207,
+    "text": "妾御绩纺",
+    "pinyin": [
+      "qiè",
+      "yù",
+      "jì",
+      "fǎng"
+    ],
+    "briefMeaning": "妾侍们纺纱织布",
+    "charAnnotations": [
+      {
+        "char": "妾",
+        "meaning": "妾侍"
+      },
+      {
+        "char": "御",
+        "meaning": "侍奉"
+      },
+      {
+        "char": "绩",
+        "meaning": "纺绩，搓麻"
+      },
+      {
+        "char": "纺",
+        "meaning": "纺织"
+      }
+    ],
+    "fullExplanation": "妾侍们侍奉家主，从事纺纱织布的家务。描写古代家庭中的女性劳作。",
+    "allusionId": null
+  },
+  {
+    "id": 208,
+    "text": "侍巾帷房",
+    "pinyin": [
+      "shì",
+      "jīn",
+      "wéi",
+      "fáng"
+    ],
+    "briefMeaning": "侍奉巾帕，料理帷帐卧房",
+    "charAnnotations": [
+      {
+        "char": "侍",
+        "meaning": "侍候"
+      },
+      {
+        "char": "巾",
+        "meaning": "巾帕"
+      },
+      {
+        "char": "帷",
+        "meaning": "帷帐"
+      },
+      {
+        "char": "房",
+        "meaning": "房间"
+      }
+    ],
+    "fullExplanation": "侍候巾帕盥洗之物，料理帷帐卧房的日常事务。描写家中女眷的日常服侍。",
+    "allusionId": null
+  },
+  {
+    "id": 209,
+    "text": "纨扇圆絜",
+    "pinyin": [
+      "wán",
+      "shàn",
+      "yuán",
+      "jié"
+    ],
+    "briefMeaning": "细绢扇子圆润洁净",
+    "charAnnotations": [
+      {
+        "char": "纨",
+        "meaning": "细绢"
+      },
+      {
+        "char": "扇",
+        "meaning": "扇子"
+      },
+      {
+        "char": "圆",
+        "meaning": "圆形"
+      },
+      {
+        "char": "絜",
+        "meaning": "洁净"
+      }
+    ],
+    "fullExplanation": "细白的纨扇圆润而洁净。描写居室中精致的日用器物。",
+    "allusionId": null
+  },
+  {
+    "id": 210,
+    "text": "银烛炜煌",
+    "pinyin": [
+      "yín",
+      "zhú",
+      "wěi",
+      "huáng"
+    ],
+    "briefMeaning": "银色蜡烛光辉灿烂",
+    "charAnnotations": [
+      {
+        "char": "银",
+        "meaning": "银色"
+      },
+      {
+        "char": "烛",
+        "meaning": "蜡烛"
+      },
+      {
+        "char": "炜",
+        "meaning": "光辉"
+      },
+      {
+        "char": "煌",
+        "meaning": "辉煌，明亮"
+      }
+    ],
+    "fullExplanation": "银色的蜡烛光辉灿烂。描写富贵人家灯火通明的夜晚景象。",
+    "allusionId": null
+  },
+  {
+    "id": 211,
+    "text": "昼眠夕寐",
+    "pinyin": [
+      "zhòu",
+      "mián",
+      "xī",
+      "mèi"
+    ],
+    "briefMeaning": "白天小憩，夜晚安眠",
+    "charAnnotations": [
+      {
+        "char": "昼",
+        "meaning": "白天"
+      },
+      {
+        "char": "眠",
+        "meaning": "小睡"
+      },
+      {
+        "char": "夕",
+        "meaning": "晚上"
+      },
+      {
+        "char": "寐",
+        "meaning": "睡觉"
+      }
+    ],
+    "fullExplanation": "白天可以小憩，夜晚安然入睡。描写悠闲安逸的起居生活。",
+    "allusionId": null
+  },
+  {
+    "id": 212,
+    "text": "蓝笋象床",
+    "pinyin": [
+      "lán",
+      "sǔn",
+      "xiàng",
+      "chuáng"
+    ],
+    "briefMeaning": "铺着蓝色竹席，睡着象牙床",
+    "charAnnotations": [
+      {
+        "char": "蓝",
+        "meaning": "蓝色"
+      },
+      {
+        "char": "笋",
+        "meaning": "竹席"
+      },
+      {
+        "char": "象",
+        "meaning": "象牙"
+      },
+      {
+        "char": "床",
+        "meaning": "床榻"
+      }
+    ],
+    "fullExplanation": "铺着蓝色竹席，睡着象牙装饰的床榻。描写富贵人家卧室的精美陈设。",
+    "allusionId": null
+  },
+  {
+    "id": 213,
+    "text": "弦歌酒宴",
+    "pinyin": [
+      "xián",
+      "gē",
+      "jiǔ",
+      "yàn"
+    ],
+    "briefMeaning": "弹琴唱歌，饮酒设宴",
+    "charAnnotations": [
+      {
+        "char": "弦",
+        "meaning": "弹琴"
+      },
+      {
+        "char": "歌",
+        "meaning": "歌唱"
+      },
+      {
+        "char": "酒",
+        "meaning": "饮酒"
+      },
+      {
+        "char": "宴",
+        "meaning": "宴会"
+      }
+    ],
+    "fullExplanation": "弹琴唱歌、饮酒设宴。描写宴饮欢聚的场景。",
+    "allusionId": null
+  },
+  {
+    "id": 214,
+    "text": "接杯举觞",
+    "pinyin": [
+      "jiē",
+      "bēi",
+      "jǔ",
+      "shāng"
+    ],
+    "briefMeaning": "接过酒杯，举杯畅饮",
+    "charAnnotations": [
+      {
+        "char": "接",
+        "meaning": "接过"
+      },
+      {
+        "char": "杯",
+        "meaning": "酒杯"
+      },
+      {
+        "char": "举",
+        "meaning": "举起"
+      },
+      {
+        "char": "觞",
+        "meaning": "酒杯"
+      }
+    ],
+    "fullExplanation": "接过酒杯、举杯畅饮。承接上句，描写宴席上宾主尽欢的热闹场面。",
+    "allusionId": null
+  },
+  {
+    "id": 215,
+    "text": "矫手顿足",
+    "pinyin": [
+      "jiǎo",
+      "shǒu",
+      "dùn",
+      "zú"
+    ],
+    "briefMeaning": "扬起手，跺着脚，翩翩起舞",
+    "charAnnotations": [
+      {
+        "char": "矫",
+        "meaning": "举起，扬起"
+      },
+      {
+        "char": "手",
+        "meaning": "手"
+      },
+      {
+        "char": "顿",
+        "meaning": "跺"
+      },
+      {
+        "char": "足",
+        "meaning": "脚"
+      }
+    ],
+    "fullExplanation": "扬手跺脚，翩翩起舞。描写宴席间宾客尽兴歌舞的欢乐场面。",
+    "allusionId": null
+  },
+  {
+    "id": 216,
+    "text": "悦豫且康",
+    "pinyin": [
+      "yuè",
+      "yù",
+      "qiě",
+      "kāng"
+    ],
+    "briefMeaning": "欢悦快乐而且安康",
+    "charAnnotations": [
+      {
+        "char": "悦",
+        "meaning": "喜悦"
+      },
+      {
+        "char": "豫",
+        "meaning": "快乐"
+      },
+      {
+        "char": "且",
+        "meaning": "并且"
+      },
+      {
+        "char": "康",
+        "meaning": "安康"
+      }
+    ],
+    "fullExplanation": "心情欢悦快乐，而且身体安康。总结宴饮歌舞带来的愉悦与祥和。",
+    "allusionId": null
+  },
+  {
+    "id": 217,
+    "text": "嫡后嗣续",
+    "pinyin": [
+      "dí",
+      "hòu",
+      "sì",
+      "xù"
+    ],
+    "briefMeaning": "嫡系子孙传宗接代",
+    "charAnnotations": [
+      {
+        "char": "嫡",
+        "meaning": "嫡传"
+      },
+      {
+        "char": "后",
+        "meaning": "后代"
+      },
+      {
+        "char": "嗣",
+        "meaning": "继承"
+      },
+      {
+        "char": "续",
+        "meaning": "延续"
+      }
+    ],
+    "fullExplanation": "嫡系后代传宗接代，血脉延续不断。以下转入祭祀礼仪的主题。",
+    "allusionId": null
+  },
+  {
+    "id": 218,
+    "text": "祭祀烝尝",
+    "pinyin": [
+      "jì",
+      "sì",
+      "zhēng",
+      "cháng"
+    ],
+    "briefMeaning": "按时令祭祀祖先",
+    "charAnnotations": [
+      {
+        "char": "祭",
+        "meaning": "祭祀"
+      },
+      {
+        "char": "祀",
+        "meaning": "祭祀"
+      },
+      {
+        "char": "烝",
+        "meaning": "冬祭"
+      },
+      {
+        "char": "尝",
+        "meaning": "秋祭"
+      }
+    ],
+    "fullExplanation": "按照时令祭祀祖先。「烝」为冬祭，「尝」为秋祭，合指四时祭祀不辍。",
+    "allusionId": null
+  },
+  {
+    "id": 219,
+    "text": "稽颡再拜",
+    "pinyin": [
+      "qǐ",
+      "sǎng",
+      "zài",
+      "bài"
+    ],
+    "briefMeaning": "叩头至地，再次跪拜",
+    "charAnnotations": [
+      {
+        "char": "稽",
+        "meaning": "叩头至地"
+      },
+      {
+        "char": "颡",
+        "meaning": "额头"
+      },
+      {
+        "char": "再",
+        "meaning": "再次"
+      },
+      {
+        "char": "拜",
+        "meaning": "跪拜"
+      }
+    ],
+    "fullExplanation": "叩头触地，再次跪拜行礼。「稽颡」是最隆重的叩拜之礼，额头触地以示至诚。",
+    "allusionId": null
+  },
+  {
+    "id": 220,
+    "text": "悚惧恐惶",
+    "pinyin": [
+      "sǒng",
+      "jù",
+      "kǒng",
+      "huáng"
+    ],
+    "briefMeaning": "心中充满恐惧和惶恐",
+    "charAnnotations": [
+      {
+        "char": "悚",
+        "meaning": "恐惧"
+      },
+      {
+        "char": "惧",
+        "meaning": "害怕"
+      },
+      {
+        "char": "恐",
+        "meaning": "恐惧"
+      },
+      {
+        "char": "惶",
+        "meaning": "惶恐"
+      }
+    ],
+    "fullExplanation": "祭祀时心中充满敬畏恐惧和惶恐不安。表达对祖先神灵的虔诚敬畏之情。",
+    "allusionId": null
+  },
+  {
+    "id": 221,
+    "text": "笺牒简要",
+    "pinyin": [
+      "jiān",
+      "dié",
+      "jiǎn",
+      "yào"
+    ],
+    "briefMeaning": "书信文书应简洁扼要",
+    "charAnnotations": [
+      {
+        "char": "笺",
+        "meaning": "信笺"
+      },
+      {
+        "char": "牒",
+        "meaning": "文书"
+      },
+      {
+        "char": "简",
+        "meaning": "简洁"
+      },
+      {
+        "char": "要",
+        "meaning": "扼要"
+      }
+    ],
+    "fullExplanation": "写信、撰写文书要简洁扼要。提倡行文简练、不尚繁冗。",
+    "allusionId": null
+  },
+  {
+    "id": 222,
+    "text": "顾答审详",
+    "pinyin": [
+      "gù",
+      "dá",
+      "shěn",
+      "xiáng"
+    ],
+    "briefMeaning": "回答问题应审慎详尽",
+    "charAnnotations": [
+      {
+        "char": "顾",
+        "meaning": "回顾，照应"
+      },
+      {
+        "char": "答",
+        "meaning": "回答"
+      },
+      {
+        "char": "审",
+        "meaning": "审慎"
+      },
+      {
+        "char": "详",
+        "meaning": "详细"
+      }
+    ],
+    "fullExplanation": "回复应答时要审慎周详。与上句相对：写信宜简，答复宜详。",
+    "allusionId": null
+  },
+  {
+    "id": 223,
+    "text": "骸垢想浴",
+    "pinyin": [
+      "hái",
+      "gòu",
+      "xiǎng",
+      "yù"
+    ],
+    "briefMeaning": "身体脏了就想洗浴",
+    "charAnnotations": [
+      {
+        "char": "骸",
+        "meaning": "身体"
+      },
+      {
+        "char": "垢",
+        "meaning": "污垢"
+      },
+      {
+        "char": "想",
+        "meaning": "想要"
+      },
+      {
+        "char": "浴",
+        "meaning": "洗浴"
+      }
+    ],
+    "fullExplanation": "身上有了污垢就想洗浴。以日常小事说明人之常情。",
+    "allusionId": null
+  },
+  {
+    "id": 224,
+    "text": "执热愿凉",
+    "pinyin": [
+      "zhí",
+      "rè",
+      "yuàn",
+      "liáng"
+    ],
+    "briefMeaning": "天热时盼望凉爽",
+    "charAnnotations": [
+      {
+        "char": "执",
+        "meaning": "遭受，经受"
+      },
+      {
+        "char": "热",
+        "meaning": "炎热"
+      },
+      {
+        "char": "愿",
+        "meaning": "希望"
+      },
+      {
+        "char": "凉",
+        "meaning": "凉爽"
+      }
+    ],
+    "fullExplanation": "身处炎热就盼望凉爽。语出《诗经·大雅·桑柔》'谁能执热，逝不以濯'，比喻人情趋利避害。",
+    "allusionId": null
+  },
+  {
+    "id": 225,
+    "text": "驴骡犊特",
+    "pinyin": [
+      "lǘ",
+      "luó",
+      "dú",
+      "tè"
+    ],
+    "briefMeaning": "驴、骡、小牛、公牛",
+    "charAnnotations": [
+      {
+        "char": "驴",
+        "meaning": "驴"
+      },
+      {
+        "char": "骡",
+        "meaning": "骡"
+      },
+      {
+        "char": "犊",
+        "meaning": "小牛"
+      },
+      {
+        "char": "特",
+        "meaning": "公牛"
+      }
+    ],
+    "fullExplanation": "驴、骡、小牛、公牛，都是常见的牲畜。以下列举日常生活中常见的动物。",
+    "allusionId": null
+  },
+  {
+    "id": 226,
+    "text": "骇跃超骧",
+    "pinyin": [
+      "hài",
+      "yuè",
+      "chāo",
+      "xiāng"
+    ],
+    "briefMeaning": "惊跳腾跃，奔腾飞驰",
+    "charAnnotations": [
+      {
+        "char": "骇",
+        "meaning": "惊骇"
+      },
+      {
+        "char": "跃",
+        "meaning": "跳跃"
+      },
+      {
+        "char": "超",
+        "meaning": "超越，奔跑"
+      },
+      {
+        "char": "骧",
+        "meaning": "昂首奔腾"
+      }
+    ],
+    "fullExplanation": "牲畜受惊后跳跃奔跑、昂首奔腾。形容动物矫健有力的动态。",
+    "allusionId": null
+  },
+  {
+    "id": 227,
+    "text": "诛斩贼盗",
+    "pinyin": [
+      "zhū",
+      "zhǎn",
+      "zéi",
+      "dào"
+    ],
+    "briefMeaning": "诛杀斩除贼人盗匪",
+    "charAnnotations": [
+      {
+        "char": "诛",
+        "meaning": "诛杀"
+      },
+      {
+        "char": "斩",
+        "meaning": "斩杀"
+      },
+      {
+        "char": "贼",
+        "meaning": "贼人"
+      },
+      {
+        "char": "盗",
+        "meaning": "盗匪"
+      }
+    ],
+    "fullExplanation": "诛杀斩除贼人和盗匪。描写治安方面的惩恶扬善。",
+    "allusionId": null
+  },
+  {
+    "id": 228,
+    "text": "捕获叛亡",
+    "pinyin": [
+      "bǔ",
+      "huò",
+      "pàn",
+      "wáng"
+    ],
+    "briefMeaning": "捕获叛逆和逃亡之人",
+    "charAnnotations": [
+      {
+        "char": "捕",
+        "meaning": "捕捉"
+      },
+      {
+        "char": "获",
+        "meaning": "抓获"
+      },
+      {
+        "char": "叛",
+        "meaning": "叛逆者"
+      },
+      {
+        "char": "亡",
+        "meaning": "逃亡者"
+      }
+    ],
+    "fullExplanation": "捕获叛逆者和逃亡之人。承接上句，描述维护社会秩序的必要手段。",
+    "allusionId": null
+  },
+  {
+    "id": 229,
+    "text": "布射僚丸",
+    "pinyin": [
+      "bù",
+      "shè",
+      "liáo",
+      "wán"
+    ],
+    "briefMeaning": "吕布善射箭，宜僚善弄丸",
+    "charAnnotations": [
+      {
+        "char": "布",
+        "meaning": "吕布，三国名将"
+      },
+      {
+        "char": "射",
+        "meaning": "射箭"
+      },
+      {
+        "char": "僚",
+        "meaning": "宜僚，春秋楚人"
+      },
+      {
+        "char": "丸",
+        "meaning": "弄丸，玩弄弹丸"
+      }
+    ],
+    "fullExplanation": "吕布善于射箭（辕门射戟），宜僚擅长弄丸。以下列举古代各领域的能工巧匠和奇才。",
+    "allusionId": "busheliaowan"
+  },
+  {
+    "id": 230,
+    "text": "嵇琴阮啸",
+    "pinyin": [
+      "jī",
+      "qín",
+      "ruǎn",
+      "xiào"
+    ],
+    "briefMeaning": "嵇康善弹琴，阮籍善长啸",
+    "charAnnotations": [
+      {
+        "char": "嵇",
+        "meaning": "嵇康，竹林七贤之一"
+      },
+      {
+        "char": "琴",
+        "meaning": "弹琴"
+      },
+      {
+        "char": "阮",
+        "meaning": "阮籍，竹林七贤之一"
+      },
+      {
+        "char": "啸",
+        "meaning": "长啸"
+      }
+    ],
+    "fullExplanation": "嵇康擅长弹琴，阮籍擅长长啸。二人皆为竹林七贤，各有超然脱俗之风度。",
+    "allusionId": "jiqinruanxiao"
+  },
+  {
+    "id": 231,
+    "text": "恬笔伦纸",
+    "pinyin": [
+      "tián",
+      "bǐ",
+      "lún",
+      "zhǐ"
+    ],
+    "briefMeaning": "蒙恬造笔，蔡伦造纸",
+    "charAnnotations": [
+      {
+        "char": "恬",
+        "meaning": "蒙恬，秦朝将领"
+      },
+      {
+        "char": "笔",
+        "meaning": "毛笔"
+      },
+      {
+        "char": "伦",
+        "meaning": "蔡伦，东汉宦官"
+      },
+      {
+        "char": "纸",
+        "meaning": "纸张"
+      }
+    ],
+    "fullExplanation": "蒙恬改良了毛笔，蔡伦改进了造纸术。二人的发明对中华文明产生了深远影响。",
+    "allusionId": "tianbilunzhi"
+  },
+  {
+    "id": 232,
+    "text": "钧巧任钓",
+    "pinyin": [
+      "jūn",
+      "qiǎo",
+      "rèn",
+      "diào"
+    ],
+    "briefMeaning": "马钧巧思善工，任公子善于垂钓",
+    "charAnnotations": [
+      {
+        "char": "钧",
+        "meaning": "马钧，三国魏发明家"
+      },
+      {
+        "char": "巧",
+        "meaning": "巧思，精巧"
+      },
+      {
+        "char": "任",
+        "meaning": "任公子，古代传说人物"
+      },
+      {
+        "char": "钓",
+        "meaning": "垂钓"
+      }
+    ],
+    "fullExplanation": "马钧以巧思著称，善于发明制造；任公子以巨钩大饵垂钓于东海，钓得大鱼。典出《庄子·外物》。",
+    "allusionId": "junqiaorendiao"
+  },
+  {
+    "id": 233,
+    "text": "释纷利俗",
+    "pinyin": [
+      "shì",
+      "fēn",
+      "lì",
+      "sú"
+    ],
+    "briefMeaning": "排解纷争，有利于世俗",
+    "charAnnotations": [
+      {
+        "char": "释",
+        "meaning": "排解"
+      },
+      {
+        "char": "纷",
+        "meaning": "纷争"
+      },
+      {
+        "char": "利",
+        "meaning": "有利于"
+      },
+      {
+        "char": "俗",
+        "meaning": "世俗"
+      }
+    ],
+    "fullExplanation": "排解世间的纷争，有利于民众生活。总结以上各种技艺才能的社会价值。",
+    "allusionId": null
+  },
+  {
+    "id": 234,
+    "text": "并皆佳妙",
+    "pinyin": [
+      "bìng",
+      "jiē",
+      "jiā",
+      "miào"
+    ],
+    "briefMeaning": "这些才能都是美好精妙的",
+    "charAnnotations": [
+      {
+        "char": "并",
+        "meaning": "都"
+      },
+      {
+        "char": "皆",
+        "meaning": "都"
+      },
+      {
+        "char": "佳",
+        "meaning": "美好"
+      },
+      {
+        "char": "妙",
+        "meaning": "精妙"
+      }
+    ],
+    "fullExplanation": "以上所述的各种才能都是美好而精妙的。总括前文列举的各种奇才异能。",
+    "allusionId": null
+  },
+  {
+    "id": 235,
+    "text": "毛施淑姿",
+    "pinyin": [
+      "máo",
+      "shī",
+      "shū",
+      "zī"
+    ],
+    "briefMeaning": "毛嫱和西施姿容美好",
+    "charAnnotations": [
+      {
+        "char": "毛",
+        "meaning": "毛嫱，古代美女"
+      },
+      {
+        "char": "施",
+        "meaning": "西施，春秋美女"
+      },
+      {
+        "char": "淑",
+        "meaning": "美好"
+      },
+      {
+        "char": "姿",
+        "meaning": "姿态"
+      }
+    ],
+    "fullExplanation": "毛嫱和西施都有美好的姿容。毛嫱与西施并称，是古代美女的代表。",
+    "allusionId": "maoshishuzhi"
+  },
+  {
+    "id": 236,
+    "text": "工颦妍笑",
+    "pinyin": [
+      "gōng",
+      "pín",
+      "yán",
+      "xiào"
+    ],
+    "briefMeaning": "善于颦眉和微笑，仪态动人",
+    "charAnnotations": [
+      {
+        "char": "工",
+        "meaning": "擅长"
+      },
+      {
+        "char": "颦",
+        "meaning": "皱眉"
+      },
+      {
+        "char": "妍",
+        "meaning": "美丽"
+      },
+      {
+        "char": "笑",
+        "meaning": "微笑"
+      }
+    ],
+    "fullExplanation": "无论皱眉还是微笑都美丽动人。化用「东施效颦」的典故，强调美人举手投足皆成风韵。",
+    "allusionId": "maoshishuzhi"
+  },
+  {
+    "id": 237,
+    "text": "年矢每催",
+    "pinyin": [
+      "nián",
+      "shǐ",
+      "měi",
+      "cuī"
+    ],
+    "briefMeaning": "年华如箭，时时催促",
+    "charAnnotations": [
+      {
+        "char": "年",
+        "meaning": "年华"
+      },
+      {
+        "char": "矢",
+        "meaning": "如箭"
+      },
+      {
+        "char": "每",
+        "meaning": "常常"
+      },
+      {
+        "char": "催",
+        "meaning": "催促"
+      }
+    ],
+    "fullExplanation": "光阴如箭般飞逝，时刻催促着人们。感叹岁月无情，人生苦短。",
+    "allusionId": null
+  },
+  {
+    "id": 238,
+    "text": "曦晖朗曜",
+    "pinyin": [
+      "xī",
+      "huī",
+      "lǎng",
+      "yào"
+    ],
+    "briefMeaning": "阳光明亮，光辉照耀",
+    "charAnnotations": [
+      {
+        "char": "曦",
+        "meaning": "日光"
+      },
+      {
+        "char": "晖",
+        "meaning": "光辉"
+      },
+      {
+        "char": "朗",
+        "meaning": "明朗"
+      },
+      {
+        "char": "曜",
+        "meaning": "照耀"
+      }
+    ],
+    "fullExplanation": "阳光明亮地照耀大地。虽然光阴催人，但日月光辉依然明亮不息。",
+    "allusionId": null
+  },
+  {
+    "id": 239,
+    "text": "璇玑悬斡",
+    "pinyin": [
+      "xuán",
+      "jī",
+      "xuán",
+      "wò"
+    ],
+    "briefMeaning": "北斗星悬挂在天空旋转运行",
+    "charAnnotations": [
+      {
+        "char": "璇",
+        "meaning": "美玉，北斗七星之一"
+      },
+      {
+        "char": "玑",
+        "meaning": "北斗星"
+      },
+      {
+        "char": "悬",
+        "meaning": "悬挂"
+      },
+      {
+        "char": "斡",
+        "meaning": "旋转"
+      }
+    ],
+    "fullExplanation": "北斗星悬挂在天空旋转运行。「璇玑」指北斗星或天体仪器，象征天体运行不息。",
+    "allusionId": null
+  },
+  {
+    "id": 240,
+    "text": "晦魄环照",
+    "pinyin": [
+      "huì",
+      "pò",
+      "huán",
+      "zhào"
+    ],
+    "briefMeaning": "月亮盈亏交替环绕照耀",
+    "charAnnotations": [
+      {
+        "char": "晦",
+        "meaning": "月末，黑暗"
+      },
+      {
+        "char": "魄",
+        "meaning": "月魄，月光"
+      },
+      {
+        "char": "环",
+        "meaning": "环绕，循环"
+      },
+      {
+        "char": "照",
+        "meaning": "照耀"
+      }
+    ],
+    "fullExplanation": "月亮在晦朔之间盈亏交替，循环不已地照耀大地。与上句对仗，日月运行永无止息。",
+    "allusionId": null
+  },
+  {
+    "id": 241,
+    "text": "指薪修祜",
+    "pinyin": [
+      "zhǐ",
+      "xīn",
+      "xiū",
+      "hù"
+    ],
+    "briefMeaning": "如薪火相传般积修福德",
+    "charAnnotations": [
+      {
+        "char": "指",
+        "meaning": "如同"
+      },
+      {
+        "char": "薪",
+        "meaning": "柴薪"
+      },
+      {
+        "char": "修",
+        "meaning": "修积"
+      },
+      {
+        "char": "祜",
+        "meaning": "福分"
+      }
+    ],
+    "fullExplanation": "如同薪尽火传一般，不断修积福分。语出《庄子·养生主》'指穷于为薪，火传也，不知其尽也'。",
+    "allusionId": null
+  },
+  {
+    "id": 242,
+    "text": "永绥吉劭",
+    "pinyin": [
+      "yǒng",
+      "suí",
+      "jí",
+      "shào"
+    ],
+    "briefMeaning": "永远安宁吉祥美好",
+    "charAnnotations": [
+      {
+        "char": "永",
+        "meaning": "永远"
+      },
+      {
+        "char": "绥",
+        "meaning": "安宁"
+      },
+      {
+        "char": "吉",
+        "meaning": "吉祥"
+      },
+      {
+        "char": "劭",
+        "meaning": "美好"
+      }
+    ],
+    "fullExplanation": "祈愿永远安宁、吉祥、美好。表达对未来世代的美好祝愿。",
+    "allusionId": null
+  },
+  {
+    "id": 243,
+    "text": "矩步引领",
+    "pinyin": [
+      "jǔ",
+      "bù",
+      "yǐn",
+      "lǐng"
+    ],
+    "briefMeaning": "步履方正，伸直脖颈",
+    "charAnnotations": [
+      {
+        "char": "矩",
+        "meaning": "规矩，方正"
+      },
+      {
+        "char": "步",
+        "meaning": "步伐"
+      },
+      {
+        "char": "引",
+        "meaning": "伸直"
+      },
+      {
+        "char": "领",
+        "meaning": "脖颈"
+      }
+    ],
+    "fullExplanation": "走路步伐端正合乎规矩，伸直脖颈仪态庄重。形容在朝为官举止端庄。",
+    "allusionId": null
+  },
+  {
+    "id": 244,
+    "text": "俯仰廊庙",
+    "pinyin": [
+      "fǔ",
+      "yǎng",
+      "láng",
+      "miào"
+    ],
+    "briefMeaning": "在朝廷庙堂中举止得体",
+    "charAnnotations": [
+      {
+        "char": "俯",
+        "meaning": "低头"
+      },
+      {
+        "char": "仰",
+        "meaning": "抬头"
+      },
+      {
+        "char": "廊",
+        "meaning": "回廊，朝廊"
+      },
+      {
+        "char": "庙",
+        "meaning": "庙堂"
+      }
+    ],
+    "fullExplanation": "在庙堂廊院之中俯仰行礼、进退得体。指在朝廷上合乎礼仪、从容自如。",
+    "allusionId": null
+  },
+  {
+    "id": 245,
+    "text": "束带矜庄",
+    "pinyin": [
+      "shù",
+      "dài",
+      "jīn",
+      "zhuāng"
+    ],
+    "briefMeaning": "整束衣带，庄重严肃",
+    "charAnnotations": [
+      {
+        "char": "束",
+        "meaning": "束紧"
+      },
+      {
+        "char": "带",
+        "meaning": "衣带"
+      },
+      {
+        "char": "矜",
+        "meaning": "庄重"
+      },
+      {
+        "char": "庄",
+        "meaning": "庄严"
+      }
+    ],
+    "fullExplanation": "束紧衣带，庄重严肃。形容人穿戴整齐、仪表端庄。",
+    "allusionId": null
+  },
+  {
+    "id": 246,
+    "text": "徘徊瞻眺",
+    "pinyin": [
+      "pái",
+      "huái",
+      "zhān",
+      "tiào"
+    ],
+    "briefMeaning": "徘徊四顾，瞻望远眺",
+    "charAnnotations": [
+      {
+        "char": "徘",
+        "meaning": "徘徊"
+      },
+      {
+        "char": "徊",
+        "meaning": "徘徊"
+      },
+      {
+        "char": "瞻",
+        "meaning": "瞻望"
+      },
+      {
+        "char": "眺",
+        "meaning": "远眺"
+      }
+    ],
+    "fullExplanation": "来回徘徊，瞻望远眺。描写在庙堂之外四处瞻望、体察民情的姿态。",
+    "allusionId": null
+  },
+  {
+    "id": 247,
+    "text": "孤陋寡闻",
+    "pinyin": [
+      "gū",
+      "lòu",
+      "guǎ",
+      "wén"
+    ],
+    "briefMeaning": "孤陋浅薄，见闻寡少",
+    "charAnnotations": [
+      {
+        "char": "孤",
+        "meaning": "孤独"
+      },
+      {
+        "char": "陋",
+        "meaning": "浅陋"
+      },
+      {
+        "char": "寡",
+        "meaning": "少"
+      },
+      {
+        "char": "闻",
+        "meaning": "见闻"
+      }
+    ],
+    "fullExplanation": "自谦学识浅薄、见闻寡少。作者在全文结尾以谦辞自称，是古代文人的惯例。",
+    "allusionId": null
+  },
+  {
+    "id": 248,
+    "text": "愚蒙等诮",
+    "pinyin": [
+      "yú",
+      "méng",
+      "děng",
+      "qiào"
+    ],
+    "briefMeaning": "愚昧无知，难免被人讥笑",
+    "charAnnotations": [
+      {
+        "char": "愚",
+        "meaning": "愚笨"
+      },
+      {
+        "char": "蒙",
+        "meaning": "蒙昧"
+      },
+      {
+        "char": "等",
+        "meaning": "等同，招致"
+      },
+      {
+        "char": "诮",
+        "meaning": "讥讽"
+      }
+    ],
+    "fullExplanation": "自己愚昧蒙昧，难免招致他人的讥笑。继续自谦，是古代文人写作的惯例结语。",
+    "allusionId": null
+  },
+  {
+    "id": 249,
+    "text": "谓语助者",
+    "pinyin": [
+      "wèi",
+      "yǔ",
+      "zhù",
+      "zhě"
+    ],
+    "briefMeaning": "所谓语气助词",
+    "charAnnotations": [
+      {
+        "char": "谓",
+        "meaning": "所谓"
+      },
+      {
+        "char": "语",
+        "meaning": "语句"
+      },
+      {
+        "char": "助",
+        "meaning": "助词"
+      },
+      {
+        "char": "者",
+        "meaning": "……的"
+      }
+    ],
+    "fullExplanation": "以上所用到的语气助词。接下来列举「焉哉乎也」四个语气助词，为全文收尾。",
+    "allusionId": null
+  },
+  {
+    "id": 250,
+    "text": "焉哉乎也",
+    "pinyin": [
+      "yān",
+      "zāi",
+      "hū",
+      "yě"
+    ],
+    "briefMeaning": "焉、哉、乎、也都是语气助词",
+    "charAnnotations": [
+      {
+        "char": "焉",
+        "meaning": "句末语气词"
+      },
+      {
+        "char": "哉",
+        "meaning": "感叹语气词"
+      },
+      {
+        "char": "乎",
+        "meaning": "疑问语气词"
+      },
+      {
+        "char": "也",
+        "meaning": "判断语气词"
+      }
+    ],
+    "fullExplanation": "「焉」「哉」「乎」「也」四个文言语气助词。《千字文》以此四字收尾，既凑足千字，又别具一格地以虚词作结。",
+    "allusionId": null
   }
 ]
