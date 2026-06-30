@@ -30,6 +30,7 @@
       <p>未找到该典故</p>
       <router-link to="/" class="back-link">← 返回全文</router-link>
     </div>
+    <div class="safe-area-spacer"></div>
   </div>
 </template>
 
@@ -54,12 +55,17 @@ function getImageUrl(path) {
 .allusion-page {
   max-width: 640px;
   margin: 0 auto;
-  padding: calc(24px + env(safe-area-inset-top, 0px)) 16px max(24px, env(safe-area-inset-bottom, 24px));
+  padding: calc(24px + env(safe-area-inset-top, 0px)) 16px 0;
   height: 100vh;
   height: 100dvh;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   background: var(--bg);
+}
+
+.allusion-page .safe-area-spacer {
+  flex-shrink: 0;
+  height: max(24px, env(safe-area-inset-bottom, 24px));
 }
 
 .back-link {

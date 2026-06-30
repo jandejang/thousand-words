@@ -24,6 +24,7 @@
         </Transition>
       </template>
       </div>
+      <div class="safe-area-spacer"></div>
     </div>
   </div>
 </template>
@@ -130,7 +131,12 @@ function isRowEnd(index) {
   max-width: 780px;
   margin: 0 auto;
   width: 100%;
-  padding: 12px 16px max(16px, env(safe-area-inset-bottom, 16px));
+  padding: 12px 16px 0;
+}
+
+.safe-area-spacer {
+  flex-shrink: 0;
+  height: max(16px, env(safe-area-inset-bottom, 16px));
 }
 
 .detail-row {
