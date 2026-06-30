@@ -114,17 +114,18 @@ function onTouchEnd() {
 .badge-group {
   position: absolute;
   top: 4px;
-  right: 4px;
+  right: 2px;
   display: flex;
+  flex-direction: column;
   gap: 2px;
   pointer-events: none;
 }
 
 .cell-badge {
-  width: 18px;
-  height: 18px;
-  border-radius: 4px;
-  font-size: 10px;
+  width: 16px;
+  height: 16px;
+  border-radius: 3px;
+  font-size: 9px;
   font-family: "Noto Serif SC", serif;
   display: flex;
   align-items: center;
