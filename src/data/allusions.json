@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tianxuandihuang",
+    "title": "天玄地黄",
+    "source": "《易经·坤卦》文言",
+    "sourceText": "夫玄黄者，天地之杂也，天玄而地黄。",
+    "interpretation": "语出《易经》坤卦文言。古人观察天空呈青黑色，大地呈黄色，以此描述天地最基本的色彩特征，引申为宇宙初始的面貌。千字文以此开篇，总领全文。",
+    "image": null,
+    "imageSource": null
+  },
+  {
+    "id": "riyueyingze",
+    "title": "日月盈昃",
+    "source": "《易经·丰卦》",
+    "sourceText": "日中则昃，月盈则食。",
+    "interpretation": "太阳到了正午就开始偏西，月亮盈满之后就开始亏缺。这是古人对自然规律的观察，也蕴含盛极必衰的哲理。",
+    "image": null,
+    "imageSource": null
+  },
+  {
+    "id": "hanlaishuwang",
+    "title": "寒来暑往",
+    "source": "《易经·系辞下》",
+    "sourceText": "寒往则暑来，暑往则寒来，寒暑相推而岁成焉。",
+    "interpretation": "寒暑交替循环，推动岁月更迭。古人由此认识到时间与自然变化的规律性。",
+    "image": null,
+    "imageSource": null
+  },
+  {
+    "id": "lvlvtiaoyang",
+    "title": "律吕调阳",
+    "source": "《史记·律书》",
+    "sourceText": "六律六吕，十二律也......律者，所以通气制度也。",
+    "interpretation": "古代将音律分为六律（阳）六吕（阴），合称十二律。古人认为音律与天地阴阳之气相通，可以用来调和天时。",
+    "image": null,
+    "imageSource": null
+  }
+]

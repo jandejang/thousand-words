@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "text": "天地玄黄",
+    "pinyin": ["tiān", "dì", "xuán", "huáng"],
+    "briefMeaning": "天是青黑色的，地是黄色的",
+    "charAnnotations": [
+      { "char": "天", "meaning": "天空" },
+      { "char": "地", "meaning": "大地" },
+      { "char": "玄", "meaning": "青黑色，深远" },
+      { "char": "黄", "meaning": "黄色" }
+    ],
+    "fullExplanation": "天的颜色是青黑的，地的颜色是黄的。开篇以天地的色彩起笔，引出宇宙万物的宏大叙事。",
+    "allusionId": "tianxuandihuang"
+  },
+  {
+    "id": 2,
+    "text": "宇宙洪荒",
+    "pinyin": ["yǔ", "zhòu", "hóng", "huāng"],
+    "briefMeaning": "宇宙广阔无边，混沌蒙昧",
+    "charAnnotations": [
+      { "char": "宇", "meaning": "上下四方的空间" },
+      { "char": "宙", "meaning": "古往今来的时间" },
+      { "char": "洪", "meaning": "大，广大" },
+      { "char": "荒", "meaning": "荒远，蒙昧" }
+    ],
+    "fullExplanation": "宇宙广袤无边，远古时代混沌蒙昧。「宇」指空间，「宙」指时间，合称涵盖一切时空。",
+    "allusionId": null
+  },
+  {
+    "id": 3,
+    "text": "日月盈昃",
+    "pinyin": ["rì", "yuè", "yíng", "zè"],
+    "briefMeaning": "太阳到了正午就偏西，月亮圆了就会亏缺",
+    "charAnnotations": [
+      { "char": "日", "meaning": "太阳" },
+      { "char": "月", "meaning": "月亮" },
+      { "char": "盈", "meaning": "满，盈满" },
+      { "char": "昃", "meaning": "太阳偏西" }
+    ],
+    "fullExplanation": "太阳到了正午就会偏西，月亮盈满之后就会亏缺。说明自然事物盛极必衰的规律。",
+    "allusionId": "riyueyingze"
+  },
+  {
+    "id": 4,
+    "text": "辰宿列张",
+    "pinyin": ["chén", "xiù", "liè", "zhāng"],
+    "briefMeaning": "星辰布满天空",
+    "charAnnotations": [
+      { "char": "辰", "meaning": "星辰，日月星的总称" },
+      { "char": "宿", "meaning": "星宿，二十八宿" },
+      { "char": "列", "meaning": "排列，陈列" },
+      { "char": "张", "meaning": "展开，布满" }
+    ],
+    "fullExplanation": "星辰在天空中排列展布。古人将天空星星分为二十八宿，各有分布。",
+    "allusionId": null
+  },
+  {
+    "id": 5,
+    "text": "寒来暑往",
+    "pinyin": ["hán", "lái", "shǔ", "wǎng"],
+    "briefMeaning": "寒冬到来，暑夏过去",
+    "charAnnotations": [
+      { "char": "寒", "meaning": "寒冷" },
+      { "char": "来", "meaning": "到来" },
+      { "char": "暑", "meaning": "炎热" },
+      { "char": "往", "meaning": "过去" }
+    ],
+    "fullExplanation": "寒冬来临，暑夏过去，四季交替循环不息。语出《易经·系辞》。",
+    "allusionId": "hanlaishuwang"
+  },
+  {
+    "id": 6,
+    "text": "秋收冬藏",
+    "pinyin": ["qiū", "shōu", "dōng", "cáng"],
+    "briefMeaning": "秋天收获，冬天储藏",
+    "charAnnotations": [
+      { "char": "秋", "meaning": "秋季" },
+      { "char": "收", "meaning": "收获" },
+      { "char": "冬", "meaning": "冬季" },
+      { "char": "藏", "meaning": "储藏" }
+    ],
+    "fullExplanation": "秋天收获庄稼，冬天储藏粮食。与春生夏长合称「春生夏长，秋收冬藏」，是古代农业社会的基本规律。",
+    "allusionId": null
+  },
+  {
+    "id": 7,
+    "text": "闰余成岁",
+    "pinyin": ["rùn", "yú", "chéng", "suì"],
+    "briefMeaning": "积累闰月凑成一年",
+    "charAnnotations": [
+      { "char": "闰", "meaning": "闰月" },
+      { "char": "余", "meaning": "多余的" },
+      { "char": "成", "meaning": "凑成" },
+      { "char": "岁", "meaning": "一年" }
+    ],
+    "fullExplanation": "农历与太阳年有差异，积累多余的天数设置闰月来调整，使历法与天时吻合。",
+    "allusionId": null
+  },
+  {
+    "id": 8,
+    "text": "律吕调阳",
+    "pinyin": ["lǜ", "lǚ", "tiáo", "yáng"],
+    "briefMeaning": "用音律来调和阴阳",
+    "charAnnotations": [
+      { "char": "律", "meaning": "六律，阳律" },
+      { "char": "吕", "meaning": "六吕，阴律" },
+      { "char": "调", "meaning": "调和" },
+      { "char": "阳", "meaning": "阴阳" }
+    ],
+    "fullExplanation": "古人用六律六吕十二音律来调和阴阳，认为音乐与天地之气相通。",
+    "allusionId": "lvlvtiaoyang"
+  }
+]
