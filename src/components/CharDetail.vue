@@ -119,7 +119,7 @@ const displayPinyin = computed(() => {
 .anno-play {
   position: absolute;
   top: 6px;
-  right: 4px;
+  right: 6px;
 }
 
 .anno-char {
