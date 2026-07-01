@@ -28,7 +28,19 @@
       }
     ],
     "fullExplanation": "天的颜色是青黑的，地的颜色是黄的。开篇以天地的色彩起笔，引出宇宙万物的宏大叙事。",
-    "allusionId": "tianxuandihuang"
+    "allusionId": "tianxuandihuang",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 2,
@@ -59,7 +71,19 @@
       }
     ],
     "fullExplanation": "宇宙广袤无边，远古时代混沌蒙昧。「宇」指空间，「宙」指时间，合称涵盖一切时空。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 3,
@@ -90,7 +114,19 @@
       }
     ],
     "fullExplanation": "太阳到了正午就会偏西，月亮盈满之后就会亏缺。说明自然事物盛极必衰的规律。",
-    "allusionId": "riyueyingze"
+    "allusionId": "riyueyingze",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 4,
@@ -121,7 +157,19 @@
       }
     ],
     "fullExplanation": "星辰在天空中排列展布。古人将天空星星分为二十八宿，各有分布。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 5,
@@ -152,7 +200,19 @@
       }
     ],
     "fullExplanation": "寒冬来临，暑夏过去，四季交替循环不息。语出《易经·系辞》。",
-    "allusionId": "hanlaishuwang"
+    "allusionId": "hanlaishuwang",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 6,
@@ -183,7 +243,19 @@
       }
     ],
     "fullExplanation": "秋天收获庄稼，冬天储藏粮食。与春生夏长合称「春生夏长，秋收冬藏」，是古代农业社会的基本规律。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 7,
@@ -214,7 +286,19 @@
       }
     ],
     "fullExplanation": "农历与太阳年有差异，积累多余的天数设置闰月来调整，使历法与天时吻合。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 8,
@@ -245,7 +329,19 @@
       }
     ],
     "fullExplanation": "古人用六律六吕十二音律来调和阴阳，认为音乐与天地之气相通。",
-    "allusionId": "lvlvtiaoyang"
+    "allusionId": "lvlvtiaoyang",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 9,
@@ -276,7 +372,19 @@
       }
     ],
     "fullExplanation": "云气蒸腾上升就会降下雨水。描写自然界中水汽循环的现象。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 10,
@@ -307,7 +415,19 @@
       }
     ],
     "fullExplanation": "露珠凝结就会化为白霜。与上句合为一对，描写天地间云雨霜露的气候变化。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 11,
@@ -338,7 +458,19 @@
       }
     ],
     "fullExplanation": "黄金产自丽水一带。古人认为丽水（金沙江）出产黄金，此处列举天下珍宝的产地。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 12,
@@ -369,7 +501,19 @@
       }
     ],
     "fullExplanation": "美玉出产于昆仑山冈。昆仑山自古以产美玉闻名，与上句并举金玉之珍。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 13,
@@ -400,7 +544,19 @@
       }
     ],
     "fullExplanation": "宝剑中最著名的称为巨阙。巨阙是古代名剑，相传为欧冶子所铸。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 14,
@@ -431,7 +587,19 @@
       }
     ],
     "fullExplanation": "珍珠中最著名的称为夜光珠。夜光珠能在夜间发出光芒，是传说中的稀世珍宝。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 15,
@@ -462,7 +630,19 @@
       }
     ],
     "fullExplanation": "水果中以李子和柰最为珍贵。柰是一种古代果树，果实类似于苹果。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 16,
@@ -493,7 +673,19 @@
       }
     ],
     "fullExplanation": "蔬菜中以芥菜和姜最被看重。芥菜和姜都是古代常见的重要蔬菜和调料。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 17,
@@ -524,7 +716,19 @@
       }
     ],
     "fullExplanation": "海水是咸的，河水是淡的。以简洁的对比描述自然界水域的基本特征。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 18,
@@ -555,7 +759,19 @@
       }
     ],
     "fullExplanation": "鱼类在水中潜游，鸟类在天空翱翔。以「鳞」代鱼、「羽」代鸟，描绘动物各得其所的自然景象。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 19,
@@ -586,7 +802,19 @@
       }
     ],
     "fullExplanation": "伏羲氏以龙纪官，称龙师；神农氏以火德王天下，称火帝。上古帝王各以不同图腾命名百官。",
-    "allusionId": "longshihuodi"
+    "allusionId": "longshihuodi",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 20,
@@ -617,7 +845,19 @@
       }
     ],
     "fullExplanation": "少昊氏以鸟命名官职，人皇氏治理人间。与上句合述上古帝王的纪官制度和治理方式。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 21,
@@ -648,7 +888,19 @@
       }
     ],
     "fullExplanation": "仓颉开始创造文字。相传黄帝时代的史官仓颉观察鸟兽足迹，受启发而造字。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 22,
@@ -679,7 +931,19 @@
       }
     ],
     "fullExplanation": "于是人们开始穿上衣裳。相传黄帝之妻嫘祖发明养蚕织丝，人类从此有了衣裳之制。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 23,
@@ -710,7 +974,19 @@
       }
     ],
     "fullExplanation": "帝王主动推让帝位与国家。指尧帝禅让帝位于舜，舜又禅让于禹，是上古圣王的美德。",
-    "allusionId": "tuiweirangguo"
+    "allusionId": "tuiweirangguo",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 24,
@@ -741,7 +1017,19 @@
       }
     ],
     "fullExplanation": "指的就是有虞氏的舜和陶唐氏的尧。尧号陶唐，舜号有虞，他们以禅让制传递帝位，被后世视为圣王楷模。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 25,
@@ -772,7 +1060,19 @@
       }
     ],
     "fullExplanation": "安抚受苦的百姓，讨伐有罪的暴君。形容以正义之师推翻暴政、拯救百姓。",
-    "allusionId": "diaominfazui"
+    "allusionId": "diaominfazui",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 26,
@@ -803,7 +1103,19 @@
       }
     ],
     "fullExplanation": "指的就是周武王姬发和殷商的成汤。汤伐夏桀、武王伐商纣，都是吊民伐罪的历史典范。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 27,
@@ -834,7 +1146,19 @@
       }
     ],
     "fullExplanation": "端坐在朝堂之上，向群臣询问治国之道。描述贤明君主虚心纳谏的理想治国场景。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 28,
@@ -865,7 +1189,19 @@
       }
     ],
     "fullExplanation": "垂衣拱手便能使天下太平昌明。「垂拱」形容无为而治，天下自然清明有序。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 29,
@@ -896,7 +1232,19 @@
       }
     ],
     "fullExplanation": "以仁爱之心养育天下百姓。「黎首」即黎民百姓，描述圣王爱民如子的胸怀。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 30,
@@ -927,7 +1275,19 @@
       }
     ],
     "fullExplanation": "戎羌等四方部族都归顺臣服。描述圣王德化远播，使边远部族主动归附。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 31,
@@ -958,7 +1318,19 @@
       }
     ],
     "fullExplanation": "无论远近都融为一体。「遐」是远方，「迩」是近处，形容天下统一、四海归心。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 32,
@@ -989,7 +1361,19 @@
       }
     ],
     "fullExplanation": "天下万民都如宾客般恭敬归顺于王。形容王化所及，无不宾服。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 33,
@@ -1020,7 +1404,19 @@
       }
     ],
     "fullExplanation": "凤凰在竹林中鸣叫。凤鸣是祥瑞之兆，象征太平盛世的出现。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 34,
@@ -1051,7 +1447,19 @@
       }
     ],
     "fullExplanation": "白色的马驹在场圃中安然吃草。典出《诗经·小雅·白驹》，比喻贤才在野、隐居闲适。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 35,
@@ -1082,7 +1490,19 @@
       }
     ],
     "fullExplanation": "圣王的教化恩泽广被草木万物。形容德政的惠泽无所不及，连草木都受到滋润。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 36,
@@ -1113,7 +1533,19 @@
       }
     ],
     "fullExplanation": "恩惠遍及天下各方。与上句合说圣王德化覆盖万物、泽被天下的盛况。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 37,
@@ -1144,7 +1576,19 @@
       }
     ],
     "fullExplanation": "人的身体和头发都是父母所赐。语出《孝经》：「身体发肤，受之父母，不敢毁伤。」",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 38,
@@ -1175,7 +1619,19 @@
       }
     ],
     "fullExplanation": "身体由地水火风四大元素构成，做人应守仁义礼智信五常。四大为佛家之说，五常为儒家伦理。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 39,
@@ -1206,7 +1662,19 @@
       }
     ],
     "fullExplanation": "恭敬地想着父母含辛茹苦的养育之恩。「鞠养」即抚养、养育，强调知恩图报。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 40,
@@ -1237,7 +1705,19 @@
       }
     ],
     "fullExplanation": "怎么敢损毁伤害自己的身体呢？身体受之父母，爱护身体也是孝道的体现。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 41,
@@ -1268,7 +1748,19 @@
       }
     ],
     "fullExplanation": "女子应当仰慕贞洁的品德。古人认为贞洁是女性重要的德行操守。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 42,
@@ -1299,7 +1791,19 @@
       }
     ],
     "fullExplanation": "男子应当效法才德兼备的贤良之人。与上句对仗，分述男女的行为准则。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 43,
@@ -1330,7 +1834,19 @@
       }
     ],
     "fullExplanation": "知道自己有过错就一定要改正。语出《论语》：「过则勿惮改。」强调知错能改的美德。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 44,
@@ -1361,7 +1877,19 @@
       }
     ],
     "fullExplanation": "学到了技能和本领，不要轻易忘记。与上句合说修身之道：改过与精进并重。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 45,
@@ -1392,7 +1920,19 @@
       }
     ],
     "fullExplanation": "不要谈论别人的短处缺点。告诫人们应当宽以待人，不可背后议论他人之短。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 46,
@@ -1423,7 +1963,19 @@
       }
     ],
     "fullExplanation": "不要倚仗自己的长处骄傲自满。与上句合说待人处世之道：勿论人短，勿矜己长。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 47,
@@ -1454,7 +2006,19 @@
       }
     ],
     "fullExplanation": "承诺的话语应当经得起反复验证。「覆」即覆验、核查，强调言出必行、言而有信。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 48,
@@ -1485,7 +2049,19 @@
       }
     ],
     "fullExplanation": "人的器量应当宽广到难以衡量。勉励人修养胸襟，使自己的气度深广不可测。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 49,
@@ -1516,7 +2092,19 @@
       }
     ],
     "fullExplanation": "墨子看到洁白的丝线被染上颜色而感到悲伤。典出《墨子·所染》，比喻环境对人的深刻影响，近朱者赤、近墨者黑。",
-    "allusionId": "mobisiran"
+    "allusionId": "mobisiran",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 50,
@@ -1547,7 +2135,19 @@
       }
     ],
     "fullExplanation": "《诗经》中赞美如羔羊般纯洁的节操。典出《诗经·召南·羔羊》，赞颂官员清正廉洁。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 51,
@@ -1578,7 +2178,19 @@
       }
     ],
     "fullExplanation": "仰慕并效法贤德之人的高尚品行。典出《诗经·小雅·车辖》：「高山仰止，景行行止。」",
-    "allusionId": "jingxingweixian"
+    "allusionId": "jingxingweixian",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 52,
@@ -1609,7 +2221,19 @@
       }
     ],
     "fullExplanation": "能够时刻警醒反省，就能够成为圣人。语出《尚书·多方》：「惟狂克念作圣。」",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 53,
@@ -1640,7 +2264,19 @@
       }
     ],
     "fullExplanation": "修养品德就能立身成名。德行是名声的根本，有德自然有名。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 54,
@@ -1671,7 +2307,19 @@
       }
     ],
     "fullExplanation": "形体端正则外在表现自然正直。比喻内在修养决定外在气质，表里如一。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 55,
@@ -1702,7 +2350,19 @@
       }
     ],
     "fullExplanation": "空旷的山谷中呼喊能传来回声。比喻善行必有回响，因果相应。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 56,
@@ -1733,7 +2393,19 @@
       }
     ],
     "fullExplanation": "空旷的厅堂中声音会反复回响。与上句合说因果感应之理：所言所行如同回声，必有回报。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 57,
@@ -1764,7 +2436,19 @@
       }
     ],
     "fullExplanation": "灾祸的降临源于恶行的日积月累。语出《易经》：「积不善之家，必有余殃。」",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 58,
@@ -1795,7 +2479,19 @@
       }
     ],
     "fullExplanation": "福报的到来源于善行的日积月累。与上句对仗，阐明善恶因果报应的道理。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 59,
@@ -1826,7 +2522,19 @@
       }
     ],
     "fullExplanation": "一尺大的璧玉并非最珍贵的宝贝。出自《淮南子》：「圣人不贵尺之璧，而重寸之阴。」",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 60,
@@ -1857,7 +2565,19 @@
       }
     ],
     "fullExplanation": "每一寸光阴才是最值得争取珍惜的。与上句合说时间远比财宝珍贵，应当惜时如金。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 61,
@@ -1888,7 +2608,19 @@
       }
     ],
     "fullExplanation": "供养父亲和事奉国君的道理相通。古人认为忠孝一体，孝顺父母与效忠君王同出一源。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 62,
@@ -1919,7 +2651,19 @@
       }
     ],
     "fullExplanation": "对待父亲要严肃敬重，对待国君要恭敬尊崇。「严」对父，「敬」对君，是为人臣子之道。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 63,
@@ -1950,7 +2694,19 @@
       }
     ],
     "fullExplanation": "对父母尽孝应当竭尽全部力量。强调孝道需要身体力行、全力以赴。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 64,
@@ -1981,7 +2737,19 @@
       }
     ],
     "fullExplanation": "对国君尽忠就应当不惜献出生命。与上句合说忠孝之道的极致标准。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 65,
@@ -2012,7 +2780,19 @@
       }
     ],
     "fullExplanation": "像面临深渊、脚踏薄冰一样谨慎行事。典出《诗经·小雅·小旻》，比喻做事应当时刻保持戒惧之心。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 66,
@@ -2043,7 +2823,19 @@
       }
     ],
     "fullExplanation": "黎明即起，冬天为父母温暖床被，夏天为父母扇凉席枕。「温凊」出自《礼记》，是古代侍奉父母的礼节。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 67,
@@ -2074,7 +2866,19 @@
       }
     ],
     "fullExplanation": "品德的高尚如同兰花散发的芬芳。兰花是花中君子，比喻人格高洁、德行馨香。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 68,
@@ -2105,7 +2909,19 @@
       }
     ],
     "fullExplanation": "操守像松树一样经久不衰、四季常青。松树不畏严寒，象征坚贞不屈的节操。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 69,
@@ -2136,7 +2952,19 @@
       }
     ],
     "fullExplanation": "河水昼夜奔流不息。比喻君子修养应当持之以恒，永不停歇。语出《论语》：「逝者如斯夫，不舍昼夜。」",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 70,
@@ -2167,7 +2995,19 @@
       }
     ],
     "fullExplanation": "深潭水清能映照万物。比喻心境澄明方能洞察事理，修养深厚才能明辨是非。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 71,
@@ -2198,7 +3038,19 @@
       }
     ],
     "fullExplanation": "仪容举止应当安详沉稳，如同在沉思一样。强调端庄的仪态是内在修养的外在体现。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 72,
@@ -2229,7 +3081,19 @@
       }
     ],
     "fullExplanation": "言谈措辞要平和稳当，不急不躁。与上句合说君子应当容止端庄、言辞稳重。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 73,
@@ -2260,7 +3124,19 @@
       }
     ],
     "fullExplanation": "一开始就能认真诚恳地做事，确实是美好的。强调「慎始」的重要性。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 74,
@@ -2291,7 +3167,19 @@
       }
     ],
     "fullExplanation": "能够谨慎到最后才是真正的完美。与上句合说善始善终的道理，「令」意为美好。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 75,
@@ -2322,7 +3210,19 @@
       }
     ],
     "fullExplanation": "荣耀的事业就以善始善终为根基。能够始终如一，才能建功立业。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 76,
@@ -2353,7 +3253,19 @@
       }
     ],
     "fullExplanation": "声名远播没有止境。「籍甚」指声名很大，与上句合说善德能使功业和声名永远流传。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 77,
@@ -2384,7 +3296,19 @@
       }
     ],
     "fullExplanation": "学业优异便可步入仕途做官。语出《论语》：「学而优则仕。」古代以学问取士为官。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 78,
@@ -2415,7 +3339,19 @@
       }
     ],
     "fullExplanation": "担任官职，参与治理国家政务。与上句合说从学入仕的人生道路。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 79,
@@ -2446,7 +3382,19 @@
       }
     ],
     "fullExplanation": "百姓为了感念召伯的恩德而保存了他休息过的甘棠树。典出《诗经·召南·甘棠》，赞美爱民者离任后百姓不忘其德。",
-    "allusionId": "cunyigantang"
+    "allusionId": "cunyigantang",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 80,
@@ -2477,7 +3425,19 @@
       }
     ],
     "fullExplanation": "贤者离去之后，百姓反而更加歌颂怀念他。与上句合说真正的好官，离任后百姓愈加思念。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 81,
@@ -2508,7 +3468,19 @@
       }
     ],
     "fullExplanation": "音乐和典礼因身份贵贱不同而有所区别。古代礼乐制度中，不同等级使用不同规格的乐曲。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 82,
@@ -2539,7 +3511,19 @@
       }
     ],
     "fullExplanation": "礼仪因地位尊卑不同而有所区别。与上句合说古代社会以礼乐维持等级秩序。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 83,
@@ -2570,7 +3554,19 @@
       }
     ],
     "fullExplanation": "上级与下级之间和睦融洽。描述理想的社会秩序，上下各守本分、相处和谐。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 84,
@@ -2601,7 +3597,19 @@
       }
     ],
     "fullExplanation": "丈夫在前倡导，妻子在后跟随。「唱」通「倡」，意为倡导带领，描述古代夫妻关系的理想模式。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 85,
@@ -2632,7 +3640,19 @@
       }
     ],
     "fullExplanation": "在家庭之外接受师傅的教导训诲。古代教育强调家庭教育与师傅教育并重，相辅相成。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 86,
@@ -2663,7 +3683,19 @@
       }
     ],
     "fullExplanation": "在家中要遵奉母亲的仪范和教导。与前句「外受傅训」对仗，外面接受师傅教导，回家遵从母亲训示。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 87,
@@ -2694,7 +3726,19 @@
       }
     ],
     "fullExplanation": "对家族中的姑母、伯父、叔父等长辈亲属，应当恭敬有礼。列举父系亲属以代表家族中的长辈。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 88,
@@ -2725,7 +3769,19 @@
       }
     ],
     "fullExplanation": "姑伯叔等长辈对待侄子侄女，如同自己的亲生子女一般。犹子、比儿都是亲近之意，强调家族长辈对晚辈的慈爱。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 89,
@@ -2756,7 +3812,19 @@
       }
     ],
     "fullExplanation": "兄弟之间应当非常相互关怀。语出《诗经·小雅·常棣》「死丧之威，兄弟孔怀」，强调手足之情深厚。",
-    "allusionId": "konghuaixiongdi"
+    "allusionId": "konghuaixiongdi",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 90,
@@ -2787,7 +3855,19 @@
       }
     ],
     "fullExplanation": "兄弟之间同根同脉，犹如一棵大树上相连的枝干。以树枝相连比喻兄弟血脉相通，不可分割。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 91,
@@ -2818,7 +3898,19 @@
       }
     ],
     "fullExplanation": "结交朋友要讲究志趣相投、情分契合。交友之道在于彼此志向和品性的默契。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 92,
@@ -2849,7 +3941,19 @@
       }
     ],
     "fullExplanation": "朋友之间应当互相切磋学问，彼此规劝告诫。语本《论语》「以友辅仁」之意，良友之间当相互砥砺。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 93,
@@ -2880,7 +3984,19 @@
       }
     ],
     "fullExplanation": "为人应当仁爱慈悲，常怀恻隐之心。恻隐之心是孟子所言「四端」之首，是仁之发端。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 94,
@@ -2911,7 +4027,19 @@
       }
     ],
     "fullExplanation": "即使在仓促匆忙之际，也不可背离仁慈之心。语本《论语》「君子无终食之间违仁，造次必于是，颠沛必于是」。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 95,
@@ -2942,7 +4070,19 @@
       }
     ],
     "fullExplanation": "气节、道义、廉洁、谦退，这四种美德是君子立身处世的根本。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 96,
@@ -2973,7 +4113,19 @@
       }
     ],
     "fullExplanation": "即使身处颠沛流离的困境，这些美德也不能有丝毫亏损。与前句合读，强调节义廉退在任何处境下都不可动摇。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 97,
@@ -3004,7 +4156,19 @@
       }
     ],
     "fullExplanation": "保持本性宁静，情绪自然安逸舒适。阐述内心修养的道理：性情安定则身心和谐。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 98,
@@ -3035,7 +4199,19 @@
       }
     ],
     "fullExplanation": "内心若躁动不安，精神就会疲惫不堪。与前句「性静情逸」形成对比，说明守静与躁动的不同结果。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 99,
@@ -3066,7 +4242,19 @@
       }
     ],
     "fullExplanation": "坚守纯真本性，心志自然充实满足。说明返璞归真、安于本分的修身之道。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 100,
@@ -3097,7 +4285,19 @@
       }
     ],
     "fullExplanation": "若一味追逐外在物欲，心志就会动摇偏移。与前句对比：守真则志满，逐物则意移。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 101,
@@ -3128,7 +4328,19 @@
       }
     ],
     "fullExplanation": "坚定不移地保持高雅的操守和品行。告诫人们要有恒心，不为外物所动摇。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 102,
@@ -3159,7 +4371,19 @@
       }
     ],
     "fullExplanation": "只要坚持高尚品行，美好的爵位俸禄自然会到来。语本《易经·中孚卦》「我有好爵，吾与尔靡之」。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 103,
@@ -3190,7 +4414,19 @@
       }
     ],
     "fullExplanation": "华夏大地上的都城巍峨壮观。从此处起，描写两都的繁华盛况。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 104,
@@ -3221,7 +4457,19 @@
       }
     ],
     "fullExplanation": "东都洛阳和西都长安是华夏最重要的两座都城。东京指洛阳，西京指长安，分别是东汉和西汉的国都。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 105,
@@ -3252,7 +4500,19 @@
       }
     ],
     "fullExplanation": "东都洛阳北靠邙山，南面洛水。描写洛阳依山傍水的地理形势。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 106,
@@ -3283,7 +4543,19 @@
       }
     ],
     "fullExplanation": "西都长安临近渭水，据守泾河。描写长安凭借渭泾二水的地理优势。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 107,
@@ -3314,7 +4586,19 @@
       }
     ],
     "fullExplanation": "宫殿建筑盘曲回环，繁茂壮丽。形容两京宫殿的宏大规模和壮丽气象。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 108,
@@ -3345,7 +4629,19 @@
       }
     ],
     "fullExplanation": "楼阁观台高耸入云，仿佛凌空飞起，令人叹为观止。形容建筑之高峻壮观。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 109,
@@ -3376,7 +4672,19 @@
       }
     ],
     "fullExplanation": "宫殿中描绘着各种飞禽走兽的图画。形容宫殿装饰的精美丰富。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 110,
@@ -3407,7 +4715,19 @@
       }
     ],
     "fullExplanation": "用缤纷色彩绘制着神仙灵物的画像。与前句合读，描写宫殿壁画内容丰富，既有禽兽也有仙灵。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 111,
@@ -3438,7 +4758,19 @@
       }
     ],
     "fullExplanation": "正殿旁边的偏殿沿侧面依次开启。丙舍是宫中的次要殿舍，从正殿旁侧延伸开来。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 112,
@@ -3469,7 +4801,19 @@
       }
     ],
     "fullExplanation": "最华丽的帷帐正对着殿堂楹柱。甲帐是汉武帝所设的珍贵帷帐，极尽奢华。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 113,
@@ -3500,7 +4844,19 @@
       }
     ],
     "fullExplanation": "铺设筵席，安排宴饮。古人席地而坐，筵在下、席在上，合称筵席。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 114,
@@ -3531,7 +4887,19 @@
       }
     ],
     "fullExplanation": "宴席上弹奏瑟，吹响笙，丝竹管弦之声不绝。描写宫廷宴饮中的乐舞盛况。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 115,
@@ -3562,7 +4930,19 @@
       }
     ],
     "fullExplanation": "群臣登上台阶，走上殿前的陛阶觐见天子。描写朝堂礼仪的庄严肃穆。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 116,
@@ -3593,7 +4973,19 @@
       }
     ],
     "fullExplanation": "群臣的礼帽上缀有珠玉，转动之间闪闪发光，宛如满天繁星。形容朝堂上百官济济、冠饰辉煌的景象。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 117,
@@ -3624,7 +5016,19 @@
       }
     ],
     "fullExplanation": "宫殿的右边通向广内殿。广内殿是汉代宫中的藏书之所，收藏经籍典册。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 118,
@@ -3655,7 +5059,19 @@
       }
     ],
     "fullExplanation": "宫殿的左边通达承明殿。承明殿是汉代大臣值宿议事之所，著名学者常在此待诏。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 119,
@@ -3686,7 +5102,19 @@
       }
     ],
     "fullExplanation": "宫中已经汇集了三坟五典等上古典籍。三坟是三皇之书，五典是五帝之书，代指最古老的经典文献。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 120,
@@ -3717,7 +5145,19 @@
       }
     ],
     "fullExplanation": "朝廷不仅收藏典籍，也汇聚了天下英才。既有文化典籍之富，又有贤能人才之盛。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 121,
@@ -3748,7 +5188,19 @@
       }
     ],
     "fullExplanation": "杜度以草书闻名，钟繇以隶书著称。列举两位书法大家，赞美中国书法艺术的精湛。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 122,
@@ -3779,7 +5231,19 @@
       }
     ],
     "fullExplanation": "漆书指汲冢出土的用漆书写的古竹简，壁经指孔子旧宅墙壁中发现的古文经书。两者都是古代重大的文献发现。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 123,
@@ -3810,7 +5274,19 @@
       }
     ],
     "fullExplanation": "朝廷官府中将军宰相云集。描写两京人才荟萃，文武百官齐聚的盛况。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 124,
@@ -3841,7 +5317,19 @@
       }
     ],
     "fullExplanation": "大路两旁种植着槐树，象征三公九卿的尊位。周代朝廷外植三槐，对应三公之位，故以「槐卿」代指高官。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 125,
@@ -3872,7 +5360,19 @@
       }
     ],
     "fullExplanation": "功臣之家封地多达八县。形容朝廷封赏之厚，功臣贵族享有广大封地。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 126,
@@ -3903,7 +5403,19 @@
       }
     ],
     "fullExplanation": "贵族之家配有上千的兵士。与前句合读，描写功臣贵族封地广大、兵马众多的荣耀。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 127,
@@ -3934,7 +5446,19 @@
       }
     ],
     "fullExplanation": "群臣戴着高高的冠帽，陪侍在天子的车驾旁边。描写朝臣随侍皇帝出行的排场。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 128,
@@ -3965,7 +5489,19 @@
       }
     ],
     "fullExplanation": "驱车疾驰，冠上的缨带随风飞扬。形容公卿贵族出行时车马辚辚、冠缨飘动的气派。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 129,
@@ -3996,7 +5532,19 @@
       }
     ],
     "fullExplanation": "这些功臣贵族世代享受朝廷俸禄，生活奢侈富裕。描写贵族阶层世袭荣华的生活。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 130,
@@ -4027,7 +5575,19 @@
       }
     ],
     "fullExplanation": "出行乘坐肥马所驾之车，穿着轻柔名贵的裘皮。典出《论语》「乘肥马，衣轻裘」，形容贵族的奢华生活。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 131,
@@ -4058,7 +5618,19 @@
       }
     ],
     "fullExplanation": "将功臣的功勋记录在策书上，其业绩丰厚充实。描写朝廷对功臣的褒奖与记录。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 132,
@@ -4089,7 +5661,19 @@
       }
     ],
     "fullExplanation": "将功臣的事迹镌刻在石碑上，铸成铭文以永垂不朽。与前句合读，描述以策书和碑铭来彰显功勋。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 133,
@@ -4120,7 +5704,19 @@
       }
     ],
     "fullExplanation": "姜太公（吕尚）在磻溪垂钓等待明主，伊尹辅佐商汤建立商朝。两人都是由布衣而登辅政大臣的典范。",
-    "allusionId": "panxiyiyin"
+    "allusionId": "panxiyiyin",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 134,
@@ -4151,7 +5747,19 @@
       }
     ],
     "fullExplanation": "他们辅佐当世君主，担任阿衡之职。阿衡是伊尹的官号，意为「国之栋梁」，代指最高辅政之臣。",
-    "allusionId": "panxiyiyin"
+    "allusionId": "panxiyiyin",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 135,
@@ -4182,7 +5790,19 @@
       }
     ],
     "fullExplanation": "周公平定奄国之乱后，其子伯禽受封于鲁，定都曲阜。曲阜成为鲁国的国都和儒家文化的发源地。",
-    "allusionId": "yanzhaikufu"
+    "allusionId": "yanzhaikufu",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 136,
@@ -4213,7 +5833,19 @@
       }
     ],
     "fullExplanation": "如果没有周公旦，谁能经营治理天下呢？赞叹周公旦辅政的丰功伟绩，没有他就没有周朝的太平盛世。",
-    "allusionId": "weidanshuying"
+    "allusionId": "weidanshuying",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 137,
@@ -4244,7 +5876,19 @@
       }
     ],
     "fullExplanation": "齐桓公匡正天下，九合诸侯，成为春秋首霸。语本《论语》「桓公九合诸侯，不以兵车，管仲之力也」。",
-    "allusionId": "huangongkuanghe"
+    "allusionId": "huangongkuanghe",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 138,
@@ -4275,7 +5919,19 @@
       }
     ],
     "fullExplanation": "齐桓公以霸主身份救济弱小诸侯，扶持倾危之国。这是春秋霸主「尊王攘夷」大义的具体体现。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 139,
@@ -4306,7 +5962,19 @@
       }
     ],
     "fullExplanation": "商山四皓（以绮里季为代表）出山辅佐太子，使刘邦放弃改立太子的念头，挽回了汉惠帝的储位。四位高龄隐士的出现改变了朝局走向。",
-    "allusionId": "qihuihanhui"
+    "allusionId": "qihuihanhui",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 140,
@@ -4337,7 +6005,19 @@
       }
     ],
     "fullExplanation": "傅说以贤能感动了殷王武丁。武丁梦见上天赐予贤臣，在傅岩筑城的役夫中找到傅说，拜为相，殷朝由此中兴。",
-    "allusionId": "yueganwuding"
+    "allusionId": "yueganwuding",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 141,
@@ -4368,7 +6048,19 @@
       }
     ],
     "fullExplanation": "俊杰贤才勤勤恳恳、尽心辅政。俊乂指有才能的人，密勿意为勤勉不懈。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 142,
@@ -4399,7 +6091,19 @@
       }
     ],
     "fullExplanation": "贤才众多，国家确实得以安宁太平。语本《诗经·大雅·文王》「济济多士，文王以宁」。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 143,
@@ -4430,7 +6134,19 @@
       }
     ],
     "fullExplanation": "春秋时期，晋国和楚国交替称霸中原。晋文公和楚庄王先后成为霸主，两国争霸是春秋中后期的主线。",
-    "allusionId": "jinchugengba"
+    "allusionId": "jinchugengba",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 144,
@@ -4461,7 +6177,19 @@
       }
     ],
     "fullExplanation": "战国时期，赵国和魏国被秦国的连横策略所困。连横是张仪主张的外交策略，拉拢诸国亲秦以各个击破。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 145,
@@ -4492,7 +6220,19 @@
       }
     ],
     "fullExplanation": "晋献公向虞国借道攻打虢国，灭虢后回师又灭了虞国。「假途灭虢」是著名的军事谋略，见于《左传》和兵法三十六计。",
-    "allusionId": "jiatumieguo"
+    "allusionId": "jiatumieguo",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 146,
@@ -4523,7 +6263,19 @@
       }
     ],
     "fullExplanation": "晋文公在践土会合诸侯举行盟会，确立了霸主地位。这是公元前632年城濮之战后晋文公召集的著名盟会。",
-    "allusionId": "jiantuhuimeng"
+    "allusionId": "jiantuhuimeng",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 147,
@@ -4554,7 +6306,19 @@
       }
     ],
     "fullExplanation": "萧何遵循简约宽和的法令治国。汉初刘邦入关约法三章，萧何据此制定简明法律，一改秦朝苛法，深得民心。",
-    "allusionId": "hezunyuefa"
+    "allusionId": "hezunyuefa",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 148,
@@ -4585,7 +6349,19 @@
       }
     ],
     "fullExplanation": "韩非子主张的繁苛刑罚反而导致弊害。与前句对比：萧何以简约之法治国兴邦，韩非以繁苛之刑治国却招致祸乱。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 149,
@@ -4616,7 +6392,19 @@
       }
     ],
     "fullExplanation": "白起、王翦、廉颇、李牧是战国时期最杰出的四位军事家。秦有白起王翦，赵有廉颇李牧，并称「战国四大名将」。",
-    "allusionId": "qijianpomu"
+    "allusionId": "qijianpomu",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 150,
@@ -4647,7 +6435,19 @@
       }
     ],
     "fullExplanation": "这四位名将运用军事谋略最为精妙。他们在战场上百战百胜，是古代军事艺术的巅峰代表。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 151,
@@ -4678,7 +6478,19 @@
       }
     ],
     "fullExplanation": "他们在北方大漠宣扬国威。形容名将征战四方，威名远播至边疆沙漠之地。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 152,
@@ -4709,7 +6521,19 @@
       }
     ],
     "fullExplanation": "他们的声誉流传于史册和画卷之中。丹青既指绘画，也代指史书（因古人用丹青记事），形容名将功业流芳百世。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 153,
@@ -4740,7 +6564,19 @@
       }
     ],
     "fullExplanation": "华夏九州留下了大禹治水的足迹。大禹治水走遍天下，将天下划分为九州（冀、兖、青、徐、扬、荆、豫、梁、雍），奠定了华夏版图。",
-    "allusionId": "jiuzhouyuji"
+    "allusionId": "jiuzhouyuji",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 154,
@@ -4771,7 +6607,19 @@
       }
     ],
     "fullExplanation": "秦始皇统一六国后，废分封、行郡县，将天下分为三十六郡（后增至四十余郡），实现了大一统。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 155,
@@ -4802,7 +6650,19 @@
       }
     ],
     "fullExplanation": "五岳之中以泰山为首。泰山又称岱宗、岱山，位于山东，是五岳之首，历代帝王封禅之地。",
-    "allusionId": "yuezongtaidai"
+    "allusionId": "yuezongtaidai",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 156,
@@ -4833,7 +6693,19 @@
       }
     ],
     "fullExplanation": "封禅大典中的禅祭主要在云云山和亭亭山举行。封为祭天于泰山之巅，禅为祭地于泰山附近的小山，合称封禅。",
-    "allusionId": "shanzhuyunting"
+    "allusionId": "shanzhuyunting",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 157,
@@ -4864,7 +6736,19 @@
       }
     ],
     "fullExplanation": "雁门关和万里长城是北方重要的军事要塞。雁门关位于山西，是抵御北方游牧民族的要隘；紫塞是长城的别称，因塞土紫色而得名。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 158,
@@ -4895,7 +6779,19 @@
       }
     ],
     "fullExplanation": "鸡田和赤城都是著名的边塞地名。鸡田在西北边地，赤城在河北北部，皆为古代重要的军事要地。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 159,
@@ -4926,7 +6822,19 @@
       }
     ],
     "fullExplanation": "昆明池和碣石山是著名的山水名胜。昆明池是汉武帝在长安开凿的大池，碣石山在河北，曹操曾登临赋诗「东临碣石，以观沧海」。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 160,
@@ -4957,7 +6865,19 @@
       }
     ],
     "fullExplanation": "钜野泽和洞庭湖是中国著名的大泽大湖。钜野泽在今山东，古代为黄河下游巨泽；洞庭湖在今湖南，是长江流域最大的淡水湖之一。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 161,
@@ -4988,7 +6908,19 @@
       }
     ],
     "fullExplanation": "山川大地辽阔深远，绵延悠长，望不到尽头。总结前文所列的名山大川，感叹华夏疆域之广袤。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 162,
@@ -5019,7 +6951,19 @@
       }
     ],
     "fullExplanation": "山岩峰峦和洞穴幽深昏暗，不可测度。描写大自然山川的幽邃神秘。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 163,
@@ -5050,7 +6994,19 @@
       }
     ],
     "fullExplanation": "治理国家的根本在于发展农业。古代以农为本，农业是国家赋税和百姓生计的根基。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 164,
@@ -5081,7 +7037,19 @@
       }
     ],
     "fullExplanation": "务必致力于耕种和收获的农事。稼指播种，穑指收割，合称稼穑，泛指农业劳动。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 165,
@@ -5112,7 +7080,19 @@
       }
     ],
     "fullExplanation": "开始在南面的田亩上耕种劳作。语出《诗经·周颂·载芟》，南亩是古代向阳的良田。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 166,
@@ -5143,7 +7123,19 @@
       }
     ],
     "fullExplanation": "我们在田中种植黍和稷等粮食作物。黍稷是古代最重要的粮食，也用以代指五谷。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 167,
@@ -5174,7 +7166,19 @@
       }
     ],
     "fullExplanation": "以成熟的谷物缴纳赋税，将新收获的粮食进贡朝廷。描写古代农业赋税制度的基本运作方式。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 168,
@@ -5205,7 +7209,19 @@
       }
     ],
     "fullExplanation": "用劝勉和奖赏来激励勤勉者，用贬退和提升来惩恶扬善。描写古代官吏考核和赏罚制度。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 169,
@@ -5236,7 +7252,19 @@
       }
     ],
     "fullExplanation": "孟子崇尚敦厚质朴的品德。孟子主张人性本善、仁义为先，其学说注重内在道德修养和朴素的为人之道。",
-    "allusionId": "mengkedunsu"
+    "allusionId": "mengkedunsu",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 170,
@@ -5267,7 +7295,19 @@
       }
     ],
     "fullExplanation": "卫国大夫史鱼一生秉持正直。他多次进谏卫灵公，死后仍以尸体陈于窗下进谏（「尸谏」），被孔子赞为「直哉史鱼」。",
-    "allusionId": "shiyubingzhi"
+    "allusionId": "shiyubingzhi",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 171,
@@ -5298,7 +7338,19 @@
       }
     ],
     "fullExplanation": "做到以上品行，就差不多接近中庸之道了。「中庸」是儒家最高的道德标准，强调不偏不倚、恰如其分。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 172,
@@ -5329,7 +7381,19 @@
       }
     ],
     "fullExplanation": "勤劳谦逊，谨慎自律。「劳谦」语出《易经·谦卦》'劳谦君子，有终吉'，意为勤劳谦虚的君子终有好结果。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 173,
@@ -5360,7 +7424,19 @@
       }
     ],
     "fullExplanation": "善于聆听别人说话，从中考察其中的道理。强调用心倾听、明辨是非的能力。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 174,
@@ -5391,7 +7467,19 @@
       }
     ],
     "fullExplanation": "观察别人的面貌表情，分辨对方的神色变化。指善于察言观色，体察他人心意。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 175,
@@ -5422,7 +7510,19 @@
       }
     ],
     "fullExplanation": "要留下美好的计谋和策略给后人。指为子孙后代留下好的教导和谋划。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 176,
@@ -5453,7 +7553,19 @@
       }
     ],
     "fullExplanation": "勉励自己恭恭敬敬地培植德行、树立品节。强调自我砥砺、端正品行。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 177,
@@ -5484,7 +7596,19 @@
       }
     ],
     "fullExplanation": "时刻反省自身的行为，虚心接受别人的规劝和告诫。自省与纳谏并重。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 178,
@@ -5515,7 +7639,19 @@
       }
     ],
     "fullExplanation": "受到的恩宠不断增加，地位高到了极点，就要警惕盛极必衰、物极必反。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 179,
@@ -5546,7 +7682,19 @@
       }
     ],
     "fullExplanation": "不知进退就会接近危殆和耻辱。与上句呼应，告诫人要懂得适时退让。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 180,
@@ -5577,7 +7725,19 @@
       }
     ],
     "fullExplanation": "能退隐到山林泽畔之间是幸运的事情。指在功成名就时急流勇退，方为明智。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 181,
@@ -5608,7 +7768,19 @@
       }
     ],
     "fullExplanation": "汉代疏广、疏受叔侄二人见机行事，在位高权重之时主动辞官归乡，是急流勇退的典范。",
-    "allusionId": "liangshujianji"
+    "allusionId": "liangshujianji",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 182,
@@ -5639,7 +7811,19 @@
       }
     ],
     "fullExplanation": "解下官印的绶带辞去官职，并不是受人逼迫。承接上句，强调二疏是自愿辞官、全身而退。",
-    "allusionId": "liangshujianji"
+    "allusionId": "liangshujianji",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 183,
@@ -5670,7 +7854,19 @@
       }
     ],
     "fullExplanation": "独自居住，闲适度日。描写辞官归隐后清闲自在的生活状态。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 184,
@@ -5701,7 +7897,19 @@
       }
     ],
     "fullExplanation": "沉静不语，安享寂寥。描写隐居生活的安宁清静、自得其乐。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 185,
@@ -5732,7 +7940,19 @@
       }
     ],
     "fullExplanation": "探求古人的事迹，寻觅先贤的议论。指隐居之后以读书为乐、怡然自得。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 186,
@@ -5763,7 +7983,19 @@
       }
     ],
     "fullExplanation": "排遣心中的杂念忧虑，过逍遥自在的生活。与上句相呼应，写隐居后的精神自由。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 187,
@@ -5794,7 +8026,19 @@
       }
     ],
     "fullExplanation": "感到欢欣时就演奏音乐，屡次借此消遣排解。描写隐居生活的怡然自乐。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 188,
@@ -5825,7 +8069,19 @@
       }
     ],
     "fullExplanation": "忧愁逐渐消退，欢乐随之到来。说明隐居自得其乐、远离烦忧的心境。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 189,
@@ -5856,7 +8112,19 @@
       }
     ],
     "fullExplanation": "水渠中的荷花色彩鲜明亮丽。「的历」形容颜色鲜艳、光彩照人。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 190,
@@ -5887,7 +8155,19 @@
       }
     ],
     "fullExplanation": "园中的草木抽出了新的枝条。描写春夏时节万物生长的景象。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 191,
@@ -5918,7 +8198,19 @@
       }
     ],
     "fullExplanation": "枇杷树到了深秋时节依然翠绿不凋。枇杷为常绿果树，经冬不谢。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 192,
@@ -5949,7 +8241,19 @@
       }
     ],
     "fullExplanation": "梧桐到了秋天很早就落叶凋零。与枇杷形成对比，说明草木各有时令。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 193,
@@ -5980,7 +8284,19 @@
       }
     ],
     "fullExplanation": "陈旧的树根已经枯萎，被落叶覆盖遮蔽。描绘深秋草木凋零的萧瑟景象。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 194,
@@ -6011,7 +8327,19 @@
       }
     ],
     "fullExplanation": "落叶在风中飘荡摇曳。承接上句，写秋冬草木凋零、叶落随风的景象。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 195,
@@ -6042,7 +8370,19 @@
       }
     ],
     "fullExplanation": "大鹏鸟独自在天空翱翔运转。化用《庄子·逍遥游》鲲鹏展翅的意象，象征超然独立。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 196,
@@ -6073,7 +8413,19 @@
       }
     ],
     "fullExplanation": "凌空直上，高飞接近赤红色的云霄。承接上句，描写大鸟高飞入云的壮丽景象。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 197,
@@ -6104,7 +8456,19 @@
       }
     ],
     "fullExplanation": "沉迷于读书，在市集书肆中流连忘返。典出汉代王充少年家贫，在洛阳书肆中站着阅读群书。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 198,
@@ -6135,7 +8499,19 @@
       }
     ],
     "fullExplanation": "把目光寄托在书囊书箱之中，形容随身携书、手不释卷的好学精神。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 199,
@@ -6166,7 +8542,19 @@
       }
     ],
     "fullExplanation": "言辞轻率是最可畏惧的事情。语出《诗经》，提醒人们说话不可轻忽随便。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 200,
@@ -6197,7 +8585,19 @@
       }
     ],
     "fullExplanation": "小心有人贴着耳朵在墙壁后偷听。告诫人说话要谨慎，正所谓隔墙有耳。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 201,
@@ -6228,7 +8628,19 @@
       }
     ],
     "fullExplanation": "备办好膳食来吃饭。以下几句描写日常饮食起居的生活场景。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 202,
@@ -6259,7 +8671,19 @@
       }
     ],
     "fullExplanation": "饮食只求合乎口味、填饱肚子即可。强调饮食不必奢靡，满足基本需求即可。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 203,
@@ -6290,7 +8714,19 @@
       }
     ],
     "fullExplanation": "吃饱了的时候享用精美的烹煮宰杀之物。描写富裕时的饮食状况。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 204,
@@ -6321,7 +8757,19 @@
       }
     ],
     "fullExplanation": "饥饿的时候连粗劣的酒糟米糠也觉得满足。与上句对比，说明饮食因境遇而异。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 205,
@@ -6352,7 +8800,19 @@
       }
     ],
     "fullExplanation": "对待亲属和老朋友要讲究礼节。以下几句谈及家庭人伦关系。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 206,
@@ -6383,7 +8843,19 @@
       }
     ],
     "fullExplanation": "老人和年轻人的饮食应当有所区别。古人讲究尊老敬老，饮食起居要因年龄而异。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 207,
@@ -6414,7 +8886,19 @@
       }
     ],
     "fullExplanation": "妾侍们侍奉家主，从事纺纱织布的家务。描写古代家庭中的女性劳作。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 208,
@@ -6445,7 +8929,19 @@
       }
     ],
     "fullExplanation": "侍候巾帕盥洗之物，料理帷帐卧房的日常事务。描写家中女眷的日常服侍。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 209,
@@ -6476,7 +8972,19 @@
       }
     ],
     "fullExplanation": "细白的纨扇圆润而洁净。描写居室中精致的日用器物。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 210,
@@ -6507,7 +9015,19 @@
       }
     ],
     "fullExplanation": "银色的蜡烛光辉灿烂。描写富贵人家灯火通明的夜晚景象。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 211,
@@ -6538,7 +9058,19 @@
       }
     ],
     "fullExplanation": "白天可以小憩，夜晚安然入睡。描写悠闲安逸的起居生活。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 212,
@@ -6569,7 +9101,19 @@
       }
     ],
     "fullExplanation": "铺着蓝色竹席，睡着象牙装饰的床榻。描写富贵人家卧室的精美陈设。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 213,
@@ -6600,7 +9144,19 @@
       }
     ],
     "fullExplanation": "弹琴唱歌、饮酒设宴。描写宴饮欢聚的场景。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 214,
@@ -6631,7 +9187,19 @@
       }
     ],
     "fullExplanation": "接过酒杯、举杯畅饮。承接上句，描写宴席上宾主尽欢的热闹场面。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 215,
@@ -6662,7 +9230,19 @@
       }
     ],
     "fullExplanation": "扬手跺脚，翩翩起舞。描写宴席间宾客尽兴歌舞的欢乐场面。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 216,
@@ -6693,7 +9273,19 @@
       }
     ],
     "fullExplanation": "心情欢悦快乐，而且身体安康。总结宴饮歌舞带来的愉悦与祥和。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 217,
@@ -6724,7 +9316,19 @@
       }
     ],
     "fullExplanation": "嫡系后代传宗接代，血脉延续不断。以下转入祭祀礼仪的主题。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 218,
@@ -6755,7 +9359,19 @@
       }
     ],
     "fullExplanation": "按照时令祭祀祖先。「烝」为冬祭，「尝」为秋祭，合指四时祭祀不辍。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 219,
@@ -6786,7 +9402,19 @@
       }
     ],
     "fullExplanation": "叩头触地，再次跪拜行礼。「稽颡」是最隆重的叩拜之礼，额头触地以示至诚。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 220,
@@ -6817,7 +9445,19 @@
       }
     ],
     "fullExplanation": "祭祀时心中充满敬畏恐惧和惶恐不安。表达对祖先神灵的虔诚敬畏之情。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 221,
@@ -6848,7 +9488,19 @@
       }
     ],
     "fullExplanation": "写信、撰写文书要简洁扼要。提倡行文简练、不尚繁冗。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 222,
@@ -6879,7 +9531,19 @@
       }
     ],
     "fullExplanation": "回复应答时要审慎周详。与上句相对：写信宜简，答复宜详。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 223,
@@ -6910,7 +9574,19 @@
       }
     ],
     "fullExplanation": "身上有了污垢就想洗浴。以日常小事说明人之常情。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 224,
@@ -6941,7 +9617,19 @@
       }
     ],
     "fullExplanation": "身处炎热就盼望凉爽。语出《诗经·大雅·桑柔》'谁能执热，逝不以濯'，比喻人情趋利避害。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 225,
@@ -6972,7 +9660,19 @@
       }
     ],
     "fullExplanation": "驴、骡、小牛、公牛，都是常见的牲畜。以下列举日常生活中常见的动物。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 226,
@@ -7003,7 +9703,19 @@
       }
     ],
     "fullExplanation": "牲畜受惊后跳跃奔跑、昂首奔腾。形容动物矫健有力的动态。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 227,
@@ -7034,7 +9746,19 @@
       }
     ],
     "fullExplanation": "诛杀斩除贼人和盗匪。描写治安方面的惩恶扬善。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 228,
@@ -7065,7 +9789,19 @@
       }
     ],
     "fullExplanation": "捕获叛逆者和逃亡之人。承接上句，描述维护社会秩序的必要手段。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 229,
@@ -7096,7 +9832,19 @@
       }
     ],
     "fullExplanation": "吕布善于射箭（辕门射戟），宜僚擅长弄丸。以下列举古代各领域的能工巧匠和奇才。",
-    "allusionId": "busheliaowan"
+    "allusionId": "busheliaowan",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 230,
@@ -7127,7 +9875,19 @@
       }
     ],
     "fullExplanation": "嵇康擅长弹琴，阮籍擅长长啸。二人皆为竹林七贤，各有超然脱俗之风度。",
-    "allusionId": "jiqinruanxiao"
+    "allusionId": "jiqinruanxiao",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 231,
@@ -7158,7 +9918,19 @@
       }
     ],
     "fullExplanation": "蒙恬改良了毛笔，蔡伦改进了造纸术。二人的发明对中华文明产生了深远影响。",
-    "allusionId": "tianbilunzhi"
+    "allusionId": "tianbilunzhi",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 232,
@@ -7189,7 +9961,19 @@
       }
     ],
     "fullExplanation": "马钧以巧思著称，善于发明制造；任公子以巨钩大饵垂钓于东海，钓得大鱼。典出《庄子·外物》。",
-    "allusionId": "junqiaorendiao"
+    "allusionId": "junqiaorendiao",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 233,
@@ -7220,7 +10004,19 @@
       }
     ],
     "fullExplanation": "排解世间的纷争，有利于民众生活。总结以上各种技艺才能的社会价值。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 234,
@@ -7251,7 +10047,19 @@
       }
     ],
     "fullExplanation": "以上所述的各种才能都是美好而精妙的。总括前文列举的各种奇才异能。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 235,
@@ -7282,7 +10090,19 @@
       }
     ],
     "fullExplanation": "毛嫱和西施都有美好的姿容。毛嫱与西施并称，是古代美女的代表。",
-    "allusionId": "maoshishuzhi"
+    "allusionId": "maoshishuzhi",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 236,
@@ -7313,7 +10133,19 @@
       }
     ],
     "fullExplanation": "无论皱眉还是微笑都美丽动人。化用「东施效颦」的典故，强调美人举手投足皆成风韵。",
-    "allusionId": "maoshishuzhi"
+    "allusionId": "maoshishuzhi",
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 237,
@@ -7344,7 +10176,19 @@
       }
     ],
     "fullExplanation": "光阴如箭般飞逝，时刻催促着人们。感叹岁月无情，人生苦短。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 238,
@@ -7375,7 +10219,19 @@
       }
     ],
     "fullExplanation": "阳光明亮地照耀大地。虽然光阴催人，但日月光辉依然明亮不息。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 239,
@@ -7406,7 +10262,19 @@
       }
     ],
     "fullExplanation": "北斗星悬挂在天空旋转运行。「璇玑」指北斗星或天体仪器，象征天体运行不息。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 240,
@@ -7437,7 +10305,19 @@
       }
     ],
     "fullExplanation": "月亮在晦朔之间盈亏交替，循环不已地照耀大地。与上句对仗，日月运行永无止息。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 241,
@@ -7468,7 +10348,19 @@
       }
     ],
     "fullExplanation": "如同薪尽火传一般，不断修积福分。语出《庄子·养生主》'指穷于为薪，火传也，不知其尽也'。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 242,
@@ -7499,7 +10391,19 @@
       }
     ],
     "fullExplanation": "祈愿永远安宁、吉祥、美好。表达对未来世代的美好祝愿。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 243,
@@ -7530,7 +10434,19 @@
       }
     ],
     "fullExplanation": "走路步伐端正合乎规矩，伸直脖颈仪态庄重。形容在朝为官举止端庄。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 244,
@@ -7561,7 +10477,19 @@
       }
     ],
     "fullExplanation": "在庙堂廊院之中俯仰行礼、进退得体。指在朝廷上合乎礼仪、从容自如。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 245,
@@ -7592,7 +10520,19 @@
       }
     ],
     "fullExplanation": "束紧衣带，庄重严肃。形容人穿戴整齐、仪表端庄。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 246,
@@ -7623,7 +10563,19 @@
       }
     ],
     "fullExplanation": "来回徘徊，瞻望远眺。描写在庙堂之外四处瞻望、体察民情的姿态。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 247,
@@ -7654,7 +10606,19 @@
       }
     ],
     "fullExplanation": "自谦学识浅薄、见闻寡少。作者在全文结尾以谦辞自称，是古代文人的惯例。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 248,
@@ -7685,7 +10649,19 @@
       }
     ],
     "fullExplanation": "自己愚昧蒙昧，难免招致他人的讥笑。继续自谦，是古代文人写作的惯例结语。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 249,
@@ -7716,7 +10692,19 @@
       }
     ],
     "fullExplanation": "以上所用到的语气助词。接下来列举「焉哉乎也」四个语气助词，为全文收尾。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   },
   {
     "id": 250,
@@ -7747,6 +10735,18 @@
       }
     ],
     "fullExplanation": "「焉」「哉」「乎」「也」四个文言语气助词。《千字文》以此四字收尾，既凑足千字，又别具一格地以虚词作结。",
-    "allusionId": null
+    "allusionId": null,
+    "jyutping": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "teochew": [
+      "",
+      "",
+      "",
+      ""
+    ]
   }
 ]
