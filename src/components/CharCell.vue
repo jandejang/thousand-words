@@ -14,7 +14,7 @@
     </div>
     <div class="char-chars">
       <ruby v-for="(ch, i) in char.text" :key="i">
-        {{ ch }}<rt>{{ char.pinyin[i] }}</rt>
+        {{ ch }}<rt>{{ displayPinyin[i] }}</rt>
       </ruby>
     </div>
     <div v-if="hovered && !showMeaning" class="tooltip">{{ char.briefMeaning }}</div>
@@ -23,12 +23,22 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
+import { usePronunciation } from '../composables/usePronunciation.js'
 
-defineProps({
+const props = defineProps({
   char: { type: Object, required: true },
   showMeaning: { type: Boolean, default: false },
   hasImage: { type: Boolean, default: false },
+})
+
+const { pinyinField } = usePronunciation()
+
+const displayPinyin = computed(() => {
+  const field = pinyinField.value
+  const arr = props.char[field]
+  if (arr && arr.every(p => p !== '')) return arr
+  return props.char.pinyin
 })
 
 defineEmits(['select'])
