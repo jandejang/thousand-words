@@ -1,14 +1,30 @@
 <template>
   <div class="char-detail">
-    <div class="detail-title">
-      <ruby v-for="(ch, i) in char.text" :key="i">
-        {{ ch }}<rt>{{ char.pinyin[i] }}</rt>
-      </ruby>
+    <div class="detail-header">
+      <div class="detail-title">
+        <ruby v-for="(ch, i) in char.text" :key="i">
+          {{ ch }}<rt>{{ displayPinyin[i] }}</rt>
+        </ruby>
+      </div>
+      <PlayButton
+        :src="audio.buildPhraseUrl(currentLang, char.id)"
+        :playing="audio.playing.value && audio.currentSrc.value === audio.buildPhraseUrl(currentLang, char.id)"
+        @play="audio.toggle($event)"
+      />
     </div>
 
     <div class="annotation-grid">
-      <div v-for="a in char.charAnnotations" :key="a.char" class="annotation-card">
-        <div class="anno-char">{{ a.char }}</div>
+      <div v-for="(a, i) in char.charAnnotations" :key="a.char" class="annotation-card">
+        <div class="anno-top">
+          <div class="anno-char">{{ a.char }}</div>
+          <PlayButton
+            size="small"
+            :src="audio.buildCharUrl(currentLang, a.char)"
+            :playing="audio.playing.value && audio.currentSrc.value === audio.buildCharUrl(currentLang, a.char)"
+            @play="audio.toggle($event)"
+          />
+        </div>
+        <div class="anno-pinyin">{{ displayPinyin[i] }}</div>
         <div class="anno-meaning">{{ a.meaning }}</div>
       </div>
     </div>
@@ -26,8 +42,23 @@
 </template>
 
 <script setup>
-defineProps({
+import { computed } from 'vue'
+import { usePronunciation } from '../composables/usePronunciation.js'
+import { useAudio } from '../composables/useAudio.js'
+import PlayButton from './PlayButton.vue'
+
+const props = defineProps({
   char: { type: Object, required: true },
+})
+
+const { current: currentLang, pinyinField } = usePronunciation()
+const audio = useAudio()
+
+const displayPinyin = computed(() => {
+  const field = pinyinField.value
+  const arr = props.char[field]
+  if (arr && arr.every(p => p !== '')) return arr
+  return props.char.pinyin
 })
 </script>
 
@@ -39,11 +70,18 @@ defineProps({
   border: 1px solid var(--border);
 }
 
+.detail-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
 .detail-title {
   display: flex;
   justify-content: center;
   gap: 16px;
-  margin-bottom: 16px;
 }
 
 .detail-title ruby {
@@ -71,10 +109,24 @@ defineProps({
   border-radius: 6px;
 }
 
+.anno-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
 .anno-char {
   font-size: 24px;
   color: var(--text);
   font-family: "Noto Serif SC", "Source Han Serif SC", serif;
+}
+
+.anno-pinyin {
+  font-size: 11px;
+  color: var(--accent);
+  margin-top: 2px;
+  opacity: 0.7;
 }
 
 .anno-meaning {
