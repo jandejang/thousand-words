@@ -15,17 +15,16 @@
 
     <div class="annotation-grid">
       <div v-for="(a, i) in char.charAnnotations" :key="a.char" class="annotation-card">
-        <div class="anno-pinyin-row">
-          <span class="anno-pinyin">{{ displayPinyin[i] }}</span>
-          <PlayButton
-            size="small"
-            :src="audio.buildCharUrl(currentLang, a.char)"
-            :playing="audio.playing.value && audio.currentSrc.value === audio.buildCharUrl(currentLang, a.char)"
-            @play="audio.toggle($event)"
-          />
-        </div>
+        <div class="anno-pinyin">{{ displayPinyin[i] }}</div>
         <div class="anno-char">{{ a.char }}</div>
         <div class="anno-meaning">{{ a.meaning }}</div>
+        <PlayButton
+          class="anno-play"
+          size="small"
+          :src="audio.buildCharUrl(currentLang, a.char)"
+          :playing="audio.playing.value && audio.currentSrc.value === audio.buildCharUrl(currentLang, a.char)"
+          @play="audio.toggle($event)"
+        />
       </div>
     </div>
 
@@ -107,21 +106,20 @@ const displayPinyin = computed(() => {
   padding: 8px;
   background: color-mix(in srgb, var(--bg) 60%, transparent);
   border-radius: 6px;
-}
-
-.anno-pinyin-row {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 2px;
-  height: 18px;
-  margin-bottom: 2px;
+  position: relative;
 }
 
 .anno-pinyin {
   font-size: 11px;
   color: var(--accent);
   opacity: 0.7;
+  margin-bottom: 2px;
+}
+
+.anno-play {
+  position: absolute;
+  top: 6px;
+  right: 4px;
 }
 
 .anno-char {
