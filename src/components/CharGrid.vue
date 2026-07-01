@@ -2,7 +2,10 @@
   <div class="page">
     <header class="page-header">
       <h1 class="page-title">千字文</h1>
-      <ThemeSwitch />
+      <div class="header-controls">
+        <PronunciationSwitch />
+        <ThemeSwitch />
+      </div>
     </header>
 
     <div class="grid-scroll">
@@ -58,6 +61,7 @@ import { ref, computed, onMounted, onUnmounted } from 'vue'
 import CharCell from './CharCell.vue'
 import CharDetail from './CharDetail.vue'
 import ThemeSwitch from './ThemeSwitch.vue'
+import PronunciationSwitch from './PronunciationSwitch.vue'
 import charactersData from '../data/characters.json'
 import allusionsData from '../data/allusions.json'
 import groupsData from '../data/groups.json'
@@ -183,6 +187,12 @@ function isRowEnd(chars, index) {
   padding: calc(20px + env(safe-area-inset-top, 0px)) 16px 12px;
   border-bottom: 1px solid var(--border);
   flex-shrink: 0;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
 .page-title {
